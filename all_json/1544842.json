@@ -1,0 +1,4520 @@
+{
+  "meta": {
+    "data_version": "1.3.0",
+    "created": "2026-09-27",
+    "revision": 1
+  },
+  "info": {
+    "balls_per_over": 6,
+    "city": "Perth",
+    "dates": [
+      "2026-09-18"
+    ],
+    "event": {
+      "name": "One-Day Cup (Australia)",
+      "match_number": 1
+    },
+    "gender": "male",
+    "match_type": "ODM",
+    "officials": {
+      "match_referees": [
+        "CA Burke"
+      ],
+      "umpires": [
+        "BC Treloar",
+        "Troy Penman"
+      ]
+    },
+    "outcome": {
+      "result": "no result"
+    },
+    "overs": 50,
+    "players": {
+      "Western Australia": [
+        "S Fanning",
+        "JL Curtis",
+        "CT Bancroft",
+        "W Malajczuk",
+        "AJ Turner",
+        "HWR Cartwright",
+        "AC Agar",
+        "KJS Elliott",
+        "BL Couch",
+        "A Esterhuysen",
+        "M Beardman"
+      ],
+      "South Australia": [
+        "MW Harvey",
+        "J Fraser-McGurk",
+        "J Weatherald",
+        "HJ Hunt",
+        "M Gilkes",
+        "J Wadia",
+        "BAD Manenti",
+        "N McAndrew",
+        "HTRY Thornton",
+        "WA Agar",
+        "JS Buckingham"
+      ]
+    },
+    "registry": {
+      "people": {
+        "A Esterhuysen": "d12f9a43",
+        "AC Agar": "a2421394",
+        "AJ Turner": "ff1e12a0",
+        "BAD Manenti": "ab21795b",
+        "BC Treloar": "f7e8ee52",
+        "BL Couch": "be69e09d",
+        "CA Burke": "629654e6",
+        "CT Bancroft": "399b0b94",
+        "HJ Hunt": "62ef4abe",
+        "HTRY Thornton": "055be93a",
+        "HWR Cartwright": "ab965cad",
+        "J Fraser-McGurk": "9b6e1b3f",
+        "J Wadia": "6ef38020",
+        "J Weatherald": "edc7ddb6",
+        "JL Curtis": "a4349861",
+        "JS Buckingham": "10735e1d",
+        "KJS Elliott": "339243d6",
+        "M Beardman": "b5a12740",
+        "M Gilkes": "d85b0f8b",
+        "MW Harvey": "47dc9794",
+        "N McAndrew": "38c276e1",
+        "S Fanning": "a9d2dab9",
+        "Troy Penman": "0aa42c26",
+        "W Malajczuk": "2d695f1c",
+        "WA Agar": "15de1f5d"
+      },
+      "venues": {
+        "WACA, Perth": "1fdf4def"
+      }
+    },
+    "season": "2026/27",
+    "team_type": "club",
+    "teams": [
+      "Western Australia",
+      "South Australia"
+    ],
+    "toss": {
+      "decision": "field",
+      "winner": "South Australia"
+    },
+    "venue": "WACA, Perth"
+  },
+  "innings": [
+    {
+      "team": "Western Australia",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "actual_delivery": "0.1",
+              "batter": "S Fanning",
+              "bowler": "JS Buckingham",
+              "non_striker": "JL Curtis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.2",
+              "batter": "S Fanning",
+              "bowler": "JS Buckingham",
+              "non_striker": "JL Curtis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.3",
+              "batter": "S Fanning",
+              "bowler": "JS Buckingham",
+              "non_striker": "JL Curtis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.4",
+              "batter": "S Fanning",
+              "bowler": "JS Buckingham",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "JL Curtis",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "0.5",
+              "batter": "JL Curtis",
+              "bowler": "JS Buckingham",
+              "non_striker": "S Fanning",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.6",
+              "batter": "JL Curtis",
+              "bowler": "JS Buckingham",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "S Fanning",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "0.6",
+              "batter": "JL Curtis",
+              "bowler": "JS Buckingham",
+              "non_striker": "S Fanning",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "actual_delivery": "1.1",
+              "batter": "S Fanning",
+              "bowler": "N McAndrew",
+              "non_striker": "JL Curtis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.2",
+              "batter": "S Fanning",
+              "bowler": "N McAndrew",
+              "non_striker": "JL Curtis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.3",
+              "batter": "S Fanning",
+              "bowler": "N McAndrew",
+              "non_striker": "JL Curtis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.4",
+              "batter": "S Fanning",
+              "bowler": "N McAndrew",
+              "non_striker": "JL Curtis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.5",
+              "batter": "S Fanning",
+              "bowler": "N McAndrew",
+              "non_striker": "JL Curtis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.6",
+              "batter": "S Fanning",
+              "bowler": "N McAndrew",
+              "non_striker": "JL Curtis",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "actual_delivery": "2.1",
+              "batter": "JL Curtis",
+              "bowler": "JS Buckingham",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "S Fanning",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "2.2",
+              "batter": "S Fanning",
+              "bowler": "JS Buckingham",
+              "non_striker": "JL Curtis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.3",
+              "batter": "S Fanning",
+              "bowler": "JS Buckingham",
+              "non_striker": "JL Curtis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.4",
+              "batter": "S Fanning",
+              "bowler": "JS Buckingham",
+              "non_striker": "JL Curtis",
+              "runs": {
+                "batter": 3,
+                "extras": 0,
+                "total": 3
+              }
+            },
+            {
+              "actual_delivery": "2.5",
+              "batter": "JL Curtis",
+              "bowler": "JS Buckingham",
+              "non_striker": "S Fanning",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.6",
+              "batter": "JL Curtis",
+              "bowler": "JS Buckingham",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "S Fanning",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "actual_delivery": "3.1",
+              "batter": "JL Curtis",
+              "bowler": "N McAndrew",
+              "non_striker": "S Fanning",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.2",
+              "batter": "JL Curtis",
+              "bowler": "N McAndrew",
+              "non_striker": "S Fanning",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "3.3",
+              "batter": "S Fanning",
+              "bowler": "N McAndrew",
+              "non_striker": "JL Curtis",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "3.4",
+              "batter": "JL Curtis",
+              "bowler": "N McAndrew",
+              "non_striker": "S Fanning",
+              "runs": {
+                "batter": 3,
+                "extras": 0,
+                "total": 3
+              }
+            },
+            {
+              "actual_delivery": "3.5",
+              "batter": "S Fanning",
+              "bowler": "N McAndrew",
+              "non_striker": "JL Curtis",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "3.6",
+              "batter": "JL Curtis",
+              "bowler": "N McAndrew",
+              "non_striker": "S Fanning",
+              "runs": {
+                "batter": 3,
+                "extras": 0,
+                "total": 3
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "actual_delivery": "4.1",
+              "batter": "JL Curtis",
+              "bowler": "JS Buckingham",
+              "non_striker": "S Fanning",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.2",
+              "batter": "JL Curtis",
+              "bowler": "JS Buckingham",
+              "non_striker": "S Fanning",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "4.3",
+              "batter": "JL Curtis",
+              "bowler": "JS Buckingham",
+              "non_striker": "S Fanning",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.4",
+              "batter": "JL Curtis",
+              "bowler": "JS Buckingham",
+              "non_striker": "S Fanning",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "4.5",
+              "batter": "JL Curtis",
+              "bowler": "JS Buckingham",
+              "non_striker": "S Fanning",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.6",
+              "batter": "JL Curtis",
+              "bowler": "JS Buckingham",
+              "non_striker": "S Fanning",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "actual_delivery": "5.1",
+              "batter": "S Fanning",
+              "bowler": "N McAndrew",
+              "non_striker": "JL Curtis",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "5.2",
+              "batter": "JL Curtis",
+              "bowler": "N McAndrew",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "S Fanning",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "5.3",
+              "batter": "S Fanning",
+              "bowler": "N McAndrew",
+              "non_striker": "JL Curtis",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "5.4",
+              "batter": "JL Curtis",
+              "bowler": "N McAndrew",
+              "non_striker": "S Fanning",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "5.5",
+              "batter": "S Fanning",
+              "bowler": "N McAndrew",
+              "non_striker": "JL Curtis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.6",
+              "batter": "S Fanning",
+              "bowler": "N McAndrew",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "JL Curtis",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "5.6",
+              "batter": "S Fanning",
+              "bowler": "N McAndrew",
+              "non_striker": "JL Curtis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "actual_delivery": "6.1",
+              "batter": "JL Curtis",
+              "bowler": "JS Buckingham",
+              "non_striker": "S Fanning",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "6.2",
+              "batter": "JL Curtis",
+              "bowler": "JS Buckingham",
+              "non_striker": "S Fanning",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.3",
+              "batter": "S Fanning",
+              "bowler": "JS Buckingham",
+              "non_striker": "JL Curtis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "6.4",
+              "batter": "S Fanning",
+              "bowler": "JS Buckingham",
+              "non_striker": "JL Curtis",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "6.5",
+              "batter": "S Fanning",
+              "bowler": "JS Buckingham",
+              "non_striker": "JL Curtis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "6.6",
+              "batter": "S Fanning",
+              "bowler": "JS Buckingham",
+              "non_striker": "JL Curtis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "actual_delivery": "7.1",
+              "batter": "JL Curtis",
+              "bowler": "WA Agar",
+              "non_striker": "S Fanning",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "7.2",
+              "batter": "JL Curtis",
+              "bowler": "WA Agar",
+              "non_striker": "S Fanning",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "7.3",
+              "batter": "JL Curtis",
+              "bowler": "WA Agar",
+              "non_striker": "S Fanning",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "7.4",
+              "batter": "JL Curtis",
+              "bowler": "WA Agar",
+              "non_striker": "S Fanning",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "7.5",
+              "batter": "S Fanning",
+              "bowler": "WA Agar",
+              "non_striker": "JL Curtis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "7.6",
+              "batter": "S Fanning",
+              "bowler": "WA Agar",
+              "non_striker": "JL Curtis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "actual_delivery": "8.1",
+              "batter": "JL Curtis",
+              "bowler": "HTRY Thornton",
+              "non_striker": "S Fanning",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "JL Curtis",
+                  "fielders": [
+                    {
+                      "name": "M Gilkes"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "8.2",
+              "batter": "CT Bancroft",
+              "bowler": "HTRY Thornton",
+              "non_striker": "S Fanning",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "8.3",
+              "batter": "CT Bancroft",
+              "bowler": "HTRY Thornton",
+              "extras": {
+                "legbyes": 4
+              },
+              "non_striker": "S Fanning",
+              "runs": {
+                "batter": 0,
+                "extras": 4,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "8.4",
+              "batter": "CT Bancroft",
+              "bowler": "HTRY Thornton",
+              "non_striker": "S Fanning",
+              "runs": {
+                "batter": 3,
+                "extras": 0,
+                "total": 3
+              }
+            },
+            {
+              "actual_delivery": "8.5",
+              "batter": "S Fanning",
+              "bowler": "HTRY Thornton",
+              "non_striker": "CT Bancroft",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "S Fanning",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "8.6",
+              "batter": "W Malajczuk",
+              "bowler": "HTRY Thornton",
+              "non_striker": "CT Bancroft",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "actual_delivery": "9.1",
+              "batter": "W Malajczuk",
+              "bowler": "WA Agar",
+              "non_striker": "CT Bancroft",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "9.2",
+              "batter": "W Malajczuk",
+              "bowler": "WA Agar",
+              "non_striker": "CT Bancroft",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "9.3",
+              "batter": "W Malajczuk",
+              "bowler": "WA Agar",
+              "non_striker": "CT Bancroft",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "9.4",
+              "batter": "W Malajczuk",
+              "bowler": "WA Agar",
+              "non_striker": "CT Bancroft",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "9.5",
+              "batter": "W Malajczuk",
+              "bowler": "WA Agar",
+              "non_striker": "CT Bancroft",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "9.6",
+              "batter": "W Malajczuk",
+              "bowler": "WA Agar",
+              "non_striker": "CT Bancroft",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "actual_delivery": "10.1",
+              "batter": "CT Bancroft",
+              "bowler": "HTRY Thornton",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "W Malajczuk",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "10.1",
+              "batter": "CT Bancroft",
+              "bowler": "HTRY Thornton",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "W Malajczuk",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "10.1",
+              "batter": "CT Bancroft",
+              "bowler": "HTRY Thornton",
+              "non_striker": "W Malajczuk",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "10.2",
+              "batter": "CT Bancroft",
+              "bowler": "HTRY Thornton",
+              "non_striker": "W Malajczuk",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "10.3",
+              "batter": "CT Bancroft",
+              "bowler": "HTRY Thornton",
+              "non_striker": "W Malajczuk",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "10.4",
+              "batter": "CT Bancroft",
+              "bowler": "HTRY Thornton",
+              "non_striker": "W Malajczuk",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "CT Bancroft",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "10.5",
+              "batter": "AJ Turner",
+              "bowler": "HTRY Thornton",
+              "non_striker": "W Malajczuk",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "10.6",
+              "batter": "AJ Turner",
+              "bowler": "HTRY Thornton",
+              "non_striker": "W Malajczuk",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "actual_delivery": "11.1",
+              "batter": "W Malajczuk",
+              "bowler": "WA Agar",
+              "non_striker": "AJ Turner",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "11.2",
+              "batter": "AJ Turner",
+              "bowler": "WA Agar",
+              "non_striker": "W Malajczuk",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "11.3",
+              "batter": "AJ Turner",
+              "bowler": "WA Agar",
+              "non_striker": "W Malajczuk",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "11.4",
+              "batter": "AJ Turner",
+              "bowler": "WA Agar",
+              "non_striker": "W Malajczuk",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "11.5",
+              "batter": "W Malajczuk",
+              "bowler": "WA Agar",
+              "non_striker": "AJ Turner",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "11.6",
+              "batter": "W Malajczuk",
+              "bowler": "WA Agar",
+              "non_striker": "AJ Turner",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "actual_delivery": "12.1",
+              "batter": "AJ Turner",
+              "bowler": "HTRY Thornton",
+              "non_striker": "W Malajczuk",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "12.2",
+              "batter": "AJ Turner",
+              "bowler": "HTRY Thornton",
+              "non_striker": "W Malajczuk",
+              "runs": {
+                "batter": 3,
+                "extras": 0,
+                "total": 3
+              }
+            },
+            {
+              "actual_delivery": "12.3",
+              "batter": "W Malajczuk",
+              "bowler": "HTRY Thornton",
+              "non_striker": "AJ Turner",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "12.4",
+              "batter": "W Malajczuk",
+              "bowler": "HTRY Thornton",
+              "non_striker": "AJ Turner",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "12.5",
+              "batter": "W Malajczuk",
+              "bowler": "HTRY Thornton",
+              "non_striker": "AJ Turner",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "12.6",
+              "batter": "W Malajczuk",
+              "bowler": "HTRY Thornton",
+              "non_striker": "AJ Turner",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "actual_delivery": "13.1",
+              "batter": "AJ Turner",
+              "bowler": "WA Agar",
+              "non_striker": "W Malajczuk",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "13.2",
+              "batter": "AJ Turner",
+              "bowler": "WA Agar",
+              "non_striker": "W Malajczuk",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "13.3",
+              "batter": "AJ Turner",
+              "bowler": "WA Agar",
+              "non_striker": "W Malajczuk",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "13.4",
+              "batter": "AJ Turner",
+              "bowler": "WA Agar",
+              "non_striker": "W Malajczuk",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "13.5",
+              "batter": "AJ Turner",
+              "bowler": "WA Agar",
+              "non_striker": "W Malajczuk",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "13.6",
+              "batter": "AJ Turner",
+              "bowler": "WA Agar",
+              "non_striker": "W Malajczuk",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "actual_delivery": "14.1",
+              "batter": "W Malajczuk",
+              "bowler": "HTRY Thornton",
+              "non_striker": "AJ Turner",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "14.2",
+              "batter": "W Malajczuk",
+              "bowler": "HTRY Thornton",
+              "non_striker": "AJ Turner",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "14.3",
+              "batter": "W Malajczuk",
+              "bowler": "HTRY Thornton",
+              "non_striker": "AJ Turner",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "14.4",
+              "batter": "AJ Turner",
+              "bowler": "HTRY Thornton",
+              "non_striker": "W Malajczuk",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "AJ Turner",
+                  "kind": "lbw"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "14.5",
+              "batter": "HWR Cartwright",
+              "bowler": "HTRY Thornton",
+              "non_striker": "W Malajczuk",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "14.6",
+              "batter": "HWR Cartwright",
+              "bowler": "HTRY Thornton",
+              "non_striker": "W Malajczuk",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "actual_delivery": "15.1",
+              "batter": "W Malajczuk",
+              "bowler": "WA Agar",
+              "non_striker": "HWR Cartwright",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "15.2",
+              "batter": "HWR Cartwright",
+              "bowler": "WA Agar",
+              "non_striker": "W Malajczuk",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "15.3",
+              "batter": "HWR Cartwright",
+              "bowler": "WA Agar",
+              "non_striker": "W Malajczuk",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "15.4",
+              "batter": "HWR Cartwright",
+              "bowler": "WA Agar",
+              "non_striker": "W Malajczuk",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "15.5",
+              "batter": "HWR Cartwright",
+              "bowler": "WA Agar",
+              "non_striker": "W Malajczuk",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "15.6",
+              "batter": "HWR Cartwright",
+              "bowler": "WA Agar",
+              "non_striker": "W Malajczuk",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "actual_delivery": "16.1",
+              "batter": "W Malajczuk",
+              "bowler": "HTRY Thornton",
+              "non_striker": "HWR Cartwright",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "16.2",
+              "batter": "W Malajczuk",
+              "bowler": "HTRY Thornton",
+              "non_striker": "HWR Cartwright",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "16.3",
+              "batter": "W Malajczuk",
+              "bowler": "HTRY Thornton",
+              "non_striker": "HWR Cartwright",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "16.4",
+              "batter": "W Malajczuk",
+              "bowler": "HTRY Thornton",
+              "non_striker": "HWR Cartwright",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "16.5",
+              "batter": "HWR Cartwright",
+              "bowler": "HTRY Thornton",
+              "non_striker": "W Malajczuk",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "16.6",
+              "batter": "W Malajczuk",
+              "bowler": "HTRY Thornton",
+              "non_striker": "HWR Cartwright",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "actual_delivery": "17.1",
+              "batter": "W Malajczuk",
+              "bowler": "J Wadia",
+              "non_striker": "HWR Cartwright",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "17.2",
+              "batter": "W Malajczuk",
+              "bowler": "J Wadia",
+              "non_striker": "HWR Cartwright",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "17.3",
+              "batter": "W Malajczuk",
+              "bowler": "J Wadia",
+              "non_striker": "HWR Cartwright",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "17.4",
+              "batter": "W Malajczuk",
+              "bowler": "J Wadia",
+              "non_striker": "HWR Cartwright",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "W Malajczuk",
+                  "fielders": [
+                    {
+                      "name": "J Weatherald"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "17.5",
+              "batter": "AC Agar",
+              "bowler": "J Wadia",
+              "non_striker": "HWR Cartwright",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "17.6",
+              "batter": "AC Agar",
+              "bowler": "J Wadia",
+              "non_striker": "HWR Cartwright",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "actual_delivery": "18.1",
+              "batter": "HWR Cartwright",
+              "bowler": "N McAndrew",
+              "extras": {
+                "legbyes": 2
+              },
+              "non_striker": "AC Agar",
+              "runs": {
+                "batter": 0,
+                "extras": 2,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "18.2",
+              "batter": "HWR Cartwright",
+              "bowler": "N McAndrew",
+              "non_striker": "AC Agar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "18.3",
+              "batter": "HWR Cartwright",
+              "bowler": "N McAndrew",
+              "non_striker": "AC Agar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "18.4",
+              "batter": "HWR Cartwright",
+              "bowler": "N McAndrew",
+              "non_striker": "AC Agar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "18.5",
+              "batter": "AC Agar",
+              "bowler": "N McAndrew",
+              "non_striker": "HWR Cartwright",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "18.6",
+              "batter": "HWR Cartwright",
+              "bowler": "N McAndrew",
+              "non_striker": "AC Agar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "actual_delivery": "19.1",
+              "batter": "HWR Cartwright",
+              "bowler": "J Wadia",
+              "non_striker": "AC Agar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "19.2",
+              "batter": "HWR Cartwright",
+              "bowler": "J Wadia",
+              "non_striker": "AC Agar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "19.3",
+              "batter": "HWR Cartwright",
+              "bowler": "J Wadia",
+              "non_striker": "AC Agar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "19.4",
+              "batter": "AC Agar",
+              "bowler": "J Wadia",
+              "non_striker": "HWR Cartwright",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "19.5",
+              "batter": "AC Agar",
+              "bowler": "J Wadia",
+              "non_striker": "HWR Cartwright",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "19.6",
+              "batter": "HWR Cartwright",
+              "bowler": "J Wadia",
+              "non_striker": "AC Agar",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 20,
+          "deliveries": [
+            {
+              "actual_delivery": "20.1",
+              "batter": "AC Agar",
+              "bowler": "N McAndrew",
+              "non_striker": "HWR Cartwright",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "20.2",
+              "batter": "AC Agar",
+              "bowler": "N McAndrew",
+              "non_striker": "HWR Cartwright",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "20.3",
+              "batter": "HWR Cartwright",
+              "bowler": "N McAndrew",
+              "non_striker": "AC Agar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "20.4",
+              "batter": "HWR Cartwright",
+              "bowler": "N McAndrew",
+              "non_striker": "AC Agar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "20.5",
+              "batter": "HWR Cartwright",
+              "bowler": "N McAndrew",
+              "non_striker": "AC Agar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "20.6",
+              "batter": "HWR Cartwright",
+              "bowler": "N McAndrew",
+              "non_striker": "AC Agar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 21,
+          "deliveries": [
+            {
+              "actual_delivery": "21.1",
+              "batter": "AC Agar",
+              "bowler": "J Wadia",
+              "non_striker": "HWR Cartwright",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "21.2",
+              "batter": "HWR Cartwright",
+              "bowler": "J Wadia",
+              "non_striker": "AC Agar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "21.3",
+              "batter": "AC Agar",
+              "bowler": "J Wadia",
+              "non_striker": "HWR Cartwright",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "21.4",
+              "batter": "HWR Cartwright",
+              "bowler": "J Wadia",
+              "non_striker": "AC Agar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "21.5",
+              "batter": "HWR Cartwright",
+              "bowler": "J Wadia",
+              "non_striker": "AC Agar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "21.6",
+              "batter": "HWR Cartwright",
+              "bowler": "J Wadia",
+              "non_striker": "AC Agar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 22,
+          "deliveries": [
+            {
+              "actual_delivery": "22.1",
+              "batter": "AC Agar",
+              "bowler": "N McAndrew",
+              "non_striker": "HWR Cartwright",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "22.2",
+              "batter": "AC Agar",
+              "bowler": "N McAndrew",
+              "non_striker": "HWR Cartwright",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "22.3",
+              "batter": "HWR Cartwright",
+              "bowler": "N McAndrew",
+              "non_striker": "AC Agar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "22.4",
+              "batter": "HWR Cartwright",
+              "bowler": "N McAndrew",
+              "non_striker": "AC Agar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "22.5",
+              "batter": "AC Agar",
+              "bowler": "N McAndrew",
+              "non_striker": "HWR Cartwright",
+              "runs": {
+                "batter": 3,
+                "extras": 0,
+                "total": 3
+              }
+            },
+            {
+              "actual_delivery": "22.6",
+              "batter": "HWR Cartwright",
+              "bowler": "N McAndrew",
+              "non_striker": "AC Agar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 23,
+          "deliveries": [
+            {
+              "actual_delivery": "23.1",
+              "batter": "AC Agar",
+              "bowler": "J Wadia",
+              "non_striker": "HWR Cartwright",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "23.2",
+              "batter": "AC Agar",
+              "bowler": "J Wadia",
+              "non_striker": "HWR Cartwright",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "23.3",
+              "batter": "AC Agar",
+              "bowler": "J Wadia",
+              "non_striker": "HWR Cartwright",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "23.4",
+              "batter": "AC Agar",
+              "bowler": "J Wadia",
+              "non_striker": "HWR Cartwright",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "23.5",
+              "batter": "AC Agar",
+              "bowler": "J Wadia",
+              "non_striker": "HWR Cartwright",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "23.6",
+              "batter": "AC Agar",
+              "bowler": "J Wadia",
+              "non_striker": "HWR Cartwright",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 24,
+          "deliveries": [
+            {
+              "actual_delivery": "24.1",
+              "batter": "HWR Cartwright",
+              "bowler": "JS Buckingham",
+              "non_striker": "AC Agar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "24.2",
+              "batter": "HWR Cartwright",
+              "bowler": "JS Buckingham",
+              "non_striker": "AC Agar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "24.3",
+              "batter": "HWR Cartwright",
+              "bowler": "JS Buckingham",
+              "non_striker": "AC Agar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "24.4",
+              "batter": "AC Agar",
+              "bowler": "JS Buckingham",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "HWR Cartwright",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "24.5",
+              "batter": "HWR Cartwright",
+              "bowler": "JS Buckingham",
+              "non_striker": "AC Agar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "24.6",
+              "batter": "AC Agar",
+              "bowler": "JS Buckingham",
+              "non_striker": "HWR Cartwright",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 25,
+          "deliveries": [
+            {
+              "actual_delivery": "25.1",
+              "batter": "HWR Cartwright",
+              "bowler": "J Wadia",
+              "non_striker": "AC Agar",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "25.2",
+              "batter": "HWR Cartwright",
+              "bowler": "J Wadia",
+              "non_striker": "AC Agar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "25.3",
+              "batter": "AC Agar",
+              "bowler": "J Wadia",
+              "non_striker": "HWR Cartwright",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "25.4",
+              "batter": "AC Agar",
+              "bowler": "J Wadia",
+              "non_striker": "HWR Cartwright",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "25.5",
+              "batter": "HWR Cartwright",
+              "bowler": "J Wadia",
+              "non_striker": "AC Agar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "25.6",
+              "batter": "AC Agar",
+              "bowler": "J Wadia",
+              "non_striker": "HWR Cartwright",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 26,
+          "deliveries": [
+            {
+              "actual_delivery": "26.1",
+              "batter": "HWR Cartwright",
+              "bowler": "JS Buckingham",
+              "non_striker": "AC Agar",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "26.2",
+              "batter": "HWR Cartwright",
+              "bowler": "JS Buckingham",
+              "non_striker": "AC Agar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "26.3",
+              "batter": "AC Agar",
+              "bowler": "JS Buckingham",
+              "non_striker": "HWR Cartwright",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "26.4",
+              "batter": "AC Agar",
+              "bowler": "JS Buckingham",
+              "non_striker": "HWR Cartwright",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "26.5",
+              "batter": "HWR Cartwright",
+              "bowler": "JS Buckingham",
+              "non_striker": "AC Agar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "26.6",
+              "batter": "HWR Cartwright",
+              "bowler": "JS Buckingham",
+              "non_striker": "AC Agar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 27,
+          "deliveries": [
+            {
+              "actual_delivery": "27.1",
+              "batter": "AC Agar",
+              "bowler": "J Wadia",
+              "non_striker": "HWR Cartwright",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "27.2",
+              "batter": "HWR Cartwright",
+              "bowler": "J Wadia",
+              "non_striker": "AC Agar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "27.3",
+              "batter": "AC Agar",
+              "bowler": "J Wadia",
+              "non_striker": "HWR Cartwright",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "27.4",
+              "batter": "AC Agar",
+              "bowler": "J Wadia",
+              "non_striker": "HWR Cartwright",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "27.5",
+              "batter": "HWR Cartwright",
+              "bowler": "J Wadia",
+              "non_striker": "AC Agar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "27.6",
+              "batter": "HWR Cartwright",
+              "bowler": "J Wadia",
+              "non_striker": "AC Agar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 28,
+          "deliveries": [
+            {
+              "actual_delivery": "28.1",
+              "batter": "AC Agar",
+              "bowler": "JS Buckingham",
+              "non_striker": "HWR Cartwright",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "AC Agar",
+                  "fielders": [
+                    {
+                      "name": "M Gilkes"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "28.2",
+              "batter": "KJS Elliott",
+              "bowler": "JS Buckingham",
+              "non_striker": "HWR Cartwright",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "28.3",
+              "batter": "HWR Cartwright",
+              "bowler": "JS Buckingham",
+              "non_striker": "KJS Elliott",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "28.4",
+              "batter": "KJS Elliott",
+              "bowler": "JS Buckingham",
+              "non_striker": "HWR Cartwright",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "28.5",
+              "batter": "KJS Elliott",
+              "bowler": "JS Buckingham",
+              "non_striker": "HWR Cartwright",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "28.6",
+              "batter": "KJS Elliott",
+              "bowler": "JS Buckingham",
+              "non_striker": "HWR Cartwright",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 29,
+          "deliveries": [
+            {
+              "actual_delivery": "29.1",
+              "batter": "HWR Cartwright",
+              "bowler": "WA Agar",
+              "non_striker": "KJS Elliott",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "29.2",
+              "batter": "HWR Cartwright",
+              "bowler": "WA Agar",
+              "non_striker": "KJS Elliott",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "HWR Cartwright",
+                  "fielders": [
+                    {
+                      "name": "M Gilkes"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "29.3",
+              "batter": "BL Couch",
+              "bowler": "WA Agar",
+              "non_striker": "KJS Elliott",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "29.4",
+              "batter": "BL Couch",
+              "bowler": "WA Agar",
+              "non_striker": "KJS Elliott",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "29.5",
+              "batter": "KJS Elliott",
+              "bowler": "WA Agar",
+              "non_striker": "BL Couch",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "29.6",
+              "batter": "KJS Elliott",
+              "bowler": "WA Agar",
+              "non_striker": "BL Couch",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 30,
+          "deliveries": [
+            {
+              "actual_delivery": "30.1",
+              "batter": "BL Couch",
+              "bowler": "JS Buckingham",
+              "non_striker": "KJS Elliott",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "30.2",
+              "batter": "BL Couch",
+              "bowler": "JS Buckingham",
+              "non_striker": "KJS Elliott",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "30.3",
+              "batter": "BL Couch",
+              "bowler": "JS Buckingham",
+              "non_striker": "KJS Elliott",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "30.4",
+              "batter": "BL Couch",
+              "bowler": "JS Buckingham",
+              "non_striker": "KJS Elliott",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "30.5",
+              "batter": "BL Couch",
+              "bowler": "JS Buckingham",
+              "non_striker": "KJS Elliott",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "30.6",
+              "batter": "BL Couch",
+              "bowler": "JS Buckingham",
+              "non_striker": "KJS Elliott",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 31,
+          "deliveries": [
+            {
+              "actual_delivery": "31.1",
+              "batter": "KJS Elliott",
+              "bowler": "WA Agar",
+              "non_striker": "BL Couch",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "31.2",
+              "batter": "KJS Elliott",
+              "bowler": "WA Agar",
+              "non_striker": "BL Couch",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "31.3",
+              "batter": "KJS Elliott",
+              "bowler": "WA Agar",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "BL Couch",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "31.3",
+              "batter": "KJS Elliott",
+              "bowler": "WA Agar",
+              "non_striker": "BL Couch",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "31.4",
+              "batter": "KJS Elliott",
+              "bowler": "WA Agar",
+              "non_striker": "BL Couch",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "31.5",
+              "batter": "BL Couch",
+              "bowler": "WA Agar",
+              "non_striker": "KJS Elliott",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "31.6",
+              "batter": "BL Couch",
+              "bowler": "WA Agar",
+              "non_striker": "KJS Elliott",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 32,
+          "deliveries": [
+            {
+              "actual_delivery": "32.1",
+              "batter": "KJS Elliott",
+              "bowler": "HTRY Thornton",
+              "non_striker": "BL Couch",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "32.2",
+              "batter": "KJS Elliott",
+              "bowler": "HTRY Thornton",
+              "non_striker": "BL Couch",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "32.3",
+              "batter": "KJS Elliott",
+              "bowler": "HTRY Thornton",
+              "non_striker": "BL Couch",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "32.4",
+              "batter": "BL Couch",
+              "bowler": "HTRY Thornton",
+              "non_striker": "KJS Elliott",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "32.5",
+              "batter": "BL Couch",
+              "bowler": "HTRY Thornton",
+              "non_striker": "KJS Elliott",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "32.6",
+              "batter": "KJS Elliott",
+              "bowler": "HTRY Thornton",
+              "non_striker": "BL Couch",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 33,
+          "deliveries": [
+            {
+              "actual_delivery": "33.1",
+              "batter": "BL Couch",
+              "bowler": "WA Agar",
+              "non_striker": "KJS Elliott",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "33.2",
+              "batter": "KJS Elliott",
+              "bowler": "WA Agar",
+              "non_striker": "BL Couch",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "33.3",
+              "batter": "KJS Elliott",
+              "bowler": "WA Agar",
+              "non_striker": "BL Couch",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "33.4",
+              "batter": "KJS Elliott",
+              "bowler": "WA Agar",
+              "non_striker": "BL Couch",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "33.5",
+              "batter": "BL Couch",
+              "bowler": "WA Agar",
+              "non_striker": "KJS Elliott",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "33.6",
+              "batter": "BL Couch",
+              "bowler": "WA Agar",
+              "non_striker": "KJS Elliott",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 34,
+          "deliveries": [
+            {
+              "actual_delivery": "34.1",
+              "batter": "KJS Elliott",
+              "bowler": "HTRY Thornton",
+              "non_striker": "BL Couch",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "34.2",
+              "batter": "KJS Elliott",
+              "bowler": "HTRY Thornton",
+              "non_striker": "BL Couch",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "34.3",
+              "batter": "KJS Elliott",
+              "bowler": "HTRY Thornton",
+              "non_striker": "BL Couch",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "34.4",
+              "batter": "KJS Elliott",
+              "bowler": "HTRY Thornton",
+              "non_striker": "BL Couch",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "34.5",
+              "batter": "KJS Elliott",
+              "bowler": "HTRY Thornton",
+              "non_striker": "BL Couch",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "34.6",
+              "batter": "KJS Elliott",
+              "bowler": "HTRY Thornton",
+              "non_striker": "BL Couch",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 35,
+          "deliveries": [
+            {
+              "actual_delivery": "35.1",
+              "batter": "BL Couch",
+              "bowler": "J Wadia",
+              "non_striker": "KJS Elliott",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "35.2",
+              "batter": "BL Couch",
+              "bowler": "J Wadia",
+              "non_striker": "KJS Elliott",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "35.3",
+              "batter": "BL Couch",
+              "bowler": "J Wadia",
+              "non_striker": "KJS Elliott",
+              "runs": {
+                "batter": 3,
+                "extras": 0,
+                "total": 3
+              }
+            },
+            {
+              "actual_delivery": "35.4",
+              "batter": "KJS Elliott",
+              "bowler": "J Wadia",
+              "non_striker": "BL Couch",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "35.5",
+              "batter": "BL Couch",
+              "bowler": "J Wadia",
+              "non_striker": "KJS Elliott",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "35.6",
+              "batter": "KJS Elliott",
+              "bowler": "J Wadia",
+              "non_striker": "BL Couch",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 36,
+          "deliveries": [
+            {
+              "actual_delivery": "36.1",
+              "batter": "BL Couch",
+              "bowler": "BAD Manenti",
+              "non_striker": "KJS Elliott",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "36.2",
+              "batter": "BL Couch",
+              "bowler": "BAD Manenti",
+              "non_striker": "KJS Elliott",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "36.3",
+              "batter": "BL Couch",
+              "bowler": "BAD Manenti",
+              "non_striker": "KJS Elliott",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "36.4",
+              "batter": "BL Couch",
+              "bowler": "BAD Manenti",
+              "non_striker": "KJS Elliott",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "36.5",
+              "batter": "BL Couch",
+              "bowler": "BAD Manenti",
+              "non_striker": "KJS Elliott",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "36.6",
+              "batter": "BL Couch",
+              "bowler": "BAD Manenti",
+              "non_striker": "KJS Elliott",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 37,
+          "deliveries": [
+            {
+              "actual_delivery": "37.1",
+              "batter": "KJS Elliott",
+              "bowler": "J Wadia",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "BL Couch",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "37.1",
+              "batter": "KJS Elliott",
+              "bowler": "J Wadia",
+              "non_striker": "BL Couch",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "37.2",
+              "batter": "BL Couch",
+              "bowler": "J Wadia",
+              "non_striker": "KJS Elliott",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "37.3",
+              "batter": "BL Couch",
+              "bowler": "J Wadia",
+              "non_striker": "KJS Elliott",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "37.4",
+              "batter": "BL Couch",
+              "bowler": "J Wadia",
+              "non_striker": "KJS Elliott",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "37.5",
+              "batter": "BL Couch",
+              "bowler": "J Wadia",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "KJS Elliott",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "37.6",
+              "batter": "KJS Elliott",
+              "bowler": "J Wadia",
+              "non_striker": "BL Couch",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 38,
+          "deliveries": [
+            {
+              "actual_delivery": "38.1",
+              "batter": "BL Couch",
+              "bowler": "BAD Manenti",
+              "non_striker": "KJS Elliott",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "38.2",
+              "batter": "BL Couch",
+              "bowler": "BAD Manenti",
+              "non_striker": "KJS Elliott",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "38.3",
+              "batter": "BL Couch",
+              "bowler": "BAD Manenti",
+              "non_striker": "KJS Elliott",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "38.4",
+              "batter": "BL Couch",
+              "bowler": "BAD Manenti",
+              "non_striker": "KJS Elliott",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "38.5",
+              "batter": "BL Couch",
+              "bowler": "BAD Manenti",
+              "non_striker": "KJS Elliott",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "38.6",
+              "batter": "BL Couch",
+              "bowler": "BAD Manenti",
+              "non_striker": "KJS Elliott",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 39,
+          "deliveries": [
+            {
+              "actual_delivery": "39.1",
+              "batter": "KJS Elliott",
+              "bowler": "J Wadia",
+              "non_striker": "BL Couch",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "39.2",
+              "batter": "KJS Elliott",
+              "bowler": "J Wadia",
+              "non_striker": "BL Couch",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "39.3",
+              "batter": "KJS Elliott",
+              "bowler": "J Wadia",
+              "non_striker": "BL Couch",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "39.4",
+              "batter": "KJS Elliott",
+              "bowler": "J Wadia",
+              "non_striker": "BL Couch",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "39.5",
+              "batter": "BL Couch",
+              "bowler": "J Wadia",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "KJS Elliott",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "39.5",
+              "batter": "BL Couch",
+              "bowler": "J Wadia",
+              "non_striker": "KJS Elliott",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "39.6",
+              "batter": "BL Couch",
+              "bowler": "J Wadia",
+              "non_striker": "KJS Elliott",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 40,
+          "deliveries": [
+            {
+              "actual_delivery": "40.1",
+              "batter": "KJS Elliott",
+              "bowler": "HTRY Thornton",
+              "non_striker": "BL Couch",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "40.2",
+              "batter": "KJS Elliott",
+              "bowler": "HTRY Thornton",
+              "non_striker": "BL Couch",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "40.3",
+              "batter": "KJS Elliott",
+              "bowler": "HTRY Thornton",
+              "non_striker": "BL Couch",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "40.4",
+              "batter": "KJS Elliott",
+              "bowler": "HTRY Thornton",
+              "non_striker": "BL Couch",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "40.5",
+              "batter": "KJS Elliott",
+              "bowler": "HTRY Thornton",
+              "non_striker": "BL Couch",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "40.6",
+              "batter": "KJS Elliott",
+              "bowler": "HTRY Thornton",
+              "non_striker": "BL Couch",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 41,
+          "deliveries": [
+            {
+              "actual_delivery": "41.1",
+              "batter": "KJS Elliott",
+              "bowler": "J Wadia",
+              "non_striker": "BL Couch",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "41.2",
+              "batter": "KJS Elliott",
+              "bowler": "J Wadia",
+              "non_striker": "BL Couch",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "41.3",
+              "batter": "KJS Elliott",
+              "bowler": "J Wadia",
+              "non_striker": "BL Couch",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "41.4",
+              "batter": "KJS Elliott",
+              "bowler": "J Wadia",
+              "non_striker": "BL Couch",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "41.5",
+              "batter": "KJS Elliott",
+              "bowler": "J Wadia",
+              "non_striker": "BL Couch",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "41.6",
+              "batter": "BL Couch",
+              "bowler": "J Wadia",
+              "non_striker": "KJS Elliott",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 42,
+          "deliveries": [
+            {
+              "actual_delivery": "42.1",
+              "batter": "KJS Elliott",
+              "bowler": "HTRY Thornton",
+              "non_striker": "BL Couch",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "42.2",
+              "batter": "BL Couch",
+              "bowler": "HTRY Thornton",
+              "non_striker": "KJS Elliott",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "42.3",
+              "batter": "BL Couch",
+              "bowler": "HTRY Thornton",
+              "non_striker": "KJS Elliott",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "42.4",
+              "batter": "BL Couch",
+              "bowler": "HTRY Thornton",
+              "non_striker": "KJS Elliott",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "42.5",
+              "batter": "KJS Elliott",
+              "bowler": "HTRY Thornton",
+              "non_striker": "BL Couch",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "42.6",
+              "batter": "BL Couch",
+              "bowler": "HTRY Thornton",
+              "non_striker": "KJS Elliott",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 43,
+          "deliveries": [
+            {
+              "actual_delivery": "43.1",
+              "batter": "BL Couch",
+              "bowler": "WA Agar",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "KJS Elliott",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "43.2",
+              "batter": "KJS Elliott",
+              "bowler": "WA Agar",
+              "non_striker": "BL Couch",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "43.3",
+              "batter": "BL Couch",
+              "bowler": "WA Agar",
+              "non_striker": "KJS Elliott",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "43.4",
+              "batter": "BL Couch",
+              "bowler": "WA Agar",
+              "non_striker": "KJS Elliott",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "43.5",
+              "batter": "KJS Elliott",
+              "bowler": "WA Agar",
+              "non_striker": "BL Couch",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "43.6",
+              "batter": "KJS Elliott",
+              "bowler": "WA Agar",
+              "non_striker": "BL Couch",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 44,
+          "deliveries": [
+            {
+              "actual_delivery": "44.1",
+              "batter": "KJS Elliott",
+              "bowler": "N McAndrew",
+              "non_striker": "BL Couch",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "44.2",
+              "batter": "KJS Elliott",
+              "bowler": "N McAndrew",
+              "non_striker": "BL Couch",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "44.3",
+              "batter": "KJS Elliott",
+              "bowler": "N McAndrew",
+              "non_striker": "BL Couch",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "44.4",
+              "batter": "BL Couch",
+              "bowler": "N McAndrew",
+              "non_striker": "KJS Elliott",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "44.5",
+              "batter": "KJS Elliott",
+              "bowler": "N McAndrew",
+              "non_striker": "BL Couch",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "44.6",
+              "batter": "BL Couch",
+              "bowler": "N McAndrew",
+              "non_striker": "KJS Elliott",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 45,
+          "deliveries": [
+            {
+              "actual_delivery": "45.1",
+              "batter": "KJS Elliott",
+              "bowler": "WA Agar",
+              "non_striker": "BL Couch",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "45.2",
+              "batter": "KJS Elliott",
+              "bowler": "WA Agar",
+              "non_striker": "BL Couch",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "45.3",
+              "batter": "KJS Elliott",
+              "bowler": "WA Agar",
+              "non_striker": "BL Couch",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "45.4",
+              "batter": "BL Couch",
+              "bowler": "WA Agar",
+              "non_striker": "KJS Elliott",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "BL Couch",
+                  "fielders": [
+                    {
+                      "substitute": true
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "45.5",
+              "batter": "A Esterhuysen",
+              "bowler": "WA Agar",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "KJS Elliott",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "45.6",
+              "batter": "KJS Elliott",
+              "bowler": "WA Agar",
+              "non_striker": "A Esterhuysen",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 46,
+          "deliveries": [
+            {
+              "actual_delivery": "46.1",
+              "batter": "KJS Elliott",
+              "bowler": "N McAndrew",
+              "non_striker": "A Esterhuysen",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "46.2",
+              "batter": "A Esterhuysen",
+              "bowler": "N McAndrew",
+              "non_striker": "KJS Elliott",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "46.3",
+              "batter": "A Esterhuysen",
+              "bowler": "N McAndrew",
+              "non_striker": "KJS Elliott",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "46.4",
+              "batter": "KJS Elliott",
+              "bowler": "N McAndrew",
+              "non_striker": "A Esterhuysen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "46.5",
+              "batter": "KJS Elliott",
+              "bowler": "N McAndrew",
+              "non_striker": "A Esterhuysen",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "46.6",
+              "batter": "A Esterhuysen",
+              "bowler": "N McAndrew",
+              "non_striker": "KJS Elliott",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 47,
+          "deliveries": [
+            {
+              "actual_delivery": "47.1",
+              "batter": "KJS Elliott",
+              "bowler": "JS Buckingham",
+              "non_striker": "A Esterhuysen",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "47.2",
+              "batter": "KJS Elliott",
+              "bowler": "JS Buckingham",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "A Esterhuysen",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "47.2",
+              "batter": "KJS Elliott",
+              "bowler": "JS Buckingham",
+              "non_striker": "A Esterhuysen",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "47.3",
+              "batter": "KJS Elliott",
+              "bowler": "JS Buckingham",
+              "non_striker": "A Esterhuysen",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "47.4",
+              "batter": "KJS Elliott",
+              "bowler": "JS Buckingham",
+              "non_striker": "A Esterhuysen",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "47.5",
+              "batter": "KJS Elliott",
+              "bowler": "JS Buckingham",
+              "extras": {
+                "byes": 1
+              },
+              "non_striker": "A Esterhuysen",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "47.6",
+              "batter": "A Esterhuysen",
+              "bowler": "JS Buckingham",
+              "non_striker": "KJS Elliott",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "A Esterhuysen",
+                  "fielders": [
+                    {
+                      "name": "J Fraser-McGurk"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 48,
+          "deliveries": [
+            {
+              "actual_delivery": "48.1",
+              "batter": "KJS Elliott",
+              "bowler": "N McAndrew",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "M Beardman",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "48.1",
+              "batter": "KJS Elliott",
+              "bowler": "N McAndrew",
+              "non_striker": "M Beardman",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "48.2",
+              "batter": "KJS Elliott",
+              "bowler": "N McAndrew",
+              "non_striker": "M Beardman",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "48.3",
+              "batter": "M Beardman",
+              "bowler": "N McAndrew",
+              "non_striker": "KJS Elliott",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "48.4",
+              "batter": "M Beardman",
+              "bowler": "N McAndrew",
+              "non_striker": "KJS Elliott",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "48.5",
+              "batter": "KJS Elliott",
+              "bowler": "N McAndrew",
+              "non_striker": "M Beardman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "48.6",
+              "batter": "KJS Elliott",
+              "bowler": "N McAndrew",
+              "non_striker": "M Beardman",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 49,
+          "deliveries": [
+            {
+              "actual_delivery": "49.1",
+              "batter": "KJS Elliott",
+              "bowler": "JS Buckingham",
+              "non_striker": "M Beardman",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "49.2",
+              "batter": "M Beardman",
+              "bowler": "JS Buckingham",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "KJS Elliott",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "49.3",
+              "batter": "KJS Elliott",
+              "bowler": "JS Buckingham",
+              "non_striker": "M Beardman",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "49.4",
+              "batter": "M Beardman",
+              "bowler": "JS Buckingham",
+              "non_striker": "KJS Elliott",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "49.5",
+              "batter": "M Beardman",
+              "bowler": "JS Buckingham",
+              "non_striker": "KJS Elliott",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "49.6",
+              "batter": "KJS Elliott",
+              "bowler": "JS Buckingham",
+              "non_striker": "M Beardman",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 9.6,
+          "type": "mandatory"
+        },
+        {
+          "from": 10.1,
+          "to": 39.7,
+          "type": "mandatory"
+        },
+        {
+          "from": 40.1,
+          "to": 49.6,
+          "type": "mandatory"
+        }
+      ]
+    },
+    {
+      "team": "South Australia",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "actual_delivery": "0.1",
+              "batter": "MW Harvey",
+              "bowler": "M Beardman",
+              "non_striker": "J Fraser-McGurk",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.2",
+              "batter": "MW Harvey",
+              "bowler": "M Beardman",
+              "non_striker": "J Fraser-McGurk",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.3",
+              "batter": "MW Harvey",
+              "bowler": "M Beardman",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "J Fraser-McGurk",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "0.3",
+              "batter": "MW Harvey",
+              "bowler": "M Beardman",
+              "non_striker": "J Fraser-McGurk",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "0.4",
+              "batter": "J Fraser-McGurk",
+              "bowler": "M Beardman",
+              "non_striker": "MW Harvey",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.5",
+              "batter": "J Fraser-McGurk",
+              "bowler": "M Beardman",
+              "non_striker": "MW Harvey",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.6",
+              "batter": "J Fraser-McGurk",
+              "bowler": "M Beardman",
+              "non_striker": "MW Harvey",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "actual_delivery": "1.1",
+              "batter": "MW Harvey",
+              "bowler": "KJS Elliott",
+              "non_striker": "J Fraser-McGurk",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.2",
+              "batter": "MW Harvey",
+              "bowler": "KJS Elliott",
+              "non_striker": "J Fraser-McGurk",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.3",
+              "batter": "MW Harvey",
+              "bowler": "KJS Elliott",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "J Fraser-McGurk",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "1.4",
+              "batter": "J Fraser-McGurk",
+              "bowler": "KJS Elliott",
+              "non_striker": "MW Harvey",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.5",
+              "batter": "J Fraser-McGurk",
+              "bowler": "KJS Elliott",
+              "non_striker": "MW Harvey",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.6",
+              "batter": "J Fraser-McGurk",
+              "bowler": "KJS Elliott",
+              "non_striker": "MW Harvey",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "actual_delivery": "2.1",
+              "batter": "MW Harvey",
+              "bowler": "M Beardman",
+              "non_striker": "J Fraser-McGurk",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.2",
+              "batter": "MW Harvey",
+              "bowler": "M Beardman",
+              "non_striker": "J Fraser-McGurk",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.3",
+              "batter": "MW Harvey",
+              "bowler": "M Beardman",
+              "non_striker": "J Fraser-McGurk",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.4",
+              "batter": "MW Harvey",
+              "bowler": "M Beardman",
+              "non_striker": "J Fraser-McGurk",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "2.5",
+              "batter": "J Fraser-McGurk",
+              "bowler": "M Beardman",
+              "non_striker": "MW Harvey",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "2.6",
+              "batter": "J Fraser-McGurk",
+              "bowler": "M Beardman",
+              "non_striker": "MW Harvey",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "actual_delivery": "3.1",
+              "batter": "MW Harvey",
+              "bowler": "KJS Elliott",
+              "non_striker": "J Fraser-McGurk",
+              "runs": {
+                "batter": 3,
+                "extras": 0,
+                "total": 3
+              }
+            },
+            {
+              "actual_delivery": "3.2",
+              "batter": "J Fraser-McGurk",
+              "bowler": "KJS Elliott",
+              "non_striker": "MW Harvey",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.3",
+              "batter": "J Fraser-McGurk",
+              "bowler": "KJS Elliott",
+              "non_striker": "MW Harvey",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.4",
+              "batter": "J Fraser-McGurk",
+              "bowler": "KJS Elliott",
+              "non_striker": "MW Harvey",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.5",
+              "batter": "J Fraser-McGurk",
+              "bowler": "KJS Elliott",
+              "non_striker": "MW Harvey",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "3.6",
+              "batter": "J Fraser-McGurk",
+              "bowler": "KJS Elliott",
+              "non_striker": "MW Harvey",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "actual_delivery": "4.1",
+              "batter": "J Fraser-McGurk",
+              "bowler": "M Beardman",
+              "non_striker": "MW Harvey",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.2",
+              "batter": "J Fraser-McGurk",
+              "bowler": "M Beardman",
+              "non_striker": "MW Harvey",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.3",
+              "batter": "J Fraser-McGurk",
+              "bowler": "M Beardman",
+              "non_striker": "MW Harvey",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "4.4",
+              "batter": "J Fraser-McGurk",
+              "bowler": "M Beardman",
+              "non_striker": "MW Harvey",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "4.5",
+              "batter": "J Fraser-McGurk",
+              "bowler": "M Beardman",
+              "non_striker": "MW Harvey",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.6",
+              "batter": "J Fraser-McGurk",
+              "bowler": "M Beardman",
+              "non_striker": "MW Harvey",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "actual_delivery": "5.1",
+              "batter": "J Fraser-McGurk",
+              "bowler": "KJS Elliott",
+              "non_striker": "MW Harvey",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "5.2",
+              "batter": "J Fraser-McGurk",
+              "bowler": "KJS Elliott",
+              "non_striker": "MW Harvey",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "5.3",
+              "batter": "J Fraser-McGurk",
+              "bowler": "KJS Elliott",
+              "non_striker": "MW Harvey",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.4",
+              "batter": "J Fraser-McGurk",
+              "bowler": "KJS Elliott",
+              "non_striker": "MW Harvey",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.5",
+              "batter": "J Fraser-McGurk",
+              "bowler": "KJS Elliott",
+              "non_striker": "MW Harvey",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "5.6",
+              "batter": "MW Harvey",
+              "bowler": "KJS Elliott",
+              "non_striker": "J Fraser-McGurk",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "actual_delivery": "6.1",
+              "batter": "J Fraser-McGurk",
+              "bowler": "M Beardman",
+              "non_striker": "MW Harvey",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "6.2",
+              "batter": "J Fraser-McGurk",
+              "bowler": "M Beardman",
+              "non_striker": "MW Harvey",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "6.3",
+              "batter": "J Fraser-McGurk",
+              "bowler": "M Beardman",
+              "non_striker": "MW Harvey",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "6.4",
+              "batter": "J Fraser-McGurk",
+              "bowler": "M Beardman",
+              "non_striker": "MW Harvey",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "6.5",
+              "batter": "J Fraser-McGurk",
+              "bowler": "M Beardman",
+              "non_striker": "MW Harvey",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "6.6",
+              "batter": "J Fraser-McGurk",
+              "bowler": "M Beardman",
+              "non_striker": "MW Harvey",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "actual_delivery": "7.1",
+              "batter": "J Fraser-McGurk",
+              "bowler": "KJS Elliott",
+              "non_striker": "MW Harvey",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "7.2",
+              "batter": "J Fraser-McGurk",
+              "bowler": "KJS Elliott",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "MW Harvey",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "7.2",
+              "batter": "J Fraser-McGurk",
+              "bowler": "KJS Elliott",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "MW Harvey",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "7.3",
+              "batter": "MW Harvey",
+              "bowler": "KJS Elliott",
+              "non_striker": "J Fraser-McGurk",
+              "runs": {
+                "batter": 3,
+                "extras": 0,
+                "total": 3
+              }
+            },
+            {
+              "actual_delivery": "7.4",
+              "batter": "J Fraser-McGurk",
+              "bowler": "KJS Elliott",
+              "non_striker": "MW Harvey",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 7.5,
+          "type": "mandatory"
+        }
+      ],
+      "target": {
+        "overs": 50,
+        "runs": 239
+      }
+    }
+  ]
+}

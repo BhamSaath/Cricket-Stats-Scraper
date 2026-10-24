@@ -1,0 +1,3210 @@
+{
+  "meta": {
+    "data_version": "1.3.0",
+    "created": "2026-09-28",
+    "revision": 1
+  },
+  "info": {
+    "balls_per_over": 6,
+    "city": "KuGompo City",
+    "dates": [
+      "2026-09-28"
+    ],
+    "event": {
+      "name": "CSA Pro20",
+      "group": "A"
+    },
+    "gender": "male",
+    "match_type": "T20",
+    "officials": {
+      "match_referees": [
+        "S Wadvalla"
+      ],
+      "tv_umpires": [
+        "AM Sodumo"
+      ],
+      "umpires": [
+        "M Kirchoff",
+        "W Lategan"
+      ]
+    },
+    "outcome": {
+      "winner": "Border",
+      "by": {
+        "runs": 13
+      }
+    },
+    "overs": 20,
+    "players": {
+      "Border": [
+        "J Bossr",
+        "N Roux",
+        "C du Toit",
+        "J Niemand",
+        "M Copeland",
+        "M Malika",
+        "A Gqamane",
+        "JH Coetzer",
+        "A Mhletywa",
+        "S Langa",
+        "K Molefe"
+      ],
+      "North West": [
+        "L Schuld",
+        "WJ Lubbe",
+        "RA Herman",
+        "DS Rosier",
+        "LC Ngoepe",
+        "J James",
+        "R de Swardt",
+        "C Seleka",
+        "DM Dupavillon",
+        "SA Mothoa",
+        "M Nabe"
+      ]
+    },
+    "registry": {
+      "people": {
+        "A Gqamane": "a83c44b8",
+        "A Mhletywa": "a7c6ee8a",
+        "AM Sodumo": "cc6850ec",
+        "C Seleka": "be8b147b",
+        "C du Toit": "a6f427e7",
+        "DM Dupavillon": "7cb2d9d2",
+        "DS Rosier": "f8e6dbdd",
+        "J Bossr": "9cd0994f",
+        "J James": "b6abcb15",
+        "J Niemand": "5d759725",
+        "JH Coetzer": "57edd284",
+        "K Molefe": "f51c1a3b",
+        "L Schuld": "245a1fcc",
+        "LC Ngoepe": "51355a30",
+        "M Copeland": "9943b637",
+        "M Kirchoff": "311772d3",
+        "M Malika": "7ba38f9f",
+        "M Nabe": "6ed11905",
+        "N Roux": "6744364f",
+        "R de Swardt": "57e1d7e4",
+        "RA Herman": "9c821d2e",
+        "S Langa": "46b9eda8",
+        "S Wadvalla": "c1a1acf3",
+        "SA Mothoa": "ea1eba98",
+        "W Lategan": "7b5e7720",
+        "WJ Lubbe": "10f42013"
+      },
+      "venues": {
+        "Buffalo Park, KuGumpo City": "132928e2"
+      }
+    },
+    "season": "2026/27",
+    "team_type": "club",
+    "teams": [
+      "Border",
+      "North West"
+    ],
+    "toss": {
+      "decision": "field",
+      "winner": "North West"
+    },
+    "venue": "Buffalo Park, KuGumpo City"
+  },
+  "innings": [
+    {
+      "team": "Border",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "actual_delivery": "0.1",
+              "batter": "J Bossr",
+              "bowler": "DM Dupavillon",
+              "non_striker": "N Roux",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.2",
+              "batter": "J Bossr",
+              "bowler": "DM Dupavillon",
+              "non_striker": "N Roux",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "0.3",
+              "batter": "J Bossr",
+              "bowler": "DM Dupavillon",
+              "non_striker": "N Roux",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "0.4",
+              "batter": "N Roux",
+              "bowler": "DM Dupavillon",
+              "non_striker": "J Bossr",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.5",
+              "batter": "N Roux",
+              "bowler": "DM Dupavillon",
+              "non_striker": "J Bossr",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.6",
+              "batter": "N Roux",
+              "bowler": "DM Dupavillon",
+              "non_striker": "J Bossr",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "actual_delivery": "1.1",
+              "batter": "J Bossr",
+              "bowler": "R de Swardt",
+              "non_striker": "N Roux",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.2",
+              "batter": "J Bossr",
+              "bowler": "R de Swardt",
+              "non_striker": "N Roux",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "1.3",
+              "batter": "J Bossr",
+              "bowler": "R de Swardt",
+              "non_striker": "N Roux",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "1.4",
+              "batter": "N Roux",
+              "bowler": "R de Swardt",
+              "non_striker": "J Bossr",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "1.5",
+              "batter": "J Bossr",
+              "bowler": "R de Swardt",
+              "non_striker": "N Roux",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "1.6",
+              "batter": "J Bossr",
+              "bowler": "R de Swardt",
+              "non_striker": "N Roux",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "actual_delivery": "2.1",
+              "batter": "J Bossr",
+              "bowler": "DM Dupavillon",
+              "non_striker": "N Roux",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "2.2",
+              "batter": "N Roux",
+              "bowler": "DM Dupavillon",
+              "non_striker": "J Bossr",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.3",
+              "batter": "N Roux",
+              "bowler": "DM Dupavillon",
+              "non_striker": "J Bossr",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.4",
+              "batter": "N Roux",
+              "bowler": "DM Dupavillon",
+              "non_striker": "J Bossr",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "2.5",
+              "batter": "J Bossr",
+              "bowler": "DM Dupavillon",
+              "non_striker": "N Roux",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.6",
+              "batter": "J Bossr",
+              "bowler": "DM Dupavillon",
+              "non_striker": "N Roux",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "actual_delivery": "3.1",
+              "batter": "N Roux",
+              "bowler": "R de Swardt",
+              "non_striker": "J Bossr",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.2",
+              "batter": "N Roux",
+              "bowler": "R de Swardt",
+              "non_striker": "J Bossr",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "3.3",
+              "batter": "J Bossr",
+              "bowler": "R de Swardt",
+              "non_striker": "N Roux",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.4",
+              "batter": "J Bossr",
+              "bowler": "R de Swardt",
+              "non_striker": "N Roux",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "3.5",
+              "batter": "N Roux",
+              "bowler": "R de Swardt",
+              "non_striker": "J Bossr",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "3.6",
+              "batter": "N Roux",
+              "bowler": "R de Swardt",
+              "non_striker": "J Bossr",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "actual_delivery": "4.1",
+              "batter": "J Bossr",
+              "bowler": "M Nabe",
+              "non_striker": "N Roux",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.2",
+              "batter": "J Bossr",
+              "bowler": "M Nabe",
+              "non_striker": "N Roux",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "4.3",
+              "batter": "J Bossr",
+              "bowler": "M Nabe",
+              "non_striker": "N Roux",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "4.4",
+              "batter": "N Roux",
+              "bowler": "M Nabe",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "J Bossr",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "4.4",
+              "batter": "N Roux",
+              "bowler": "M Nabe",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "J Bossr",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "4.5",
+              "batter": "J Bossr",
+              "bowler": "M Nabe",
+              "non_striker": "N Roux",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.6",
+              "batter": "J Bossr",
+              "bowler": "M Nabe",
+              "non_striker": "N Roux",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "actual_delivery": "5.1",
+              "batter": "N Roux",
+              "bowler": "SA Mothoa",
+              "non_striker": "J Bossr",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "5.2",
+              "batter": "J Bossr",
+              "bowler": "SA Mothoa",
+              "non_striker": "N Roux",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.3",
+              "batter": "J Bossr",
+              "bowler": "SA Mothoa",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "N Roux",
+              "runs": {
+                "batter": 2,
+                "extras": 1,
+                "total": 3
+              }
+            },
+            {
+              "actual_delivery": "5.3",
+              "batter": "J Bossr",
+              "bowler": "SA Mothoa",
+              "non_striker": "N Roux",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "5.4",
+              "batter": "N Roux",
+              "bowler": "SA Mothoa",
+              "non_striker": "J Bossr",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "5.5",
+              "batter": "J Bossr",
+              "bowler": "SA Mothoa",
+              "non_striker": "N Roux",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "5.6",
+              "batter": "N Roux",
+              "bowler": "SA Mothoa",
+              "non_striker": "J Bossr",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "actual_delivery": "6.1",
+              "batter": "J Bossr",
+              "bowler": "C Seleka",
+              "non_striker": "N Roux",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "6.2",
+              "batter": "J Bossr",
+              "bowler": "C Seleka",
+              "non_striker": "N Roux",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.3",
+              "batter": "N Roux",
+              "bowler": "C Seleka",
+              "non_striker": "J Bossr",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.4",
+              "batter": "J Bossr",
+              "bowler": "C Seleka",
+              "non_striker": "N Roux",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.5",
+              "batter": "N Roux",
+              "bowler": "C Seleka",
+              "non_striker": "J Bossr",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "N Roux",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "6.6",
+              "batter": "C du Toit",
+              "bowler": "C Seleka",
+              "non_striker": "J Bossr",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "actual_delivery": "7.1",
+              "batter": "C du Toit",
+              "bowler": "SA Mothoa",
+              "non_striker": "J Bossr",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "7.2",
+              "batter": "C du Toit",
+              "bowler": "SA Mothoa",
+              "non_striker": "J Bossr",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "7.3",
+              "batter": "J Bossr",
+              "bowler": "SA Mothoa",
+              "non_striker": "C du Toit",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "7.4",
+              "batter": "J Bossr",
+              "bowler": "SA Mothoa",
+              "non_striker": "C du Toit",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "7.5",
+              "batter": "C du Toit",
+              "bowler": "SA Mothoa",
+              "non_striker": "J Bossr",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "7.6",
+              "batter": "C du Toit",
+              "bowler": "SA Mothoa",
+              "non_striker": "J Bossr",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "actual_delivery": "8.1",
+              "batter": "J Bossr",
+              "bowler": "C Seleka",
+              "non_striker": "C du Toit",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "J Bossr",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "8.2",
+              "batter": "J Niemand",
+              "bowler": "C Seleka",
+              "non_striker": "C du Toit",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "8.3",
+              "batter": "C du Toit",
+              "bowler": "C Seleka",
+              "non_striker": "J Niemand",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "8.4",
+              "batter": "C du Toit",
+              "bowler": "C Seleka",
+              "non_striker": "J Niemand",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "8.5",
+              "batter": "C du Toit",
+              "bowler": "C Seleka",
+              "non_striker": "J Niemand",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "8.6",
+              "batter": "C du Toit",
+              "bowler": "C Seleka",
+              "non_striker": "J Niemand",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "actual_delivery": "9.1",
+              "batter": "J Niemand",
+              "bowler": "WJ Lubbe",
+              "non_striker": "C du Toit",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "9.2",
+              "batter": "J Niemand",
+              "bowler": "WJ Lubbe",
+              "non_striker": "C du Toit",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "9.3",
+              "batter": "J Niemand",
+              "bowler": "WJ Lubbe",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "C du Toit",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "9.4",
+              "batter": "C du Toit",
+              "bowler": "WJ Lubbe",
+              "non_striker": "J Niemand",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "9.5",
+              "batter": "C du Toit",
+              "bowler": "WJ Lubbe",
+              "non_striker": "J Niemand",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "9.6",
+              "batter": "C du Toit",
+              "bowler": "WJ Lubbe",
+              "non_striker": "J Niemand",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "actual_delivery": "10.1",
+              "batter": "C du Toit",
+              "bowler": "C Seleka",
+              "non_striker": "J Niemand",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "10.2",
+              "batter": "J Niemand",
+              "bowler": "C Seleka",
+              "non_striker": "C du Toit",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "10.3",
+              "batter": "J Niemand",
+              "bowler": "C Seleka",
+              "non_striker": "C du Toit",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "10.4",
+              "batter": "J Niemand",
+              "bowler": "C Seleka",
+              "non_striker": "C du Toit",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "10.5",
+              "batter": "J Niemand",
+              "bowler": "C Seleka",
+              "non_striker": "C du Toit",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "10.6",
+              "batter": "C du Toit",
+              "bowler": "C Seleka",
+              "non_striker": "J Niemand",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "actual_delivery": "11.1",
+              "batter": "J Niemand",
+              "bowler": "WJ Lubbe",
+              "non_striker": "C du Toit",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "11.2",
+              "batter": "C du Toit",
+              "bowler": "WJ Lubbe",
+              "non_striker": "J Niemand",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "C du Toit",
+                  "fielders": [
+                    {
+                      "name": "DS Rosier"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "11.3",
+              "batter": "M Copeland",
+              "bowler": "WJ Lubbe",
+              "non_striker": "J Niemand",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "11.4",
+              "batter": "J Niemand",
+              "bowler": "WJ Lubbe",
+              "non_striker": "M Copeland",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "11.5",
+              "batter": "M Copeland",
+              "bowler": "WJ Lubbe",
+              "non_striker": "J Niemand",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "11.6",
+              "batter": "J Niemand",
+              "bowler": "WJ Lubbe",
+              "non_striker": "M Copeland",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "actual_delivery": "12.1",
+              "batter": "M Copeland",
+              "bowler": "R de Swardt",
+              "non_striker": "J Niemand",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "12.2",
+              "batter": "M Copeland",
+              "bowler": "R de Swardt",
+              "non_striker": "J Niemand",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "12.3",
+              "batter": "M Copeland",
+              "bowler": "R de Swardt",
+              "non_striker": "J Niemand",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "12.4",
+              "batter": "J Niemand",
+              "bowler": "R de Swardt",
+              "non_striker": "M Copeland",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "12.5",
+              "batter": "J Niemand",
+              "bowler": "R de Swardt",
+              "non_striker": "M Copeland",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "12.6",
+              "batter": "J Niemand",
+              "bowler": "R de Swardt",
+              "non_striker": "M Copeland",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "actual_delivery": "13.1",
+              "batter": "J Niemand",
+              "bowler": "M Nabe",
+              "non_striker": "M Copeland",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "13.2",
+              "batter": "M Copeland",
+              "bowler": "M Nabe",
+              "non_striker": "J Niemand",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "13.3",
+              "batter": "J Niemand",
+              "bowler": "M Nabe",
+              "non_striker": "M Copeland",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "13.4",
+              "batter": "M Copeland",
+              "bowler": "M Nabe",
+              "non_striker": "J Niemand",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "13.5",
+              "batter": "J Niemand",
+              "bowler": "M Nabe",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "M Copeland",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "13.5",
+              "batter": "J Niemand",
+              "bowler": "M Nabe",
+              "non_striker": "M Copeland",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "13.6",
+              "batter": "M Copeland",
+              "bowler": "M Nabe",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "J Niemand",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "actual_delivery": "14.1",
+              "batter": "M Copeland",
+              "bowler": "SA Mothoa",
+              "non_striker": "J Niemand",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "14.2",
+              "batter": "M Copeland",
+              "bowler": "SA Mothoa",
+              "non_striker": "J Niemand",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "14.3",
+              "batter": "J Niemand",
+              "bowler": "SA Mothoa",
+              "non_striker": "M Copeland",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "14.4",
+              "batter": "J Niemand",
+              "bowler": "SA Mothoa",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "M Copeland",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "14.5",
+              "batter": "M Copeland",
+              "bowler": "SA Mothoa",
+              "non_striker": "J Niemand",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "14.6",
+              "batter": "M Copeland",
+              "bowler": "SA Mothoa",
+              "non_striker": "J Niemand",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "actual_delivery": "15.1",
+              "batter": "J Niemand",
+              "bowler": "C Seleka",
+              "non_striker": "M Copeland",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "15.2",
+              "batter": "J Niemand",
+              "bowler": "C Seleka",
+              "non_striker": "M Copeland",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "15.3",
+              "batter": "J Niemand",
+              "bowler": "C Seleka",
+              "non_striker": "M Copeland",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "15.4",
+              "batter": "M Copeland",
+              "bowler": "C Seleka",
+              "non_striker": "J Niemand",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "15.5",
+              "batter": "M Copeland",
+              "bowler": "C Seleka",
+              "non_striker": "J Niemand",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "15.6",
+              "batter": "M Copeland",
+              "bowler": "C Seleka",
+              "non_striker": "J Niemand",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "actual_delivery": "16.1",
+              "batter": "J Niemand",
+              "bowler": "DM Dupavillon",
+              "non_striker": "M Copeland",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "16.2",
+              "batter": "J Niemand",
+              "bowler": "DM Dupavillon",
+              "non_striker": "M Copeland",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "16.3",
+              "batter": "M Copeland",
+              "bowler": "DM Dupavillon",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "J Niemand",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "16.4",
+              "batter": "J Niemand",
+              "bowler": "DM Dupavillon",
+              "non_striker": "M Copeland",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "16.5",
+              "batter": "M Copeland",
+              "bowler": "DM Dupavillon",
+              "non_striker": "J Niemand",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "16.6",
+              "batter": "J Niemand",
+              "bowler": "DM Dupavillon",
+              "non_striker": "M Copeland",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "actual_delivery": "17.1",
+              "batter": "J Niemand",
+              "bowler": "M Nabe",
+              "non_striker": "M Copeland",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "17.2",
+              "batter": "J Niemand",
+              "bowler": "M Nabe",
+              "non_striker": "M Copeland",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "17.3",
+              "batter": "J Niemand",
+              "bowler": "M Nabe",
+              "non_striker": "M Copeland",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "17.4",
+              "batter": "M Copeland",
+              "bowler": "M Nabe",
+              "non_striker": "J Niemand",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "17.5",
+              "batter": "J Niemand",
+              "bowler": "M Nabe",
+              "non_striker": "M Copeland",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "17.6",
+              "batter": "J Niemand",
+              "bowler": "M Nabe",
+              "non_striker": "M Copeland",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "actual_delivery": "18.1",
+              "batter": "J Niemand",
+              "bowler": "DM Dupavillon",
+              "non_striker": "M Copeland",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "J Niemand",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "18.2",
+              "batter": "M Malika",
+              "bowler": "DM Dupavillon",
+              "non_striker": "M Copeland",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "18.3",
+              "batter": "M Malika",
+              "bowler": "DM Dupavillon",
+              "non_striker": "M Copeland",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "18.4",
+              "batter": "M Copeland",
+              "bowler": "DM Dupavillon",
+              "non_striker": "M Malika",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "18.5",
+              "batter": "M Malika",
+              "bowler": "DM Dupavillon",
+              "non_striker": "M Copeland",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "18.6",
+              "batter": "M Copeland",
+              "bowler": "DM Dupavillon",
+              "non_striker": "M Malika",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "actual_delivery": "19.1",
+              "batter": "M Malika",
+              "bowler": "SA Mothoa",
+              "non_striker": "M Copeland",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "19.2",
+              "batter": "M Malika",
+              "bowler": "SA Mothoa",
+              "non_striker": "M Copeland",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "19.3",
+              "batter": "M Copeland",
+              "bowler": "SA Mothoa",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "M Malika",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "19.3",
+              "batter": "M Copeland",
+              "bowler": "SA Mothoa",
+              "non_striker": "M Malika",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "19.4",
+              "batter": "M Copeland",
+              "bowler": "SA Mothoa",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "M Malika",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "19.4",
+              "batter": "M Copeland",
+              "bowler": "SA Mothoa",
+              "non_striker": "M Malika",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "19.5",
+              "batter": "M Copeland",
+              "bowler": "SA Mothoa",
+              "non_striker": "M Malika",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "19.6",
+              "batter": "M Copeland",
+              "bowler": "SA Mothoa",
+              "non_striker": "M Malika",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.7,
+          "type": "mandatory"
+        }
+      ]
+    },
+    {
+      "team": "North West",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "actual_delivery": "0.1",
+              "batter": "L Schuld",
+              "bowler": "S Langa",
+              "non_striker": "WJ Lubbe",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.2",
+              "batter": "L Schuld",
+              "bowler": "S Langa",
+              "non_striker": "WJ Lubbe",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "0.3",
+              "batter": "L Schuld",
+              "bowler": "S Langa",
+              "non_striker": "WJ Lubbe",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "0.4",
+              "batter": "WJ Lubbe",
+              "bowler": "S Langa",
+              "non_striker": "L Schuld",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "WJ Lubbe",
+                  "fielders": [
+                    {
+                      "name": "C du Toit"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "0.5",
+              "batter": "RA Herman",
+              "bowler": "S Langa",
+              "non_striker": "L Schuld",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.6",
+              "batter": "RA Herman",
+              "bowler": "S Langa",
+              "non_striker": "L Schuld",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "actual_delivery": "1.1",
+              "batter": "L Schuld",
+              "bowler": "JH Coetzer",
+              "non_striker": "RA Herman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.2",
+              "batter": "L Schuld",
+              "bowler": "JH Coetzer",
+              "non_striker": "RA Herman",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "1.3",
+              "batter": "RA Herman",
+              "bowler": "JH Coetzer",
+              "non_striker": "L Schuld",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.4",
+              "batter": "RA Herman",
+              "bowler": "JH Coetzer",
+              "non_striker": "L Schuld",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.5",
+              "batter": "RA Herman",
+              "bowler": "JH Coetzer",
+              "non_striker": "L Schuld",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.6",
+              "batter": "RA Herman",
+              "bowler": "JH Coetzer",
+              "non_striker": "L Schuld",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "actual_delivery": "2.1",
+              "batter": "RA Herman",
+              "bowler": "S Langa",
+              "non_striker": "L Schuld",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "2.2",
+              "batter": "RA Herman",
+              "bowler": "S Langa",
+              "non_striker": "L Schuld",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "RA Herman",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "2.3",
+              "batter": "DS Rosier",
+              "bowler": "S Langa",
+              "non_striker": "L Schuld",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "2.4",
+              "batter": "L Schuld",
+              "bowler": "S Langa",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "DS Rosier",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "2.4",
+              "batter": "L Schuld",
+              "bowler": "S Langa",
+              "non_striker": "DS Rosier",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "2.5",
+              "batter": "DS Rosier",
+              "bowler": "S Langa",
+              "non_striker": "L Schuld",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "2.6",
+              "batter": "L Schuld",
+              "bowler": "S Langa",
+              "non_striker": "DS Rosier",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "actual_delivery": "3.1",
+              "batter": "DS Rosier",
+              "bowler": "A Mhletywa",
+              "non_striker": "L Schuld",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "3.2",
+              "batter": "L Schuld",
+              "bowler": "A Mhletywa",
+              "non_striker": "DS Rosier",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "3.3",
+              "batter": "L Schuld",
+              "bowler": "A Mhletywa",
+              "non_striker": "DS Rosier",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "3.4",
+              "batter": "DS Rosier",
+              "bowler": "A Mhletywa",
+              "non_striker": "L Schuld",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "3.5",
+              "batter": "DS Rosier",
+              "bowler": "A Mhletywa",
+              "non_striker": "L Schuld",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "3.6",
+              "batter": "L Schuld",
+              "bowler": "A Mhletywa",
+              "non_striker": "DS Rosier",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "actual_delivery": "4.1",
+              "batter": "L Schuld",
+              "bowler": "JH Coetzer",
+              "non_striker": "DS Rosier",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "4.2",
+              "batter": "L Schuld",
+              "bowler": "JH Coetzer",
+              "non_striker": "DS Rosier",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.3",
+              "batter": "L Schuld",
+              "bowler": "JH Coetzer",
+              "non_striker": "DS Rosier",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "4.4",
+              "batter": "DS Rosier",
+              "bowler": "JH Coetzer",
+              "non_striker": "L Schuld",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "4.5",
+              "batter": "DS Rosier",
+              "bowler": "JH Coetzer",
+              "non_striker": "L Schuld",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "4.6",
+              "batter": "L Schuld",
+              "bowler": "JH Coetzer",
+              "non_striker": "DS Rosier",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "actual_delivery": "5.1",
+              "batter": "DS Rosier",
+              "bowler": "A Mhletywa",
+              "non_striker": "L Schuld",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.2",
+              "batter": "DS Rosier",
+              "bowler": "A Mhletywa",
+              "non_striker": "L Schuld",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "5.3",
+              "batter": "DS Rosier",
+              "bowler": "A Mhletywa",
+              "non_striker": "L Schuld",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "5.4",
+              "batter": "DS Rosier",
+              "bowler": "A Mhletywa",
+              "non_striker": "L Schuld",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "5.5",
+              "batter": "L Schuld",
+              "bowler": "A Mhletywa",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "DS Rosier",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "5.5",
+              "batter": "L Schuld",
+              "bowler": "A Mhletywa",
+              "non_striker": "DS Rosier",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "5.6",
+              "batter": "DS Rosier",
+              "bowler": "A Mhletywa",
+              "non_striker": "L Schuld",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "actual_delivery": "6.1",
+              "batter": "DS Rosier",
+              "bowler": "A Gqamane",
+              "non_striker": "L Schuld",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.2",
+              "batter": "L Schuld",
+              "bowler": "A Gqamane",
+              "non_striker": "DS Rosier",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "6.3",
+              "batter": "L Schuld",
+              "bowler": "A Gqamane",
+              "non_striker": "DS Rosier",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.4",
+              "batter": "DS Rosier",
+              "bowler": "A Gqamane",
+              "non_striker": "L Schuld",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.5",
+              "batter": "L Schuld",
+              "bowler": "A Gqamane",
+              "non_striker": "DS Rosier",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "6.6",
+              "batter": "L Schuld",
+              "bowler": "A Gqamane",
+              "non_striker": "DS Rosier",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "actual_delivery": "7.1",
+              "batter": "L Schuld",
+              "bowler": "M Copeland",
+              "non_striker": "DS Rosier",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "7.2",
+              "batter": "DS Rosier",
+              "bowler": "M Copeland",
+              "non_striker": "L Schuld",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "7.3",
+              "batter": "DS Rosier",
+              "bowler": "M Copeland",
+              "non_striker": "L Schuld",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "7.4",
+              "batter": "L Schuld",
+              "bowler": "M Copeland",
+              "non_striker": "DS Rosier",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "7.5",
+              "batter": "DS Rosier",
+              "bowler": "M Copeland",
+              "non_striker": "L Schuld",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "7.6",
+              "batter": "L Schuld",
+              "bowler": "M Copeland",
+              "non_striker": "DS Rosier",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "actual_delivery": "8.1",
+              "batter": "L Schuld",
+              "bowler": "A Gqamane",
+              "non_striker": "DS Rosier",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "8.2",
+              "batter": "L Schuld",
+              "bowler": "A Gqamane",
+              "non_striker": "DS Rosier",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "8.3",
+              "batter": "L Schuld",
+              "bowler": "A Gqamane",
+              "non_striker": "DS Rosier",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "8.4",
+              "batter": "L Schuld",
+              "bowler": "A Gqamane",
+              "non_striker": "DS Rosier",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "8.5",
+              "batter": "L Schuld",
+              "bowler": "A Gqamane",
+              "non_striker": "DS Rosier",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "8.6",
+              "batter": "L Schuld",
+              "bowler": "A Gqamane",
+              "non_striker": "DS Rosier",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "actual_delivery": "9.1",
+              "batter": "DS Rosier",
+              "bowler": "M Copeland",
+              "non_striker": "L Schuld",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "9.2",
+              "batter": "L Schuld",
+              "bowler": "M Copeland",
+              "non_striker": "DS Rosier",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "9.3",
+              "batter": "L Schuld",
+              "bowler": "M Copeland",
+              "non_striker": "DS Rosier",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "9.4",
+              "batter": "L Schuld",
+              "bowler": "M Copeland",
+              "non_striker": "DS Rosier",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "9.5",
+              "batter": "L Schuld",
+              "bowler": "M Copeland",
+              "non_striker": "DS Rosier",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "9.6",
+              "batter": "L Schuld",
+              "bowler": "M Copeland",
+              "non_striker": "DS Rosier",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "actual_delivery": "10.1",
+              "batter": "L Schuld",
+              "bowler": "JH Coetzer",
+              "non_striker": "DS Rosier",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "10.2",
+              "batter": "DS Rosier",
+              "bowler": "JH Coetzer",
+              "non_striker": "L Schuld",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "10.3",
+              "batter": "DS Rosier",
+              "bowler": "JH Coetzer",
+              "non_striker": "L Schuld",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "10.4",
+              "batter": "DS Rosier",
+              "bowler": "JH Coetzer",
+              "non_striker": "L Schuld",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "10.5",
+              "batter": "DS Rosier",
+              "bowler": "JH Coetzer",
+              "non_striker": "L Schuld",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "10.6",
+              "batter": "L Schuld",
+              "bowler": "JH Coetzer",
+              "non_striker": "DS Rosier",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "actual_delivery": "11.1",
+              "batter": "DS Rosier",
+              "bowler": "K Molefe",
+              "non_striker": "L Schuld",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "11.2",
+              "batter": "DS Rosier",
+              "bowler": "K Molefe",
+              "non_striker": "L Schuld",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "11.3",
+              "batter": "L Schuld",
+              "bowler": "K Molefe",
+              "non_striker": "DS Rosier",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "11.4",
+              "batter": "DS Rosier",
+              "bowler": "K Molefe",
+              "non_striker": "L Schuld",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "11.5",
+              "batter": "DS Rosier",
+              "bowler": "K Molefe",
+              "non_striker": "L Schuld",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "11.6",
+              "batter": "L Schuld",
+              "bowler": "K Molefe",
+              "non_striker": "DS Rosier",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "actual_delivery": "12.1",
+              "batter": "L Schuld",
+              "bowler": "A Mhletywa",
+              "non_striker": "DS Rosier",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "12.2",
+              "batter": "DS Rosier",
+              "bowler": "A Mhletywa",
+              "non_striker": "L Schuld",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "12.3",
+              "batter": "L Schuld",
+              "bowler": "A Mhletywa",
+              "non_striker": "DS Rosier",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "12.4",
+              "batter": "DS Rosier",
+              "bowler": "A Mhletywa",
+              "non_striker": "L Schuld",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "12.5",
+              "batter": "L Schuld",
+              "bowler": "A Mhletywa",
+              "non_striker": "DS Rosier",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "12.6",
+              "batter": "DS Rosier",
+              "bowler": "A Mhletywa",
+              "non_striker": "L Schuld",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "actual_delivery": "13.1",
+              "batter": "L Schuld",
+              "bowler": "K Molefe",
+              "non_striker": "DS Rosier",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "13.2",
+              "batter": "L Schuld",
+              "bowler": "K Molefe",
+              "non_striker": "DS Rosier",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "13.3",
+              "batter": "DS Rosier",
+              "bowler": "K Molefe",
+              "non_striker": "L Schuld",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "DS Rosier",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "13.4",
+              "batter": "LC Ngoepe",
+              "bowler": "K Molefe",
+              "non_striker": "L Schuld",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "13.5",
+              "batter": "L Schuld",
+              "bowler": "K Molefe",
+              "non_striker": "LC Ngoepe",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "13.6",
+              "batter": "L Schuld",
+              "bowler": "K Molefe",
+              "non_striker": "LC Ngoepe",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "actual_delivery": "14.1",
+              "batter": "L Schuld",
+              "bowler": "A Mhletywa",
+              "non_striker": "LC Ngoepe",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "14.2",
+              "batter": "L Schuld",
+              "bowler": "A Mhletywa",
+              "non_striker": "LC Ngoepe",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "14.3",
+              "batter": "L Schuld",
+              "bowler": "A Mhletywa",
+              "non_striker": "LC Ngoepe",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "14.4",
+              "batter": "L Schuld",
+              "bowler": "A Mhletywa",
+              "non_striker": "LC Ngoepe",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "14.5",
+              "batter": "L Schuld",
+              "bowler": "A Mhletywa",
+              "non_striker": "LC Ngoepe",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "14.6",
+              "batter": "L Schuld",
+              "bowler": "A Mhletywa",
+              "non_striker": "LC Ngoepe",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "actual_delivery": "15.1",
+              "batter": "L Schuld",
+              "bowler": "M Copeland",
+              "non_striker": "LC Ngoepe",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "L Schuld",
+                  "fielders": [
+                    {
+                      "name": "A Gqamane"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "15.2",
+              "batter": "J James",
+              "bowler": "M Copeland",
+              "non_striker": "LC Ngoepe",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "15.3",
+              "batter": "LC Ngoepe",
+              "bowler": "M Copeland",
+              "non_striker": "J James",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "15.4",
+              "batter": "LC Ngoepe",
+              "bowler": "M Copeland",
+              "non_striker": "J James",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "15.5",
+              "batter": "J James",
+              "bowler": "M Copeland",
+              "non_striker": "LC Ngoepe",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "15.6",
+              "batter": "J James",
+              "bowler": "M Copeland",
+              "non_striker": "LC Ngoepe",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "actual_delivery": "16.1",
+              "batter": "J James",
+              "bowler": "S Langa",
+              "non_striker": "LC Ngoepe",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "16.2",
+              "batter": "J James",
+              "bowler": "S Langa",
+              "non_striker": "LC Ngoepe",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "16.3",
+              "batter": "LC Ngoepe",
+              "bowler": "S Langa",
+              "non_striker": "J James",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "LC Ngoepe",
+                  "fielders": [
+                    {
+                      "name": "J Niemand"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "16.4",
+              "batter": "R de Swardt",
+              "bowler": "S Langa",
+              "non_striker": "J James",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "R de Swardt",
+                  "fielders": [
+                    {
+                      "name": "JH Coetzer"
+                    }
+                  ],
+                  "kind": "run out"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "16.5",
+              "batter": "C Seleka",
+              "bowler": "S Langa",
+              "non_striker": "J James",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "16.6",
+              "batter": "J James",
+              "bowler": "S Langa",
+              "non_striker": "C Seleka",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "actual_delivery": "17.1",
+              "batter": "J James",
+              "bowler": "K Molefe",
+              "non_striker": "C Seleka",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "17.2",
+              "batter": "J James",
+              "bowler": "K Molefe",
+              "non_striker": "C Seleka",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "J James",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "17.3",
+              "batter": "DM Dupavillon",
+              "bowler": "K Molefe",
+              "non_striker": "C Seleka",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "17.4",
+              "batter": "C Seleka",
+              "bowler": "K Molefe",
+              "non_striker": "DM Dupavillon",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "17.5",
+              "batter": "DM Dupavillon",
+              "bowler": "K Molefe",
+              "non_striker": "C Seleka",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "17.6",
+              "batter": "C Seleka",
+              "bowler": "K Molefe",
+              "non_striker": "DM Dupavillon",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "actual_delivery": "18.1",
+              "batter": "DM Dupavillon",
+              "bowler": "S Langa",
+              "non_striker": "C Seleka",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "18.2",
+              "batter": "DM Dupavillon",
+              "bowler": "S Langa",
+              "non_striker": "C Seleka",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "18.3",
+              "batter": "C Seleka",
+              "bowler": "S Langa",
+              "non_striker": "DM Dupavillon",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "18.4",
+              "batter": "C Seleka",
+              "bowler": "S Langa",
+              "non_striker": "DM Dupavillon",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "18.5",
+              "batter": "C Seleka",
+              "bowler": "S Langa",
+              "non_striker": "DM Dupavillon",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "18.6",
+              "batter": "DM Dupavillon",
+              "bowler": "S Langa",
+              "non_striker": "C Seleka",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "actual_delivery": "19.1",
+              "batter": "C Seleka",
+              "bowler": "K Molefe",
+              "non_striker": "DM Dupavillon",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "19.2",
+              "batter": "C Seleka",
+              "bowler": "K Molefe",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "DM Dupavillon",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "19.3",
+              "batter": "DM Dupavillon",
+              "bowler": "K Molefe",
+              "non_striker": "C Seleka",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "DM Dupavillon",
+                  "fielders": [
+                    {
+                      "name": "M Malika"
+                    }
+                  ],
+                  "kind": "stumped"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "19.4",
+              "batter": "SA Mothoa",
+              "bowler": "K Molefe",
+              "non_striker": "C Seleka",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "19.5",
+              "batter": "C Seleka",
+              "bowler": "K Molefe",
+              "non_striker": "SA Mothoa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "19.6",
+              "batter": "C Seleka",
+              "bowler": "K Molefe",
+              "non_striker": "SA Mothoa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "C Seleka",
+                  "fielders": [
+                    {
+                      "name": "J Niemand"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.7,
+          "type": "mandatory"
+        }
+      ],
+      "target": {
+        "overs": 20,
+        "runs": 152
+      }
+    }
+  ]
+}

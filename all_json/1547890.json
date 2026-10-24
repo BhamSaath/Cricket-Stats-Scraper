@@ -1,0 +1,3169 @@
+{
+  "meta": {
+    "data_version": "1.2.0",
+    "created": "2026-09-16",
+    "revision": 1
+  },
+  "info": {
+    "balls_per_over": 6,
+    "city": "Dublin",
+    "dates": [
+      "2026-09-10"
+    ],
+    "event": {
+      "name": "European T20 Premier League",
+      "match_number": 19
+    },
+    "gender": "male",
+    "match_type": "T20",
+    "officials": {
+      "match_referees": [
+        "G McCrea"
+      ],
+      "reserve_umpires": [
+        "Jonathan Kennedy"
+      ],
+      "tv_umpires": [
+        "CM Brown"
+      ],
+      "umpires": [
+        "Aidan Seaver",
+        "N Bathi"
+      ]
+    },
+    "outcome": {
+      "winner": "Rotterdam Dockers",
+      "by": {
+        "runs": 31
+      }
+    },
+    "overs": 20,
+    "player_of_match": [
+      "F du Plessis"
+    ],
+    "players": {
+      "Rotterdam Dockers": [
+        "HE van der Dussen",
+        "F du Plessis",
+        "M Levitt",
+        "Vikramjit Singh",
+        "H Klaasen",
+        "D Wiese",
+        "BAD Manenti",
+        "LV van Beek",
+        "RE van der Merwe",
+        "A Nortje",
+        "J Moondra"
+      ],
+      "Glasgow Cosmic": [
+        "HG Munsey",
+        "JJ Roy",
+        "MC Henriques",
+        "LS Livingstone",
+        "RD Berrington",
+        "JDS Neesham",
+        "MH Cross",
+        "O Davidson",
+        "PA van Meekeren",
+        "TS Mills",
+        "Ali Khan"
+      ]
+    },
+    "registry": {
+      "people": {
+        "A Nortje": "acdc62f5",
+        "Aidan Seaver": "862c0b16",
+        "Ali Khan": "b0eaaac6",
+        "BAD Manenti": "ab21795b",
+        "CM Brown": "448f4f1c",
+        "D Wiese": "aa8d28ae",
+        "F du Plessis": "3355b542",
+        "G McCrea": "46f4a901",
+        "H Klaasen": "235c2bb6",
+        "HE van der Dussen": "9948e262",
+        "HG Munsey": "ff014c34",
+        "J Moondra": "3bea7ea9",
+        "JDS Neesham": "9219eff0",
+        "JJ Roy": "d1c36f5c",
+        "Jonathan Kennedy": "f7ad4494",
+        "LS Livingstone": "50c6bc2b",
+        "LV van Beek": "782fb776",
+        "M Levitt": "6a71ba3a",
+        "MC Henriques": "32198ae0",
+        "MH Cross": "8b261d84",
+        "N Bathi": "96a0edf9",
+        "O Davidson": "63249474",
+        "PA van Meekeren": "4557dc54",
+        "RD Berrington": "e21bc7f3",
+        "RE van der Merwe": "05c2ca46",
+        "TS Mills": "245c97cb",
+        "Vikramjit Singh": "2a9eee66"
+      }
+    },
+    "season": "2026",
+    "team_type": "club",
+    "teams": [
+      "Rotterdam Dockers",
+      "Glasgow Cosmic"
+    ],
+    "toss": {
+      "decision": "field",
+      "winner": "Glasgow Cosmic"
+    },
+    "venue": "The Village, Malahide, Dublin"
+  },
+  "innings": [
+    {
+      "team": "Rotterdam Dockers",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "actual_delivery": "0.1",
+              "batter": "HE van der Dussen",
+              "bowler": "TS Mills",
+              "non_striker": "F du Plessis",
+              "review": {
+                "by": "Rotterdam Dockers",
+                "umpire": "N Bathi",
+                "batter": "HE van der Dussen",
+                "decision": "struck down",
+                "type": "wicket"
+              },
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "HE van der Dussen",
+                  "kind": "lbw"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "0.2",
+              "batter": "M Levitt",
+              "bowler": "TS Mills",
+              "non_striker": "F du Plessis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.3",
+              "batter": "M Levitt",
+              "bowler": "TS Mills",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "F du Plessis",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "0.3",
+              "batter": "M Levitt",
+              "bowler": "TS Mills",
+              "non_striker": "F du Plessis",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "0.4",
+              "batter": "F du Plessis",
+              "bowler": "TS Mills",
+              "non_striker": "M Levitt",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.5",
+              "batter": "F du Plessis",
+              "bowler": "TS Mills",
+              "non_striker": "M Levitt",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.6",
+              "batter": "F du Plessis",
+              "bowler": "TS Mills",
+              "non_striker": "M Levitt",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "actual_delivery": "1.1",
+              "batter": "M Levitt",
+              "bowler": "PA van Meekeren",
+              "non_striker": "F du Plessis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.2",
+              "batter": "M Levitt",
+              "bowler": "PA van Meekeren",
+              "extras": {
+                "wides": 5
+              },
+              "non_striker": "F du Plessis",
+              "runs": {
+                "batter": 0,
+                "extras": 5,
+                "total": 5
+              }
+            },
+            {
+              "actual_delivery": "1.2",
+              "batter": "M Levitt",
+              "bowler": "PA van Meekeren",
+              "non_striker": "F du Plessis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.3",
+              "batter": "M Levitt",
+              "bowler": "PA van Meekeren",
+              "non_striker": "F du Plessis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.4",
+              "batter": "M Levitt",
+              "bowler": "PA van Meekeren",
+              "non_striker": "F du Plessis",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "1.5",
+              "batter": "F du Plessis",
+              "bowler": "PA van Meekeren",
+              "non_striker": "M Levitt",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "1.6",
+              "batter": "F du Plessis",
+              "bowler": "PA van Meekeren",
+              "non_striker": "M Levitt",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "actual_delivery": "2.1",
+              "batter": "M Levitt",
+              "bowler": "TS Mills",
+              "non_striker": "F du Plessis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.2",
+              "batter": "M Levitt",
+              "bowler": "TS Mills",
+              "non_striker": "F du Plessis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.3",
+              "batter": "M Levitt",
+              "bowler": "TS Mills",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "F du Plessis",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "2.3",
+              "batter": "M Levitt",
+              "bowler": "TS Mills",
+              "non_striker": "F du Plessis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.4",
+              "batter": "M Levitt",
+              "bowler": "TS Mills",
+              "non_striker": "F du Plessis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.5",
+              "batter": "M Levitt",
+              "bowler": "TS Mills",
+              "non_striker": "F du Plessis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.6",
+              "batter": "M Levitt",
+              "bowler": "TS Mills",
+              "non_striker": "F du Plessis",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "actual_delivery": "3.1",
+              "batter": "M Levitt",
+              "bowler": "PA van Meekeren",
+              "non_striker": "F du Plessis",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "3.2",
+              "batter": "F du Plessis",
+              "bowler": "PA van Meekeren",
+              "non_striker": "M Levitt",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.3",
+              "batter": "F du Plessis",
+              "bowler": "PA van Meekeren",
+              "non_striker": "M Levitt",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.4",
+              "batter": "F du Plessis",
+              "bowler": "PA van Meekeren",
+              "non_striker": "M Levitt",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "3.5",
+              "batter": "F du Plessis",
+              "bowler": "PA van Meekeren",
+              "non_striker": "M Levitt",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "3.6",
+              "batter": "F du Plessis",
+              "bowler": "PA van Meekeren",
+              "non_striker": "M Levitt",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "actual_delivery": "4.1",
+              "batter": "M Levitt",
+              "bowler": "Ali Khan",
+              "non_striker": "F du Plessis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.2",
+              "batter": "M Levitt",
+              "bowler": "Ali Khan",
+              "non_striker": "F du Plessis",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "4.3",
+              "batter": "F du Plessis",
+              "bowler": "Ali Khan",
+              "non_striker": "M Levitt",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "4.4",
+              "batter": "F du Plessis",
+              "bowler": "Ali Khan",
+              "non_striker": "M Levitt",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "4.5",
+              "batter": "F du Plessis",
+              "bowler": "Ali Khan",
+              "non_striker": "M Levitt",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "4.6",
+              "batter": "M Levitt",
+              "bowler": "Ali Khan",
+              "non_striker": "F du Plessis",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "actual_delivery": "5.1",
+              "batter": "M Levitt",
+              "bowler": "JDS Neesham",
+              "non_striker": "F du Plessis",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "5.2",
+              "batter": "M Levitt",
+              "bowler": "JDS Neesham",
+              "non_striker": "F du Plessis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.3",
+              "batter": "M Levitt",
+              "bowler": "JDS Neesham",
+              "non_striker": "F du Plessis",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "5.4",
+              "batter": "M Levitt",
+              "bowler": "JDS Neesham",
+              "non_striker": "F du Plessis",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "5.5",
+              "batter": "M Levitt",
+              "bowler": "JDS Neesham",
+              "non_striker": "F du Plessis",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "5.6",
+              "batter": "F du Plessis",
+              "bowler": "JDS Neesham",
+              "non_striker": "M Levitt",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "actual_delivery": "6.1",
+              "batter": "F du Plessis",
+              "bowler": "Ali Khan",
+              "non_striker": "M Levitt",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "6.2",
+              "batter": "F du Plessis",
+              "bowler": "Ali Khan",
+              "non_striker": "M Levitt",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "6.3",
+              "batter": "F du Plessis",
+              "bowler": "Ali Khan",
+              "non_striker": "M Levitt",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "6.4",
+              "batter": "F du Plessis",
+              "bowler": "Ali Khan",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "M Levitt",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.4",
+              "batter": "F du Plessis",
+              "bowler": "Ali Khan",
+              "non_striker": "M Levitt",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.5",
+              "batter": "M Levitt",
+              "bowler": "Ali Khan",
+              "non_striker": "F du Plessis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "6.6",
+              "batter": "M Levitt",
+              "bowler": "Ali Khan",
+              "non_striker": "F du Plessis",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "actual_delivery": "7.1",
+              "batter": "M Levitt",
+              "bowler": "O Davidson",
+              "non_striker": "F du Plessis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "7.2",
+              "batter": "M Levitt",
+              "bowler": "O Davidson",
+              "non_striker": "F du Plessis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "7.3",
+              "batter": "M Levitt",
+              "bowler": "O Davidson",
+              "non_striker": "F du Plessis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "7.4",
+              "batter": "M Levitt",
+              "bowler": "O Davidson",
+              "non_striker": "F du Plessis",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "7.5",
+              "batter": "F du Plessis",
+              "bowler": "O Davidson",
+              "non_striker": "M Levitt",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "7.6",
+              "batter": "M Levitt",
+              "bowler": "O Davidson",
+              "non_striker": "F du Plessis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "M Levitt",
+                  "fielders": [
+                    {
+                      "name": "JJ Roy"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "actual_delivery": "8.1",
+              "batter": "F du Plessis",
+              "bowler": "JDS Neesham",
+              "non_striker": "Vikramjit Singh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "8.2",
+              "batter": "Vikramjit Singh",
+              "bowler": "JDS Neesham",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "F du Plessis",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "8.2",
+              "batter": "Vikramjit Singh",
+              "bowler": "JDS Neesham",
+              "non_striker": "F du Plessis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "8.3",
+              "batter": "Vikramjit Singh",
+              "bowler": "JDS Neesham",
+              "non_striker": "F du Plessis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "8.4",
+              "batter": "Vikramjit Singh",
+              "bowler": "JDS Neesham",
+              "non_striker": "F du Plessis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "8.5",
+              "batter": "Vikramjit Singh",
+              "bowler": "JDS Neesham",
+              "non_striker": "F du Plessis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "8.6",
+              "batter": "Vikramjit Singh",
+              "bowler": "JDS Neesham",
+              "non_striker": "F du Plessis",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "actual_delivery": "9.1",
+              "batter": "Vikramjit Singh",
+              "bowler": "LS Livingstone",
+              "non_striker": "F du Plessis",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "9.2",
+              "batter": "F du Plessis",
+              "bowler": "LS Livingstone",
+              "non_striker": "Vikramjit Singh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "9.3",
+              "batter": "Vikramjit Singh",
+              "bowler": "LS Livingstone",
+              "non_striker": "F du Plessis",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "9.4",
+              "batter": "F du Plessis",
+              "bowler": "LS Livingstone",
+              "non_striker": "Vikramjit Singh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "9.5",
+              "batter": "Vikramjit Singh",
+              "bowler": "LS Livingstone",
+              "non_striker": "F du Plessis",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "9.6",
+              "batter": "Vikramjit Singh",
+              "bowler": "LS Livingstone",
+              "non_striker": "F du Plessis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "actual_delivery": "10.1",
+              "batter": "F du Plessis",
+              "bowler": "JDS Neesham",
+              "non_striker": "Vikramjit Singh",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "10.2",
+              "batter": "F du Plessis",
+              "bowler": "JDS Neesham",
+              "non_striker": "Vikramjit Singh",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "10.3",
+              "batter": "F du Plessis",
+              "bowler": "JDS Neesham",
+              "non_striker": "Vikramjit Singh",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "10.4",
+              "batter": "F du Plessis",
+              "bowler": "JDS Neesham",
+              "non_striker": "Vikramjit Singh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "10.5",
+              "batter": "Vikramjit Singh",
+              "bowler": "JDS Neesham",
+              "non_striker": "F du Plessis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "10.6",
+              "batter": "Vikramjit Singh",
+              "bowler": "JDS Neesham",
+              "non_striker": "F du Plessis",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "actual_delivery": "11.1",
+              "batter": "Vikramjit Singh",
+              "bowler": "LS Livingstone",
+              "non_striker": "F du Plessis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "11.2",
+              "batter": "Vikramjit Singh",
+              "bowler": "LS Livingstone",
+              "non_striker": "F du Plessis",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "11.3",
+              "batter": "Vikramjit Singh",
+              "bowler": "LS Livingstone",
+              "non_striker": "F du Plessis",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "11.4",
+              "batter": "Vikramjit Singh",
+              "bowler": "LS Livingstone",
+              "non_striker": "F du Plessis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "11.5",
+              "batter": "Vikramjit Singh",
+              "bowler": "LS Livingstone",
+              "non_striker": "F du Plessis",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "11.6",
+              "batter": "Vikramjit Singh",
+              "bowler": "LS Livingstone",
+              "non_striker": "F du Plessis",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "actual_delivery": "12.1",
+              "batter": "Vikramjit Singh",
+              "bowler": "O Davidson",
+              "non_striker": "F du Plessis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "12.2",
+              "batter": "Vikramjit Singh",
+              "bowler": "O Davidson",
+              "non_striker": "F du Plessis",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "12.3",
+              "batter": "F du Plessis",
+              "bowler": "O Davidson",
+              "non_striker": "Vikramjit Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "12.4",
+              "batter": "F du Plessis",
+              "bowler": "O Davidson",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "Vikramjit Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "12.5",
+              "batter": "Vikramjit Singh",
+              "bowler": "O Davidson",
+              "non_striker": "F du Plessis",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "12.6",
+              "batter": "Vikramjit Singh",
+              "bowler": "O Davidson",
+              "non_striker": "F du Plessis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "actual_delivery": "13.1",
+              "batter": "F du Plessis",
+              "bowler": "LS Livingstone",
+              "non_striker": "Vikramjit Singh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "13.2",
+              "batter": "Vikramjit Singh",
+              "bowler": "LS Livingstone",
+              "non_striker": "F du Plessis",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "13.3",
+              "batter": "Vikramjit Singh",
+              "bowler": "LS Livingstone",
+              "non_striker": "F du Plessis",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "13.4",
+              "batter": "Vikramjit Singh",
+              "bowler": "LS Livingstone",
+              "non_striker": "F du Plessis",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "13.5",
+              "batter": "F du Plessis",
+              "bowler": "LS Livingstone",
+              "non_striker": "Vikramjit Singh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "13.6",
+              "batter": "Vikramjit Singh",
+              "bowler": "LS Livingstone",
+              "non_striker": "F du Plessis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Vikramjit Singh",
+                  "kind": "bowled"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "actual_delivery": "14.1",
+              "batter": "F du Plessis",
+              "bowler": "O Davidson",
+              "non_striker": "H Klaasen",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "14.2",
+              "batter": "H Klaasen",
+              "bowler": "O Davidson",
+              "non_striker": "F du Plessis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "14.3",
+              "batter": "H Klaasen",
+              "bowler": "O Davidson",
+              "non_striker": "F du Plessis",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "14.4",
+              "batter": "F du Plessis",
+              "bowler": "O Davidson",
+              "non_striker": "H Klaasen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "14.5",
+              "batter": "F du Plessis",
+              "bowler": "O Davidson",
+              "non_striker": "H Klaasen",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "14.6",
+              "batter": "H Klaasen",
+              "bowler": "O Davidson",
+              "non_striker": "F du Plessis",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "actual_delivery": "15.1",
+              "batter": "H Klaasen",
+              "bowler": "LS Livingstone",
+              "non_striker": "F du Plessis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "15.2",
+              "batter": "H Klaasen",
+              "bowler": "LS Livingstone",
+              "non_striker": "F du Plessis",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "15.3",
+              "batter": "H Klaasen",
+              "bowler": "LS Livingstone",
+              "non_striker": "F du Plessis",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "15.4",
+              "batter": "F du Plessis",
+              "bowler": "LS Livingstone",
+              "non_striker": "H Klaasen",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "15.5",
+              "batter": "H Klaasen",
+              "bowler": "LS Livingstone",
+              "non_striker": "F du Plessis",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "15.6",
+              "batter": "F du Plessis",
+              "bowler": "LS Livingstone",
+              "non_striker": "H Klaasen",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "actual_delivery": "16.1",
+              "batter": "F du Plessis",
+              "bowler": "TS Mills",
+              "non_striker": "H Klaasen",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "16.2",
+              "batter": "H Klaasen",
+              "bowler": "TS Mills",
+              "non_striker": "F du Plessis",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "16.3",
+              "batter": "H Klaasen",
+              "bowler": "TS Mills",
+              "non_striker": "F du Plessis",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "16.4",
+              "batter": "F du Plessis",
+              "bowler": "TS Mills",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "H Klaasen",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "16.4",
+              "batter": "F du Plessis",
+              "bowler": "TS Mills",
+              "non_striker": "H Klaasen",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "16.5",
+              "batter": "H Klaasen",
+              "bowler": "TS Mills",
+              "non_striker": "F du Plessis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "16.6",
+              "batter": "H Klaasen",
+              "bowler": "TS Mills",
+              "non_striker": "F du Plessis",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "actual_delivery": "17.1",
+              "batter": "F du Plessis",
+              "bowler": "O Davidson",
+              "non_striker": "H Klaasen",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "17.2",
+              "batter": "F du Plessis",
+              "bowler": "O Davidson",
+              "non_striker": "H Klaasen",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "17.3",
+              "batter": "F du Plessis",
+              "bowler": "O Davidson",
+              "non_striker": "H Klaasen",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "17.4",
+              "batter": "F du Plessis",
+              "bowler": "O Davidson",
+              "non_striker": "H Klaasen",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "17.5",
+              "batter": "H Klaasen",
+              "bowler": "O Davidson",
+              "non_striker": "F du Plessis",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "17.6",
+              "batter": "H Klaasen",
+              "bowler": "O Davidson",
+              "non_striker": "F du Plessis",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "actual_delivery": "18.1",
+              "batter": "F du Plessis",
+              "bowler": "TS Mills",
+              "non_striker": "H Klaasen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "F du Plessis",
+                  "fielders": [
+                    {
+                      "name": "RD Berrington"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "18.2",
+              "batter": "D Wiese",
+              "bowler": "TS Mills",
+              "non_striker": "H Klaasen",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "18.3",
+              "batter": "H Klaasen",
+              "bowler": "TS Mills",
+              "non_striker": "D Wiese",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "18.4",
+              "batter": "H Klaasen",
+              "bowler": "TS Mills",
+              "non_striker": "D Wiese",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "18.5",
+              "batter": "D Wiese",
+              "bowler": "TS Mills",
+              "non_striker": "H Klaasen",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "18.6",
+              "batter": "D Wiese",
+              "bowler": "TS Mills",
+              "non_striker": "H Klaasen",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.4,
+          "type": "mandatory"
+        }
+      ]
+    },
+    {
+      "team": "Glasgow Cosmic",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "actual_delivery": "0.1",
+              "batter": "HG Munsey",
+              "bowler": "J Moondra",
+              "non_striker": "JJ Roy",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.2",
+              "batter": "HG Munsey",
+              "bowler": "J Moondra",
+              "non_striker": "JJ Roy",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "0.3",
+              "batter": "JJ Roy",
+              "bowler": "J Moondra",
+              "non_striker": "HG Munsey",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "0.4",
+              "batter": "JJ Roy",
+              "bowler": "J Moondra",
+              "non_striker": "HG Munsey",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "0.5",
+              "batter": "JJ Roy",
+              "bowler": "J Moondra",
+              "non_striker": "HG Munsey",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "0.6",
+              "batter": "JJ Roy",
+              "bowler": "J Moondra",
+              "non_striker": "HG Munsey",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "actual_delivery": "1.1",
+              "batter": "JJ Roy",
+              "bowler": "D Wiese",
+              "non_striker": "HG Munsey",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "1.2",
+              "batter": "JJ Roy",
+              "bowler": "D Wiese",
+              "non_striker": "HG Munsey",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.3",
+              "batter": "JJ Roy",
+              "bowler": "D Wiese",
+              "non_striker": "HG Munsey",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "1.4",
+              "batter": "HG Munsey",
+              "bowler": "D Wiese",
+              "non_striker": "JJ Roy",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "1.5",
+              "batter": "JJ Roy",
+              "bowler": "D Wiese",
+              "non_striker": "HG Munsey",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "1.6",
+              "batter": "JJ Roy",
+              "bowler": "D Wiese",
+              "non_striker": "HG Munsey",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "actual_delivery": "2.1",
+              "batter": "JJ Roy",
+              "bowler": "LV van Beek",
+              "non_striker": "HG Munsey",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "2.2",
+              "batter": "JJ Roy",
+              "bowler": "LV van Beek",
+              "non_striker": "HG Munsey",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "JJ Roy",
+                  "fielders": [
+                    {
+                      "name": "Vikramjit Singh"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "2.3",
+              "batter": "MC Henriques",
+              "bowler": "LV van Beek",
+              "non_striker": "HG Munsey",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "2.4",
+              "batter": "HG Munsey",
+              "bowler": "LV van Beek",
+              "non_striker": "MC Henriques",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "2.5",
+              "batter": "MC Henriques",
+              "bowler": "LV van Beek",
+              "non_striker": "HG Munsey",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.6",
+              "batter": "MC Henriques",
+              "bowler": "LV van Beek",
+              "non_striker": "HG Munsey",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "actual_delivery": "3.1",
+              "batter": "HG Munsey",
+              "bowler": "D Wiese",
+              "non_striker": "MC Henriques",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "3.2",
+              "batter": "MC Henriques",
+              "bowler": "D Wiese",
+              "non_striker": "HG Munsey",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.3",
+              "batter": "MC Henriques",
+              "bowler": "D Wiese",
+              "non_striker": "HG Munsey",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "3.4",
+              "batter": "MC Henriques",
+              "bowler": "D Wiese",
+              "non_striker": "HG Munsey",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "3.5",
+              "batter": "MC Henriques",
+              "bowler": "D Wiese",
+              "non_striker": "HG Munsey",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "3.6",
+              "batter": "HG Munsey",
+              "bowler": "D Wiese",
+              "non_striker": "MC Henriques",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "HG Munsey",
+                  "kind": "bowled"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "actual_delivery": "4.1",
+              "batter": "MC Henriques",
+              "bowler": "A Nortje",
+              "non_striker": "LS Livingstone",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.2",
+              "batter": "MC Henriques",
+              "bowler": "A Nortje",
+              "non_striker": "LS Livingstone",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "4.3",
+              "batter": "MC Henriques",
+              "bowler": "A Nortje",
+              "non_striker": "LS Livingstone",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.4",
+              "batter": "MC Henriques",
+              "bowler": "A Nortje",
+              "non_striker": "LS Livingstone",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "4.5",
+              "batter": "MC Henriques",
+              "bowler": "A Nortje",
+              "non_striker": "LS Livingstone",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "4.6",
+              "batter": "MC Henriques",
+              "bowler": "A Nortje",
+              "non_striker": "LS Livingstone",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "MC Henriques",
+                  "fielders": [
+                    {
+                      "name": "H Klaasen"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "actual_delivery": "5.1",
+              "batter": "LS Livingstone",
+              "bowler": "LV van Beek",
+              "non_striker": "RD Berrington",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.2",
+              "batter": "LS Livingstone",
+              "bowler": "LV van Beek",
+              "non_striker": "RD Berrington",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.3",
+              "batter": "LS Livingstone",
+              "bowler": "LV van Beek",
+              "non_striker": "RD Berrington",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "5.4",
+              "batter": "RD Berrington",
+              "bowler": "LV van Beek",
+              "non_striker": "LS Livingstone",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.5",
+              "batter": "RD Berrington",
+              "bowler": "LV van Beek",
+              "non_striker": "LS Livingstone",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.6",
+              "batter": "RD Berrington",
+              "bowler": "LV van Beek",
+              "non_striker": "LS Livingstone",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "actual_delivery": "6.1",
+              "batter": "LS Livingstone",
+              "bowler": "A Nortje",
+              "non_striker": "RD Berrington",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "6.2",
+              "batter": "LS Livingstone",
+              "bowler": "A Nortje",
+              "non_striker": "RD Berrington",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "6.3",
+              "batter": "LS Livingstone",
+              "bowler": "A Nortje",
+              "non_striker": "RD Berrington",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "6.4",
+              "batter": "LS Livingstone",
+              "bowler": "A Nortje",
+              "non_striker": "RD Berrington",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "LS Livingstone",
+                  "fielders": [
+                    {
+                      "name": "H Klaasen"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "6.5",
+              "batter": "JDS Neesham",
+              "bowler": "A Nortje",
+              "non_striker": "RD Berrington",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.6",
+              "batter": "RD Berrington",
+              "bowler": "A Nortje",
+              "non_striker": "JDS Neesham",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "actual_delivery": "7.1",
+              "batter": "JDS Neesham",
+              "bowler": "J Moondra",
+              "non_striker": "RD Berrington",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "7.2",
+              "batter": "RD Berrington",
+              "bowler": "J Moondra",
+              "non_striker": "JDS Neesham",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "7.3",
+              "batter": "RD Berrington",
+              "bowler": "J Moondra",
+              "non_striker": "JDS Neesham",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "7.4",
+              "batter": "RD Berrington",
+              "bowler": "J Moondra",
+              "non_striker": "JDS Neesham",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "7.5",
+              "batter": "JDS Neesham",
+              "bowler": "J Moondra",
+              "non_striker": "RD Berrington",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "7.6",
+              "batter": "RD Berrington",
+              "bowler": "J Moondra",
+              "non_striker": "JDS Neesham",
+              "review": {
+                "by": "Rotterdam Dockers",
+                "umpire": "Aidan Seaver",
+                "batter": "RD Berrington",
+                "decision": "upheld",
+                "type": "wicket"
+              },
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "RD Berrington",
+                  "fielders": [
+                    {
+                      "name": "H Klaasen"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "actual_delivery": "8.1",
+              "batter": "JDS Neesham",
+              "bowler": "RE van der Merwe",
+              "non_striker": "MH Cross",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "8.2",
+              "batter": "JDS Neesham",
+              "bowler": "RE van der Merwe",
+              "non_striker": "MH Cross",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "8.3",
+              "batter": "JDS Neesham",
+              "bowler": "RE van der Merwe",
+              "non_striker": "MH Cross",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "8.4",
+              "batter": "JDS Neesham",
+              "bowler": "RE van der Merwe",
+              "non_striker": "MH Cross",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "8.5",
+              "batter": "MH Cross",
+              "bowler": "RE van der Merwe",
+              "non_striker": "JDS Neesham",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "8.6",
+              "batter": "JDS Neesham",
+              "bowler": "RE van der Merwe",
+              "non_striker": "MH Cross",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "actual_delivery": "9.1",
+              "batter": "JDS Neesham",
+              "bowler": "J Moondra",
+              "non_striker": "MH Cross",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "9.2",
+              "batter": "JDS Neesham",
+              "bowler": "J Moondra",
+              "non_striker": "MH Cross",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "9.3",
+              "batter": "JDS Neesham",
+              "bowler": "J Moondra",
+              "non_striker": "MH Cross",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "9.4",
+              "batter": "JDS Neesham",
+              "bowler": "J Moondra",
+              "non_striker": "MH Cross",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "9.5",
+              "batter": "MH Cross",
+              "bowler": "J Moondra",
+              "non_striker": "JDS Neesham",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "9.6",
+              "batter": "MH Cross",
+              "bowler": "J Moondra",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "JDS Neesham",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "9.6",
+              "batter": "MH Cross",
+              "bowler": "J Moondra",
+              "non_striker": "JDS Neesham",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "actual_delivery": "10.1",
+              "batter": "JDS Neesham",
+              "bowler": "RE van der Merwe",
+              "non_striker": "MH Cross",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "10.2",
+              "batter": "JDS Neesham",
+              "bowler": "RE van der Merwe",
+              "non_striker": "MH Cross",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "10.3",
+              "batter": "MH Cross",
+              "bowler": "RE van der Merwe",
+              "non_striker": "JDS Neesham",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "10.4",
+              "batter": "JDS Neesham",
+              "bowler": "RE van der Merwe",
+              "non_striker": "MH Cross",
+              "review": {
+                "by": "Rotterdam Dockers",
+                "umpire": "N Bathi",
+                "batter": "JDS Neesham",
+                "decision": "struck down",
+                "type": "wicket"
+              },
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "10.5",
+              "batter": "JDS Neesham",
+              "bowler": "RE van der Merwe",
+              "non_striker": "MH Cross",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "10.6",
+              "batter": "MH Cross",
+              "bowler": "RE van der Merwe",
+              "non_striker": "JDS Neesham",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "actual_delivery": "11.1",
+              "batter": "JDS Neesham",
+              "bowler": "D Wiese",
+              "non_striker": "MH Cross",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "JDS Neesham",
+                  "fielders": [
+                    {
+                      "name": "F du Plessis"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "11.2",
+              "batter": "O Davidson",
+              "bowler": "D Wiese",
+              "non_striker": "MH Cross",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "11.3",
+              "batter": "MH Cross",
+              "bowler": "D Wiese",
+              "non_striker": "O Davidson",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "11.4",
+              "batter": "O Davidson",
+              "bowler": "D Wiese",
+              "non_striker": "MH Cross",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "11.5",
+              "batter": "O Davidson",
+              "bowler": "D Wiese",
+              "non_striker": "MH Cross",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "11.6",
+              "batter": "O Davidson",
+              "bowler": "D Wiese",
+              "non_striker": "MH Cross",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "actual_delivery": "12.1",
+              "batter": "MH Cross",
+              "bowler": "RE van der Merwe",
+              "non_striker": "O Davidson",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "12.2",
+              "batter": "MH Cross",
+              "bowler": "RE van der Merwe",
+              "non_striker": "O Davidson",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "12.3",
+              "batter": "MH Cross",
+              "bowler": "RE van der Merwe",
+              "non_striker": "O Davidson",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "12.4",
+              "batter": "MH Cross",
+              "bowler": "RE van der Merwe",
+              "non_striker": "O Davidson",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "12.5",
+              "batter": "MH Cross",
+              "bowler": "RE van der Merwe",
+              "non_striker": "O Davidson",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "12.6",
+              "batter": "O Davidson",
+              "bowler": "RE van der Merwe",
+              "non_striker": "MH Cross",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "actual_delivery": "13.1",
+              "batter": "MH Cross",
+              "bowler": "A Nortje",
+              "non_striker": "O Davidson",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "MH Cross",
+                  "fielders": [
+                    {
+                      "name": "LV van Beek"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "13.2",
+              "batter": "PA van Meekeren",
+              "bowler": "A Nortje",
+              "non_striker": "O Davidson",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "13.3",
+              "batter": "PA van Meekeren",
+              "bowler": "A Nortje",
+              "non_striker": "O Davidson",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "13.4",
+              "batter": "O Davidson",
+              "bowler": "A Nortje",
+              "non_striker": "PA van Meekeren",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "13.5",
+              "batter": "O Davidson",
+              "bowler": "A Nortje",
+              "non_striker": "PA van Meekeren",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "13.6",
+              "batter": "PA van Meekeren",
+              "bowler": "A Nortje",
+              "non_striker": "O Davidson",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "actual_delivery": "14.1",
+              "batter": "O Davidson",
+              "bowler": "J Moondra",
+              "non_striker": "PA van Meekeren",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "14.2",
+              "batter": "PA van Meekeren",
+              "bowler": "J Moondra",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "O Davidson",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "14.2",
+              "batter": "PA van Meekeren",
+              "bowler": "J Moondra",
+              "extras": {
+                "byes": 1
+              },
+              "non_striker": "O Davidson",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "14.3",
+              "batter": "O Davidson",
+              "bowler": "J Moondra",
+              "non_striker": "PA van Meekeren",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "14.4",
+              "batter": "O Davidson",
+              "bowler": "J Moondra",
+              "non_striker": "PA van Meekeren",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "14.5",
+              "batter": "PA van Meekeren",
+              "bowler": "J Moondra",
+              "non_striker": "O Davidson",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "14.6",
+              "batter": "PA van Meekeren",
+              "bowler": "J Moondra",
+              "non_striker": "O Davidson",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "actual_delivery": "15.1",
+              "batter": "O Davidson",
+              "bowler": "A Nortje",
+              "non_striker": "PA van Meekeren",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "15.2",
+              "batter": "PA van Meekeren",
+              "bowler": "A Nortje",
+              "non_striker": "O Davidson",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "15.3",
+              "batter": "O Davidson",
+              "bowler": "A Nortje",
+              "non_striker": "PA van Meekeren",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "15.4",
+              "batter": "O Davidson",
+              "bowler": "A Nortje",
+              "non_striker": "PA van Meekeren",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "15.5",
+              "batter": "PA van Meekeren",
+              "bowler": "A Nortje",
+              "non_striker": "O Davidson",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "15.6",
+              "batter": "O Davidson",
+              "bowler": "A Nortje",
+              "non_striker": "PA van Meekeren",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "actual_delivery": "16.1",
+              "batter": "O Davidson",
+              "bowler": "LV van Beek",
+              "extras": {
+                "byes": 1
+              },
+              "non_striker": "PA van Meekeren",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "16.2",
+              "batter": "PA van Meekeren",
+              "bowler": "LV van Beek",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "O Davidson",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "16.2",
+              "batter": "PA van Meekeren",
+              "bowler": "LV van Beek",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "O Davidson",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "16.2",
+              "batter": "PA van Meekeren",
+              "bowler": "LV van Beek",
+              "non_striker": "O Davidson",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "16.3",
+              "batter": "O Davidson",
+              "bowler": "LV van Beek",
+              "non_striker": "PA van Meekeren",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "O Davidson",
+                  "fielders": [
+                    {
+                      "name": "RE van der Merwe"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "16.4",
+              "batter": "TS Mills",
+              "bowler": "LV van Beek",
+              "non_striker": "PA van Meekeren",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "16.5",
+              "batter": "TS Mills",
+              "bowler": "LV van Beek",
+              "non_striker": "PA van Meekeren",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "16.6",
+              "batter": "PA van Meekeren",
+              "bowler": "LV van Beek",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "TS Mills",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "16.6",
+              "batter": "PA van Meekeren",
+              "bowler": "LV van Beek",
+              "non_striker": "TS Mills",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "actual_delivery": "17.1",
+              "batter": "PA van Meekeren",
+              "bowler": "D Wiese",
+              "non_striker": "TS Mills",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "17.2",
+              "batter": "PA van Meekeren",
+              "bowler": "D Wiese",
+              "non_striker": "TS Mills",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "17.3",
+              "batter": "PA van Meekeren",
+              "bowler": "D Wiese",
+              "non_striker": "TS Mills",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "17.4",
+              "batter": "PA van Meekeren",
+              "bowler": "D Wiese",
+              "non_striker": "TS Mills",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "17.5",
+              "batter": "PA van Meekeren",
+              "bowler": "D Wiese",
+              "non_striker": "TS Mills",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "17.6",
+              "batter": "PA van Meekeren",
+              "bowler": "D Wiese",
+              "non_striker": "TS Mills",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "actual_delivery": "18.1",
+              "batter": "TS Mills",
+              "bowler": "LV van Beek",
+              "non_striker": "PA van Meekeren",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "TS Mills",
+                  "fielders": [
+                    {
+                      "name": "HE van der Dussen"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "18.2",
+              "batter": "Ali Khan",
+              "bowler": "LV van Beek",
+              "non_striker": "PA van Meekeren",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "18.3",
+              "batter": "Ali Khan",
+              "bowler": "LV van Beek",
+              "non_striker": "PA van Meekeren",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "18.4",
+              "batter": "Ali Khan",
+              "bowler": "LV van Beek",
+              "non_striker": "PA van Meekeren",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "18.5",
+              "batter": "Ali Khan",
+              "bowler": "LV van Beek",
+              "non_striker": "PA van Meekeren",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "18.6",
+              "batter": "Ali Khan",
+              "bowler": "LV van Beek",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "PA van Meekeren",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "18.6",
+              "batter": "Ali Khan",
+              "bowler": "LV van Beek",
+              "non_striker": "PA van Meekeren",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.4,
+          "type": "mandatory"
+        }
+      ],
+      "target": {
+        "overs": 19,
+        "runs": 173
+      }
+    }
+  ]
+}

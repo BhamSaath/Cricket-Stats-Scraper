@@ -1,0 +1,2625 @@
+{
+  "meta": {
+    "data_version": "1.2.0",
+    "created": "2026-09-08",
+    "revision": 1
+  },
+  "info": {
+    "balls_per_over": 6,
+    "city": "Colombo",
+    "dates": [
+      "2026-09-05"
+    ],
+    "event": {
+      "name": "Major Clubs T20 Tournament",
+      "group": "A"
+    },
+    "gender": "male",
+    "match_type": "T20",
+    "officials": {
+      "match_referees": [
+        "BCMS Mendis"
+      ],
+      "reserve_umpires": [
+        "RD Kottahachchi"
+      ],
+      "umpires": [
+        "JWHD Boteju",
+        "RP Massalage"
+      ]
+    },
+    "outcome": {
+      "winner": "Colombo Cricket Club",
+      "by": {
+        "wickets": 8
+      }
+    },
+    "overs": 20,
+    "players": {
+      "Kurunegala Youth Cricket Club": [
+        "Hirusha Piumal",
+        "A Liyanaarachchi",
+        "A Thennakoon",
+        "L Dilshan",
+        "Dhanaja Edirisinghe",
+        "Vathila Udara",
+        "JRMVB Sanjaya",
+        "D Tennakoon",
+        "M Thilina",
+        "EMKB Ekanayake",
+        "SNA Nethmika"
+      ],
+      "Colombo Cricket Club": [
+        "KNM Fernando",
+        "D Sigera",
+        "DM de Silva",
+        "KNA Bandara",
+        "GS Dinusha",
+        "A Bandara",
+        "C Wijesinghe",
+        "I Karannagoda",
+        "MVT Fernando",
+        "D Ranatunga",
+        "T Wanninayake"
+      ]
+    },
+    "registry": {
+      "people": {
+        "A Bandara": "2d71e6cc",
+        "A Liyanaarachchi": "95a53b0f",
+        "A Thennakoon": "ba8e52ea",
+        "BCMS Mendis": "e3f6e4ac",
+        "C Wijesinghe": "0a2d45b0",
+        "D Ranatunga": "09b4d92f",
+        "D Sigera": "6c15c035",
+        "D Tennakoon": "f1e86c3f",
+        "DM de Silva": "7d608e12",
+        "Dhanaja Edirisinghe": "657110b5",
+        "EMKB Ekanayake": "60e5dc97",
+        "GS Dinusha": "4bbfddd5",
+        "Hirusha Piumal": "ba95b0a5",
+        "I Karannagoda": "ddce5289",
+        "JRMVB Sanjaya": "530b20e3",
+        "JWHD Boteju": "7934d6fb",
+        "KNA Bandara": "585dda5d",
+        "KNM Fernando": "d2a2bb1a",
+        "L Dilshan": "6ebc1c30",
+        "M Thilina": "b63b7aa9",
+        "MVT Fernando": "5eef2118",
+        "RD Kottahachchi": "92e41d14",
+        "RP Massalage": "6ffbe2e2",
+        "SNA Nethmika": "3bec2696",
+        "T Wanninayake": "89728e27",
+        "Vathila Udara": "6bc91087"
+      }
+    },
+    "season": "2026",
+    "team_type": "club",
+    "teams": [
+      "Kurunegala Youth Cricket Club",
+      "Colombo Cricket Club"
+    ],
+    "toss": {
+      "decision": "field",
+      "winner": "Colombo Cricket Club"
+    },
+    "venue": "Colts Cricket Club Ground, Colombo"
+  },
+  "innings": [
+    {
+      "team": "Kurunegala Youth Cricket Club",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "actual_delivery": "0.1",
+              "batter": "Hirusha Piumal",
+              "bowler": "MVT Fernando",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "A Liyanaarachchi",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "0.1",
+              "batter": "Hirusha Piumal",
+              "bowler": "MVT Fernando",
+              "non_striker": "A Liyanaarachchi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Hirusha Piumal",
+                  "kind": "lbw"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "0.2",
+              "batter": "A Thennakoon",
+              "bowler": "MVT Fernando",
+              "non_striker": "A Liyanaarachchi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.3",
+              "batter": "A Thennakoon",
+              "bowler": "MVT Fernando",
+              "non_striker": "A Liyanaarachchi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.4",
+              "batter": "A Thennakoon",
+              "bowler": "MVT Fernando",
+              "non_striker": "A Liyanaarachchi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.5",
+              "batter": "A Thennakoon",
+              "bowler": "MVT Fernando",
+              "non_striker": "A Liyanaarachchi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "0.6",
+              "batter": "A Liyanaarachchi",
+              "bowler": "MVT Fernando",
+              "non_striker": "A Thennakoon",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "actual_delivery": "1.1",
+              "batter": "A Thennakoon",
+              "bowler": "D Ranatunga",
+              "non_striker": "A Liyanaarachchi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.2",
+              "batter": "A Thennakoon",
+              "bowler": "D Ranatunga",
+              "non_striker": "A Liyanaarachchi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "1.3",
+              "batter": "A Liyanaarachchi",
+              "bowler": "D Ranatunga",
+              "non_striker": "A Thennakoon",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.4",
+              "batter": "A Liyanaarachchi",
+              "bowler": "D Ranatunga",
+              "non_striker": "A Thennakoon",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "1.5",
+              "batter": "A Thennakoon",
+              "bowler": "D Ranatunga",
+              "non_striker": "A Liyanaarachchi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.6",
+              "batter": "A Thennakoon",
+              "bowler": "D Ranatunga",
+              "non_striker": "A Liyanaarachchi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "A Thennakoon",
+                  "fielders": [
+                    {
+                      "name": "GS Dinusha"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "actual_delivery": "2.1",
+              "batter": "A Liyanaarachchi",
+              "bowler": "MVT Fernando",
+              "non_striker": "L Dilshan",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "2.2",
+              "batter": "A Liyanaarachchi",
+              "bowler": "MVT Fernando",
+              "non_striker": "L Dilshan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.3",
+              "batter": "A Liyanaarachchi",
+              "bowler": "MVT Fernando",
+              "non_striker": "L Dilshan",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "2.4",
+              "batter": "A Liyanaarachchi",
+              "bowler": "MVT Fernando",
+              "non_striker": "L Dilshan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.5",
+              "batter": "A Liyanaarachchi",
+              "bowler": "MVT Fernando",
+              "non_striker": "L Dilshan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.6",
+              "batter": "A Liyanaarachchi",
+              "bowler": "MVT Fernando",
+              "non_striker": "L Dilshan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "actual_delivery": "3.1",
+              "batter": "L Dilshan",
+              "bowler": "D Ranatunga",
+              "non_striker": "A Liyanaarachchi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.2",
+              "batter": "L Dilshan",
+              "bowler": "D Ranatunga",
+              "non_striker": "A Liyanaarachchi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.3",
+              "batter": "L Dilshan",
+              "bowler": "D Ranatunga",
+              "non_striker": "A Liyanaarachchi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.4",
+              "batter": "L Dilshan",
+              "bowler": "D Ranatunga",
+              "non_striker": "A Liyanaarachchi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.5",
+              "batter": "L Dilshan",
+              "bowler": "D Ranatunga",
+              "non_striker": "A Liyanaarachchi",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "3.6",
+              "batter": "L Dilshan",
+              "bowler": "D Ranatunga",
+              "non_striker": "A Liyanaarachchi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "actual_delivery": "4.1",
+              "batter": "A Liyanaarachchi",
+              "bowler": "C Wijesinghe",
+              "non_striker": "L Dilshan",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "4.2",
+              "batter": "A Liyanaarachchi",
+              "bowler": "C Wijesinghe",
+              "non_striker": "L Dilshan",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "4.3",
+              "batter": "A Liyanaarachchi",
+              "bowler": "C Wijesinghe",
+              "non_striker": "L Dilshan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.4",
+              "batter": "A Liyanaarachchi",
+              "bowler": "C Wijesinghe",
+              "non_striker": "L Dilshan",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "4.5",
+              "batter": "A Liyanaarachchi",
+              "bowler": "C Wijesinghe",
+              "non_striker": "L Dilshan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "4.6",
+              "batter": "L Dilshan",
+              "bowler": "C Wijesinghe",
+              "non_striker": "A Liyanaarachchi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "L Dilshan",
+                  "fielders": [
+                    {
+                      "name": "T Wanninayake"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "actual_delivery": "5.1",
+              "batter": "A Liyanaarachchi",
+              "bowler": "I Karannagoda",
+              "non_striker": "Dhanaja Edirisinghe",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "5.2",
+              "batter": "Dhanaja Edirisinghe",
+              "bowler": "I Karannagoda",
+              "non_striker": "A Liyanaarachchi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.3",
+              "batter": "Dhanaja Edirisinghe",
+              "bowler": "I Karannagoda",
+              "non_striker": "A Liyanaarachchi",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "5.4",
+              "batter": "Dhanaja Edirisinghe",
+              "bowler": "I Karannagoda",
+              "non_striker": "A Liyanaarachchi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "5.5",
+              "batter": "A Liyanaarachchi",
+              "bowler": "I Karannagoda",
+              "non_striker": "Dhanaja Edirisinghe",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.6",
+              "batter": "A Liyanaarachchi",
+              "bowler": "I Karannagoda",
+              "non_striker": "Dhanaja Edirisinghe",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "actual_delivery": "6.1",
+              "batter": "Dhanaja Edirisinghe",
+              "bowler": "C Wijesinghe",
+              "non_striker": "A Liyanaarachchi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.2",
+              "batter": "A Liyanaarachchi",
+              "bowler": "C Wijesinghe",
+              "non_striker": "Dhanaja Edirisinghe",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "6.3",
+              "batter": "A Liyanaarachchi",
+              "bowler": "C Wijesinghe",
+              "non_striker": "Dhanaja Edirisinghe",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "6.4",
+              "batter": "A Liyanaarachchi",
+              "bowler": "C Wijesinghe",
+              "non_striker": "Dhanaja Edirisinghe",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "A Liyanaarachchi",
+                  "fielders": [
+                    {
+                      "name": "DM de Silva"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "6.5",
+              "batter": "Vathila Udara",
+              "bowler": "C Wijesinghe",
+              "non_striker": "Dhanaja Edirisinghe",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "6.6",
+              "batter": "Vathila Udara",
+              "bowler": "C Wijesinghe",
+              "non_striker": "Dhanaja Edirisinghe",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "actual_delivery": "7.1",
+              "batter": "Dhanaja Edirisinghe",
+              "bowler": "I Karannagoda",
+              "non_striker": "Vathila Udara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "7.2",
+              "batter": "Dhanaja Edirisinghe",
+              "bowler": "I Karannagoda",
+              "non_striker": "Vathila Udara",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "7.3",
+              "batter": "Vathila Udara",
+              "bowler": "I Karannagoda",
+              "non_striker": "Dhanaja Edirisinghe",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "7.4",
+              "batter": "Dhanaja Edirisinghe",
+              "bowler": "I Karannagoda",
+              "non_striker": "Vathila Udara",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "7.5",
+              "batter": "Vathila Udara",
+              "bowler": "I Karannagoda",
+              "non_striker": "Dhanaja Edirisinghe",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "7.6",
+              "batter": "Dhanaja Edirisinghe",
+              "bowler": "I Karannagoda",
+              "non_striker": "Vathila Udara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "actual_delivery": "8.1",
+              "batter": "Vathila Udara",
+              "bowler": "T Wanninayake",
+              "non_striker": "Dhanaja Edirisinghe",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "8.2",
+              "batter": "Vathila Udara",
+              "bowler": "T Wanninayake",
+              "non_striker": "Dhanaja Edirisinghe",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "8.3",
+              "batter": "Dhanaja Edirisinghe",
+              "bowler": "T Wanninayake",
+              "non_striker": "Vathila Udara",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "8.4",
+              "batter": "Vathila Udara",
+              "bowler": "T Wanninayake",
+              "non_striker": "Dhanaja Edirisinghe",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "8.5",
+              "batter": "Dhanaja Edirisinghe",
+              "bowler": "T Wanninayake",
+              "non_striker": "Vathila Udara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "8.6",
+              "batter": "Dhanaja Edirisinghe",
+              "bowler": "T Wanninayake",
+              "non_striker": "Vathila Udara",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "actual_delivery": "9.1",
+              "batter": "Dhanaja Edirisinghe",
+              "bowler": "GS Dinusha",
+              "non_striker": "Vathila Udara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "9.2",
+              "batter": "Dhanaja Edirisinghe",
+              "bowler": "GS Dinusha",
+              "non_striker": "Vathila Udara",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "9.3",
+              "batter": "Vathila Udara",
+              "bowler": "GS Dinusha",
+              "non_striker": "Dhanaja Edirisinghe",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "9.4",
+              "batter": "Vathila Udara",
+              "bowler": "GS Dinusha",
+              "non_striker": "Dhanaja Edirisinghe",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "9.5",
+              "batter": "Dhanaja Edirisinghe",
+              "bowler": "GS Dinusha",
+              "non_striker": "Vathila Udara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "9.6",
+              "batter": "Dhanaja Edirisinghe",
+              "bowler": "GS Dinusha",
+              "non_striker": "Vathila Udara",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "actual_delivery": "10.1",
+              "batter": "Dhanaja Edirisinghe",
+              "bowler": "T Wanninayake",
+              "non_striker": "Vathila Udara",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "10.2",
+              "batter": "Vathila Udara",
+              "bowler": "T Wanninayake",
+              "non_striker": "Dhanaja Edirisinghe",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "10.3",
+              "batter": "Dhanaja Edirisinghe",
+              "bowler": "T Wanninayake",
+              "non_striker": "Vathila Udara",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "10.4",
+              "batter": "Vathila Udara",
+              "bowler": "T Wanninayake",
+              "non_striker": "Dhanaja Edirisinghe",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "10.5",
+              "batter": "Dhanaja Edirisinghe",
+              "bowler": "T Wanninayake",
+              "non_striker": "Vathila Udara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "10.6",
+              "batter": "Dhanaja Edirisinghe",
+              "bowler": "T Wanninayake",
+              "non_striker": "Vathila Udara",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "actual_delivery": "11.1",
+              "batter": "Vathila Udara",
+              "bowler": "GS Dinusha",
+              "non_striker": "Dhanaja Edirisinghe",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "11.2",
+              "batter": "Vathila Udara",
+              "bowler": "GS Dinusha",
+              "non_striker": "Dhanaja Edirisinghe",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "11.3",
+              "batter": "Vathila Udara",
+              "bowler": "GS Dinusha",
+              "non_striker": "Dhanaja Edirisinghe",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "11.4",
+              "batter": "Dhanaja Edirisinghe",
+              "bowler": "GS Dinusha",
+              "non_striker": "Vathila Udara",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "11.5",
+              "batter": "Vathila Udara",
+              "bowler": "GS Dinusha",
+              "non_striker": "Dhanaja Edirisinghe",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "11.6",
+              "batter": "Vathila Udara",
+              "bowler": "GS Dinusha",
+              "non_striker": "Dhanaja Edirisinghe",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "actual_delivery": "12.1",
+              "batter": "Vathila Udara",
+              "bowler": "I Karannagoda",
+              "non_striker": "Dhanaja Edirisinghe",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "12.2",
+              "batter": "Dhanaja Edirisinghe",
+              "bowler": "I Karannagoda",
+              "non_striker": "Vathila Udara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "12.3",
+              "batter": "Dhanaja Edirisinghe",
+              "bowler": "I Karannagoda",
+              "non_striker": "Vathila Udara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Dhanaja Edirisinghe",
+                  "fielders": [
+                    {
+                      "name": "A Bandara"
+                    }
+                  ],
+                  "kind": "stumped"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "12.4",
+              "batter": "JRMVB Sanjaya",
+              "bowler": "I Karannagoda",
+              "non_striker": "Vathila Udara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "12.5",
+              "batter": "JRMVB Sanjaya",
+              "bowler": "I Karannagoda",
+              "non_striker": "Vathila Udara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "12.6",
+              "batter": "JRMVB Sanjaya",
+              "bowler": "I Karannagoda",
+              "non_striker": "Vathila Udara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "actual_delivery": "13.1",
+              "batter": "Vathila Udara",
+              "bowler": "GS Dinusha",
+              "non_striker": "JRMVB Sanjaya",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "13.2",
+              "batter": "Vathila Udara",
+              "bowler": "GS Dinusha",
+              "non_striker": "JRMVB Sanjaya",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "13.3",
+              "batter": "Vathila Udara",
+              "bowler": "GS Dinusha",
+              "non_striker": "JRMVB Sanjaya",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Vathila Udara",
+                  "fielders": [
+                    {
+                      "name": "KNM Fernando"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "13.4",
+              "batter": "D Tennakoon",
+              "bowler": "GS Dinusha",
+              "non_striker": "JRMVB Sanjaya",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "13.5",
+              "batter": "JRMVB Sanjaya",
+              "bowler": "GS Dinusha",
+              "non_striker": "D Tennakoon",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "13.6",
+              "batter": "D Tennakoon",
+              "bowler": "GS Dinusha",
+              "non_striker": "JRMVB Sanjaya",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "actual_delivery": "14.1",
+              "batter": "JRMVB Sanjaya",
+              "bowler": "I Karannagoda",
+              "non_striker": "D Tennakoon",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "14.2",
+              "batter": "JRMVB Sanjaya",
+              "bowler": "I Karannagoda",
+              "non_striker": "D Tennakoon",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "14.3",
+              "batter": "D Tennakoon",
+              "bowler": "I Karannagoda",
+              "non_striker": "JRMVB Sanjaya",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "14.4",
+              "batter": "D Tennakoon",
+              "bowler": "I Karannagoda",
+              "non_striker": "JRMVB Sanjaya",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "14.5",
+              "batter": "JRMVB Sanjaya",
+              "bowler": "I Karannagoda",
+              "non_striker": "D Tennakoon",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "14.6",
+              "batter": "D Tennakoon",
+              "bowler": "I Karannagoda",
+              "non_striker": "JRMVB Sanjaya",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "D Tennakoon",
+                  "fielders": [
+                    {
+                      "name": "GS Dinusha"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "actual_delivery": "15.1",
+              "batter": "JRMVB Sanjaya",
+              "bowler": "GS Dinusha",
+              "non_striker": "M Thilina",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "15.2",
+              "batter": "JRMVB Sanjaya",
+              "bowler": "GS Dinusha",
+              "non_striker": "M Thilina",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "15.3",
+              "batter": "JRMVB Sanjaya",
+              "bowler": "GS Dinusha",
+              "non_striker": "M Thilina",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "15.4",
+              "batter": "M Thilina",
+              "bowler": "GS Dinusha",
+              "non_striker": "JRMVB Sanjaya",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "15.5",
+              "batter": "M Thilina",
+              "bowler": "GS Dinusha",
+              "non_striker": "JRMVB Sanjaya",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "15.6",
+              "batter": "JRMVB Sanjaya",
+              "bowler": "GS Dinusha",
+              "non_striker": "M Thilina",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "actual_delivery": "16.1",
+              "batter": "JRMVB Sanjaya",
+              "bowler": "MVT Fernando",
+              "non_striker": "M Thilina",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "16.2",
+              "batter": "JRMVB Sanjaya",
+              "bowler": "MVT Fernando",
+              "non_striker": "M Thilina",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "16.3",
+              "batter": "JRMVB Sanjaya",
+              "bowler": "MVT Fernando",
+              "non_striker": "M Thilina",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "16.4",
+              "batter": "JRMVB Sanjaya",
+              "bowler": "MVT Fernando",
+              "non_striker": "M Thilina",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "16.5",
+              "batter": "M Thilina",
+              "bowler": "MVT Fernando",
+              "non_striker": "JRMVB Sanjaya",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "16.6",
+              "batter": "JRMVB Sanjaya",
+              "bowler": "MVT Fernando",
+              "non_striker": "M Thilina",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "actual_delivery": "17.1",
+              "batter": "JRMVB Sanjaya",
+              "bowler": "C Wijesinghe",
+              "non_striker": "M Thilina",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "17.2",
+              "batter": "JRMVB Sanjaya",
+              "bowler": "C Wijesinghe",
+              "non_striker": "M Thilina",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "17.3",
+              "batter": "JRMVB Sanjaya",
+              "bowler": "C Wijesinghe",
+              "non_striker": "M Thilina",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "17.4",
+              "batter": "JRMVB Sanjaya",
+              "bowler": "C Wijesinghe",
+              "non_striker": "M Thilina",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "17.5",
+              "batter": "JRMVB Sanjaya",
+              "bowler": "C Wijesinghe",
+              "non_striker": "M Thilina",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "17.6",
+              "batter": "JRMVB Sanjaya",
+              "bowler": "C Wijesinghe",
+              "non_striker": "M Thilina",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "actual_delivery": "18.1",
+              "batter": "JRMVB Sanjaya",
+              "bowler": "MVT Fernando",
+              "non_striker": "M Thilina",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "18.2",
+              "batter": "M Thilina",
+              "bowler": "MVT Fernando",
+              "non_striker": "JRMVB Sanjaya",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "18.3",
+              "batter": "JRMVB Sanjaya",
+              "bowler": "MVT Fernando",
+              "non_striker": "M Thilina",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "18.4",
+              "batter": "M Thilina",
+              "bowler": "MVT Fernando",
+              "non_striker": "JRMVB Sanjaya",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "18.5",
+              "batter": "JRMVB Sanjaya",
+              "bowler": "MVT Fernando",
+              "non_striker": "M Thilina",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "JRMVB Sanjaya",
+                  "fielders": [
+                    {
+                      "name": "I Karannagoda"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "18.6",
+              "batter": "EMKB Ekanayake",
+              "bowler": "MVT Fernando",
+              "non_striker": "M Thilina",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "EMKB Ekanayake",
+                  "fielders": [
+                    {
+                      "name": "GS Dinusha"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "actual_delivery": "19.1",
+              "batter": "M Thilina",
+              "bowler": "C Wijesinghe",
+              "non_striker": "SNA Nethmika",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "M Thilina",
+                  "fielders": [
+                    {
+                      "name": "GS Dinusha"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.6,
+          "type": "mandatory"
+        }
+      ]
+    },
+    {
+      "team": "Colombo Cricket Club",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "actual_delivery": "0.1",
+              "batter": "KNM Fernando",
+              "bowler": "JRMVB Sanjaya",
+              "non_striker": "D Sigera",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "0.2",
+              "batter": "D Sigera",
+              "bowler": "JRMVB Sanjaya",
+              "non_striker": "KNM Fernando",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "0.3",
+              "batter": "KNM Fernando",
+              "bowler": "JRMVB Sanjaya",
+              "non_striker": "D Sigera",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "0.4",
+              "batter": "KNM Fernando",
+              "bowler": "JRMVB Sanjaya",
+              "non_striker": "D Sigera",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "0.5",
+              "batter": "D Sigera",
+              "bowler": "JRMVB Sanjaya",
+              "non_striker": "KNM Fernando",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "0.6",
+              "batter": "D Sigera",
+              "bowler": "JRMVB Sanjaya",
+              "non_striker": "KNM Fernando",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "actual_delivery": "1.1",
+              "batter": "KNM Fernando",
+              "bowler": "EMKB Ekanayake",
+              "non_striker": "D Sigera",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.2",
+              "batter": "KNM Fernando",
+              "bowler": "EMKB Ekanayake",
+              "non_striker": "D Sigera",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.3",
+              "batter": "KNM Fernando",
+              "bowler": "EMKB Ekanayake",
+              "non_striker": "D Sigera",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "1.4",
+              "batter": "D Sigera",
+              "bowler": "EMKB Ekanayake",
+              "non_striker": "KNM Fernando",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "1.5",
+              "batter": "KNM Fernando",
+              "bowler": "EMKB Ekanayake",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "D Sigera",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "1.5",
+              "batter": "KNM Fernando",
+              "bowler": "EMKB Ekanayake",
+              "non_striker": "D Sigera",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "1.6",
+              "batter": "KNM Fernando",
+              "bowler": "EMKB Ekanayake",
+              "non_striker": "D Sigera",
+              "runs": {
+                "batter": 3,
+                "extras": 0,
+                "total": 3
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "actual_delivery": "2.1",
+              "batter": "KNM Fernando",
+              "bowler": "M Thilina",
+              "non_striker": "D Sigera",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "2.2",
+              "batter": "KNM Fernando",
+              "bowler": "M Thilina",
+              "non_striker": "D Sigera",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.3",
+              "batter": "KNM Fernando",
+              "bowler": "M Thilina",
+              "non_striker": "D Sigera",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "D Sigera",
+                  "fielders": [
+                    {
+                      "name": "Dhanaja Edirisinghe"
+                    },
+                    {
+                      "name": "M Thilina"
+                    }
+                  ],
+                  "kind": "run out"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "2.4",
+              "batter": "KNM Fernando",
+              "bowler": "M Thilina",
+              "non_striker": "DM de Silva",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "2.5",
+              "batter": "DM de Silva",
+              "bowler": "M Thilina",
+              "non_striker": "KNM Fernando",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.6",
+              "batter": "DM de Silva",
+              "bowler": "M Thilina",
+              "non_striker": "KNM Fernando",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "actual_delivery": "3.1",
+              "batter": "DM de Silva",
+              "bowler": "D Tennakoon",
+              "non_striker": "KNM Fernando",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.2",
+              "batter": "DM de Silva",
+              "bowler": "D Tennakoon",
+              "non_striker": "KNM Fernando",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "3.3",
+              "batter": "KNM Fernando",
+              "bowler": "D Tennakoon",
+              "non_striker": "DM de Silva",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.4",
+              "batter": "KNM Fernando",
+              "bowler": "D Tennakoon",
+              "non_striker": "DM de Silva",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "3.5",
+              "batter": "KNM Fernando",
+              "bowler": "D Tennakoon",
+              "non_striker": "DM de Silva",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.6",
+              "batter": "KNM Fernando",
+              "bowler": "D Tennakoon",
+              "non_striker": "DM de Silva",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "actual_delivery": "4.1",
+              "batter": "DM de Silva",
+              "bowler": "M Thilina",
+              "non_striker": "KNM Fernando",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "DM de Silva",
+                  "fielders": [
+                    {
+                      "name": "Vathila Udara"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "4.2",
+              "batter": "KNA Bandara",
+              "bowler": "M Thilina",
+              "non_striker": "KNM Fernando",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.3",
+              "batter": "KNA Bandara",
+              "bowler": "M Thilina",
+              "non_striker": "KNM Fernando",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.4",
+              "batter": "KNA Bandara",
+              "bowler": "M Thilina",
+              "non_striker": "KNM Fernando",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "4.5",
+              "batter": "KNM Fernando",
+              "bowler": "M Thilina",
+              "non_striker": "KNA Bandara",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "4.6",
+              "batter": "KNA Bandara",
+              "bowler": "M Thilina",
+              "non_striker": "KNM Fernando",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "actual_delivery": "5.1",
+              "batter": "KNA Bandara",
+              "bowler": "D Tennakoon",
+              "non_striker": "KNM Fernando",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.2",
+              "batter": "KNA Bandara",
+              "bowler": "D Tennakoon",
+              "non_striker": "KNM Fernando",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.3",
+              "batter": "KNA Bandara",
+              "bowler": "D Tennakoon",
+              "non_striker": "KNM Fernando",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "5.4",
+              "batter": "KNM Fernando",
+              "bowler": "D Tennakoon",
+              "non_striker": "KNA Bandara",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "5.5",
+              "batter": "KNA Bandara",
+              "bowler": "D Tennakoon",
+              "non_striker": "KNM Fernando",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.6",
+              "batter": "KNA Bandara",
+              "bowler": "D Tennakoon",
+              "non_striker": "KNM Fernando",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "actual_delivery": "6.1",
+              "batter": "KNM Fernando",
+              "bowler": "M Thilina",
+              "non_striker": "KNA Bandara",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.2",
+              "batter": "KNA Bandara",
+              "bowler": "M Thilina",
+              "non_striker": "KNM Fernando",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.3",
+              "batter": "KNM Fernando",
+              "bowler": "M Thilina",
+              "non_striker": "KNA Bandara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "6.4",
+              "batter": "KNM Fernando",
+              "bowler": "M Thilina",
+              "non_striker": "KNA Bandara",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "6.5",
+              "batter": "KNM Fernando",
+              "bowler": "M Thilina",
+              "non_striker": "KNA Bandara",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.6",
+              "batter": "KNA Bandara",
+              "bowler": "M Thilina",
+              "non_striker": "KNM Fernando",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "actual_delivery": "7.1",
+              "batter": "KNA Bandara",
+              "bowler": "SNA Nethmika",
+              "non_striker": "KNM Fernando",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "7.2",
+              "batter": "KNA Bandara",
+              "bowler": "SNA Nethmika",
+              "non_striker": "KNM Fernando",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "7.3",
+              "batter": "KNM Fernando",
+              "bowler": "SNA Nethmika",
+              "non_striker": "KNA Bandara",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "7.4",
+              "batter": "KNM Fernando",
+              "bowler": "SNA Nethmika",
+              "non_striker": "KNA Bandara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "7.5",
+              "batter": "KNM Fernando",
+              "bowler": "SNA Nethmika",
+              "non_striker": "KNA Bandara",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "7.6",
+              "batter": "KNA Bandara",
+              "bowler": "SNA Nethmika",
+              "non_striker": "KNM Fernando",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "actual_delivery": "8.1",
+              "batter": "KNA Bandara",
+              "bowler": "D Tennakoon",
+              "non_striker": "KNM Fernando",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "8.2",
+              "batter": "KNM Fernando",
+              "bowler": "D Tennakoon",
+              "non_striker": "KNA Bandara",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "8.3",
+              "batter": "KNA Bandara",
+              "bowler": "D Tennakoon",
+              "non_striker": "KNM Fernando",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "8.4",
+              "batter": "KNM Fernando",
+              "bowler": "D Tennakoon",
+              "non_striker": "KNA Bandara",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "8.5",
+              "batter": "KNM Fernando",
+              "bowler": "D Tennakoon",
+              "non_striker": "KNA Bandara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "8.6",
+              "batter": "KNM Fernando",
+              "bowler": "D Tennakoon",
+              "non_striker": "KNA Bandara",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "actual_delivery": "9.1",
+              "batter": "KNA Bandara",
+              "bowler": "Vathila Udara",
+              "non_striker": "KNM Fernando",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "9.2",
+              "batter": "KNM Fernando",
+              "bowler": "Vathila Udara",
+              "non_striker": "KNA Bandara",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "9.3",
+              "batter": "KNM Fernando",
+              "bowler": "Vathila Udara",
+              "non_striker": "KNA Bandara",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "9.4",
+              "batter": "KNA Bandara",
+              "bowler": "Vathila Udara",
+              "non_striker": "KNM Fernando",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "9.5",
+              "batter": "KNM Fernando",
+              "bowler": "Vathila Udara",
+              "non_striker": "KNA Bandara",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "9.6",
+              "batter": "KNA Bandara",
+              "bowler": "Vathila Udara",
+              "non_striker": "KNM Fernando",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "actual_delivery": "10.1",
+              "batter": "KNM Fernando",
+              "bowler": "SNA Nethmika",
+              "non_striker": "KNA Bandara",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "10.2",
+              "batter": "KNM Fernando",
+              "bowler": "SNA Nethmika",
+              "non_striker": "KNA Bandara",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "10.3",
+              "batter": "KNA Bandara",
+              "bowler": "SNA Nethmika",
+              "non_striker": "KNM Fernando",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "10.4",
+              "batter": "KNA Bandara",
+              "bowler": "SNA Nethmika",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "KNM Fernando",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "10.4",
+              "batter": "KNA Bandara",
+              "bowler": "SNA Nethmika",
+              "non_striker": "KNM Fernando",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "10.5",
+              "batter": "KNA Bandara",
+              "bowler": "SNA Nethmika",
+              "non_striker": "KNM Fernando",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "10.6",
+              "batter": "KNA Bandara",
+              "bowler": "SNA Nethmika",
+              "non_striker": "KNM Fernando",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "actual_delivery": "11.1",
+              "batter": "KNM Fernando",
+              "bowler": "Vathila Udara",
+              "non_striker": "KNA Bandara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "11.2",
+              "batter": "KNM Fernando",
+              "bowler": "Vathila Udara",
+              "non_striker": "KNA Bandara",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "11.3",
+              "batter": "KNA Bandara",
+              "bowler": "Vathila Udara",
+              "non_striker": "KNM Fernando",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "11.4",
+              "batter": "KNA Bandara",
+              "bowler": "Vathila Udara",
+              "non_striker": "KNM Fernando",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "11.5",
+              "batter": "KNM Fernando",
+              "bowler": "Vathila Udara",
+              "non_striker": "KNA Bandara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "11.6",
+              "batter": "KNM Fernando",
+              "bowler": "Vathila Udara",
+              "non_striker": "KNA Bandara",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "actual_delivery": "12.1",
+              "batter": "KNM Fernando",
+              "bowler": "M Thilina",
+              "non_striker": "KNA Bandara",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "12.2",
+              "batter": "KNA Bandara",
+              "bowler": "M Thilina",
+              "non_striker": "KNM Fernando",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "12.3",
+              "batter": "KNM Fernando",
+              "bowler": "M Thilina",
+              "non_striker": "KNA Bandara",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "12.4",
+              "batter": "KNA Bandara",
+              "bowler": "M Thilina",
+              "non_striker": "KNM Fernando",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "12.5",
+              "batter": "KNM Fernando",
+              "bowler": "M Thilina",
+              "non_striker": "KNA Bandara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "12.6",
+              "batter": "KNM Fernando",
+              "bowler": "M Thilina",
+              "non_striker": "KNA Bandara",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "actual_delivery": "13.1",
+              "batter": "KNM Fernando",
+              "bowler": "SNA Nethmika",
+              "non_striker": "KNA Bandara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "13.2",
+              "batter": "KNM Fernando",
+              "bowler": "SNA Nethmika",
+              "non_striker": "KNA Bandara",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.6,
+          "type": "mandatory"
+        }
+      ],
+      "target": {
+        "overs": 20,
+        "runs": 92
+      }
+    }
+  ]
+}

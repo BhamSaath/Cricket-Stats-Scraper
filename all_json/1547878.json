@@ -1,0 +1,859 @@
+{
+  "meta": {
+    "data_version": "1.2.0",
+    "created": "2026-08-31",
+    "revision": 1
+  },
+  "info": {
+    "balls_per_over": 6,
+    "city": "The Hague",
+    "dates": [
+      "2026-08-30"
+    ],
+    "event": {
+      "name": "European T20 Premier League",
+      "match_number": 7
+    },
+    "gender": "male",
+    "match_type": "T20",
+    "officials": {
+      "match_referees": [
+        "Philip Thompson"
+      ],
+      "reserve_umpires": [
+        "N Bathi"
+      ],
+      "tv_umpires": [
+        "Ryan Milne"
+      ],
+      "umpires": [
+        "CM Brown",
+        "R Black"
+      ]
+    },
+    "outcome": {
+      "winner": "Belfast Wolves",
+      "by": {
+        "wickets": 9
+      }
+    },
+    "overs": 20,
+    "player_of_match": [
+      "PR Stirling"
+    ],
+    "players": {
+      "Amsterdam Flames": [
+        "YS Samra",
+        "SPD Smith",
+        "TH David",
+        "BFW de Leede",
+        "C Campher",
+        "SA Edwards",
+        "D Rushmere",
+        "J Neill",
+        "A Dutt",
+        "DA Payne",
+        "RJ Gleeson"
+      ],
+      "Belfast Wolves": [
+        "MS Chapman",
+        "PR Stirling",
+        "GJ Maxwell",
+        "TH Tector",
+        "DA Miller",
+        "L Tucker",
+        "CJ Jordan",
+        "MR Adair",
+        "FJ Klaassen",
+        "MJ Humphreys",
+        "HJ Manenti"
+      ]
+    },
+    "registry": {
+      "people": {
+        "A Dutt": "803dbf1d",
+        "BFW de Leede": "fc4375ef",
+        "C Campher": "478a63e7",
+        "CJ Jordan": "ffe699c0",
+        "CM Brown": "448f4f1c",
+        "D Rushmere": "3234426b",
+        "DA Miller": "d67d5f00",
+        "DA Payne": "6c79c098",
+        "FJ Klaassen": "c042b412",
+        "GJ Maxwell": "b681e71e",
+        "HJ Manenti": "0e56c514",
+        "J Neill": "8bb34d86",
+        "L Tucker": "3979b5e0",
+        "MJ Humphreys": "2c54c49b",
+        "MR Adair": "fc55ec67",
+        "MS Chapman": "7fa12533",
+        "N Bathi": "96a0edf9",
+        "PR Stirling": "cf494ffe",
+        "Philip Thompson": "0c677650",
+        "R Black": "156c8fb1",
+        "RJ Gleeson": "402f8494",
+        "Ryan Milne": "d2343b26",
+        "SA Edwards": "b59db04f",
+        "SPD Smith": "30a45b23",
+        "TH David": "f1f99156",
+        "TH Tector": "0348f9a5",
+        "YS Samra": "d02c40ab"
+      }
+    },
+    "season": "2026",
+    "team_type": "club",
+    "teams": [
+      "Amsterdam Flames",
+      "Belfast Wolves"
+    ],
+    "toss": {
+      "decision": "field",
+      "winner": "Belfast Wolves"
+    },
+    "venue": "Sportpark Westvliet, The Hague"
+  },
+  "innings": [
+    {
+      "team": "Amsterdam Flames",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "actual_delivery": "0.1",
+              "batter": "YS Samra",
+              "bowler": "MJ Humphreys",
+              "non_striker": "SPD Smith",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "0.2",
+              "batter": "SPD Smith",
+              "bowler": "MJ Humphreys",
+              "non_striker": "YS Samra",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "0.3",
+              "batter": "SPD Smith",
+              "bowler": "MJ Humphreys",
+              "non_striker": "YS Samra",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.4",
+              "batter": "SPD Smith",
+              "bowler": "MJ Humphreys",
+              "non_striker": "YS Samra",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "0.5",
+              "batter": "SPD Smith",
+              "bowler": "MJ Humphreys",
+              "non_striker": "YS Samra",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "0.6",
+              "batter": "YS Samra",
+              "bowler": "MJ Humphreys",
+              "non_striker": "SPD Smith",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "actual_delivery": "1.1",
+              "batter": "SPD Smith",
+              "bowler": "MR Adair",
+              "non_striker": "YS Samra",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "1.2",
+              "batter": "SPD Smith",
+              "bowler": "MR Adair",
+              "non_striker": "YS Samra",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "1.3",
+              "batter": "YS Samra",
+              "bowler": "MR Adair",
+              "non_striker": "SPD Smith",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.4",
+              "batter": "YS Samra",
+              "bowler": "MR Adair",
+              "non_striker": "SPD Smith",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "1.5",
+              "batter": "YS Samra",
+              "bowler": "MR Adair",
+              "non_striker": "SPD Smith",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "1.6",
+              "batter": "YS Samra",
+              "bowler": "MR Adair",
+              "non_striker": "SPD Smith",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "actual_delivery": "2.1",
+              "batter": "SPD Smith",
+              "bowler": "CJ Jordan",
+              "non_striker": "YS Samra",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.2",
+              "batter": "SPD Smith",
+              "bowler": "CJ Jordan",
+              "non_striker": "YS Samra",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.3",
+              "batter": "SPD Smith",
+              "bowler": "CJ Jordan",
+              "non_striker": "YS Samra",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "2.4",
+              "batter": "SPD Smith",
+              "bowler": "CJ Jordan",
+              "non_striker": "YS Samra",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "SPD Smith",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "2.5",
+              "batter": "TH David",
+              "bowler": "CJ Jordan",
+              "non_striker": "YS Samra",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.6",
+              "batter": "TH David",
+              "bowler": "CJ Jordan",
+              "non_striker": "YS Samra",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "actual_delivery": "3.1",
+              "batter": "TH David",
+              "bowler": "FJ Klaassen",
+              "non_striker": "YS Samra",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "3.2",
+              "batter": "YS Samra",
+              "bowler": "FJ Klaassen",
+              "non_striker": "TH David",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "3.3",
+              "batter": "TH David",
+              "bowler": "FJ Klaassen",
+              "non_striker": "YS Samra",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "3.4",
+              "batter": "YS Samra",
+              "bowler": "FJ Klaassen",
+              "non_striker": "TH David",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "3.5",
+              "batter": "TH David",
+              "bowler": "FJ Klaassen",
+              "non_striker": "YS Samra",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "3.6",
+              "batter": "TH David",
+              "bowler": "FJ Klaassen",
+              "non_striker": "YS Samra",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "TH David",
+                  "fielders": [
+                    {
+                      "name": "TH Tector"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "actual_delivery": "4.1",
+              "batter": "YS Samra",
+              "bowler": "CJ Jordan",
+              "non_striker": "BFW de Leede",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "4.2",
+              "batter": "YS Samra",
+              "bowler": "CJ Jordan",
+              "non_striker": "BFW de Leede",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "4.3",
+              "batter": "BFW de Leede",
+              "bowler": "CJ Jordan",
+              "non_striker": "YS Samra",
+              "runs": {
+                "batter": 3,
+                "extras": 0,
+                "total": 3
+              }
+            },
+            {
+              "actual_delivery": "4.4",
+              "batter": "YS Samra",
+              "bowler": "CJ Jordan",
+              "non_striker": "BFW de Leede",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "4.5",
+              "batter": "BFW de Leede",
+              "bowler": "CJ Jordan",
+              "non_striker": "YS Samra",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "4.6",
+              "batter": "BFW de Leede",
+              "bowler": "CJ Jordan",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "YS Samra",
+              "review": {
+                "by": "Belfast Wolves",
+                "umpire": "CM Brown",
+                "batter": "BFW de Leede",
+                "decision": "struck down",
+                "type": "wicket",
+                "umpires_call": true
+              },
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 1.3,
+          "type": "mandatory"
+        }
+      ]
+    },
+    {
+      "team": "Belfast Wolves",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "actual_delivery": "0.1",
+              "batter": "MS Chapman",
+              "bowler": "DA Payne",
+              "non_striker": "PR Stirling",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "0.2",
+              "batter": "MS Chapman",
+              "bowler": "DA Payne",
+              "non_striker": "PR Stirling",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "0.3",
+              "batter": "PR Stirling",
+              "bowler": "DA Payne",
+              "non_striker": "MS Chapman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.4",
+              "batter": "PR Stirling",
+              "bowler": "DA Payne",
+              "non_striker": "MS Chapman",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "0.5",
+              "batter": "MS Chapman",
+              "bowler": "DA Payne",
+              "non_striker": "PR Stirling",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "0.6",
+              "batter": "PR Stirling",
+              "bowler": "DA Payne",
+              "non_striker": "MS Chapman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "actual_delivery": "1.1",
+              "batter": "MS Chapman",
+              "bowler": "RJ Gleeson",
+              "non_striker": "PR Stirling",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "1.2",
+              "batter": "MS Chapman",
+              "bowler": "RJ Gleeson",
+              "non_striker": "PR Stirling",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "1.3",
+              "batter": "MS Chapman",
+              "bowler": "RJ Gleeson",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "PR Stirling",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "1.3",
+              "batter": "MS Chapman",
+              "bowler": "RJ Gleeson",
+              "non_striker": "PR Stirling",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "1.4",
+              "batter": "MS Chapman",
+              "bowler": "RJ Gleeson",
+              "non_striker": "PR Stirling",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "1.5",
+              "batter": "PR Stirling",
+              "bowler": "RJ Gleeson",
+              "non_striker": "MS Chapman",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "1.6",
+              "batter": "PR Stirling",
+              "bowler": "RJ Gleeson",
+              "non_striker": "MS Chapman",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "actual_delivery": "2.1",
+              "batter": "MS Chapman",
+              "bowler": "A Dutt",
+              "non_striker": "PR Stirling",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "MS Chapman",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "2.2",
+              "batter": "GJ Maxwell",
+              "bowler": "A Dutt",
+              "non_striker": "PR Stirling",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "2.3",
+              "batter": "PR Stirling",
+              "bowler": "A Dutt",
+              "non_striker": "GJ Maxwell",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "2.4",
+              "batter": "GJ Maxwell",
+              "bowler": "A Dutt",
+              "non_striker": "PR Stirling",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "2.5",
+              "batter": "PR Stirling",
+              "bowler": "A Dutt",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "GJ Maxwell",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "2.5",
+              "batter": "PR Stirling",
+              "bowler": "A Dutt",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "GJ Maxwell",
+              "review": {
+                "by": "Amsterdam Flames",
+                "umpire": "CM Brown",
+                "batter": "PR Stirling",
+                "decision": "struck down",
+                "type": "wicket"
+              },
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "2.6",
+              "batter": "GJ Maxwell",
+              "bowler": "A Dutt",
+              "non_striker": "PR Stirling",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "actual_delivery": "3.1",
+              "batter": "PR Stirling",
+              "bowler": "DA Payne",
+              "non_striker": "GJ Maxwell",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "3.2",
+              "batter": "PR Stirling",
+              "bowler": "DA Payne",
+              "non_striker": "GJ Maxwell",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "3.3",
+              "batter": "GJ Maxwell",
+              "bowler": "DA Payne",
+              "non_striker": "PR Stirling",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "3.4",
+              "batter": "GJ Maxwell",
+              "bowler": "DA Payne",
+              "non_striker": "PR Stirling",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "3.5",
+              "batter": "PR Stirling",
+              "bowler": "DA Payne",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "GJ Maxwell",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "3.5",
+              "batter": "PR Stirling",
+              "bowler": "DA Payne",
+              "non_striker": "GJ Maxwell",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 1.4,
+          "type": "mandatory"
+        }
+      ],
+      "target": {
+        "overs": 5,
+        "runs": 57
+      }
+    }
+  ]
+}

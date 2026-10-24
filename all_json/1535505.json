@@ -1,0 +1,2990 @@
+{
+  "meta": {
+    "data_version": "1.2.0",
+    "created": "2026-09-01",
+    "revision": 1
+  },
+  "info": {
+    "balls_per_over": 6,
+    "city": "Colombo",
+    "dates": [
+      "2026-09-01"
+    ],
+    "event": {
+      "name": "Major Clubs T20 Tournament",
+      "group": "B"
+    },
+    "gender": "male",
+    "match_type": "T20",
+    "officials": {
+      "match_referees": [
+        "LJP Fernando"
+      ],
+      "reserve_umpires": [
+        "ID Gunawardene"
+      ],
+      "umpires": [
+        "R Dulsiri",
+        "RA Kottahachchi"
+      ]
+    },
+    "outcome": {
+      "winner": "Bloomfield Cricket and Athletic Club",
+      "by": {
+        "wickets": 4
+      }
+    },
+    "overs": 20,
+    "players": {
+      "Colts Cricket Club": [
+        "S de Mel",
+        "H Jayasundara",
+        "AD Mathews",
+        "Kavija Gamage",
+        "D Lakshan",
+        "M Lakshan",
+        "R Gamage",
+        "S Mihira",
+        "A Dananjaya",
+        "S Krishnashriram",
+        "D Madushanka"
+      ],
+      "Bloomfield Cricket and Athletic Club": [
+        "H Amarasinghe",
+        "S Galagoda",
+        "S Kavinda",
+        "J Liyanage",
+        "RS Fernando",
+        "S Deshapriya",
+        "KHJ de Silva",
+        "TN Guruge",
+        "D Samuditha",
+        "E Malinga",
+        "K Piyumal"
+      ]
+    },
+    "registry": {
+      "people": {
+        "A Dananjaya": "5b16a806",
+        "AD Mathews": "896d78ad",
+        "D Lakshan": "0a2184d9",
+        "D Madushanka": "de7d833e",
+        "D Mahavithana": "b4349ad3",
+        "D Samuditha": "4770fcd4",
+        "E Malinga": "5750bcb4",
+        "H Amarasinghe": "4dac55a7",
+        "H Jayasundara": "5bc572de",
+        "ID Gunawardene": "63841782",
+        "J Liyanage": "84212ffb",
+        "K Piyumal": "d5b6fe5f",
+        "KHJ de Silva": "9688690d",
+        "Kavija Gamage": "9c4f7515",
+        "LJP Fernando": "9d1c0862",
+        "M Lakshan": "aa844d38",
+        "R Dulsiri": "a7d3d23c",
+        "R Gamage": "9a2f6db9",
+        "RA Kottahachchi": "808f2939",
+        "RS Fernando": "24d72446",
+        "S Deshapriya": "48536ee2",
+        "S Galagoda": "4c1884fe",
+        "S Kavinda": "0295c92b",
+        "S Krishnashriram": "284c4330",
+        "S Mihira": "9cd00650",
+        "S de Mel": "90a7d966",
+        "TN Guruge": "6adee1a9"
+      }
+    },
+    "season": "2026",
+    "team_type": "club",
+    "teams": [
+      "Colts Cricket Club",
+      "Bloomfield Cricket and Athletic Club"
+    ],
+    "toss": {
+      "decision": "bat",
+      "winner": "Colts Cricket Club"
+    },
+    "venue": "Sinhalese Sports Club Ground, Colombo"
+  },
+  "innings": [
+    {
+      "team": "Colts Cricket Club",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "actual_delivery": "0.1",
+              "batter": "S de Mel",
+              "bowler": "J Liyanage",
+              "non_striker": "H Jayasundara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.2",
+              "batter": "S de Mel",
+              "bowler": "J Liyanage",
+              "non_striker": "H Jayasundara",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "0.3",
+              "batter": "H Jayasundara",
+              "bowler": "J Liyanage",
+              "non_striker": "S de Mel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.4",
+              "batter": "H Jayasundara",
+              "bowler": "J Liyanage",
+              "non_striker": "S de Mel",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "0.5",
+              "batter": "S de Mel",
+              "bowler": "J Liyanage",
+              "non_striker": "H Jayasundara",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "0.6",
+              "batter": "S de Mel",
+              "bowler": "J Liyanage",
+              "non_striker": "H Jayasundara",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "actual_delivery": "1.1",
+              "batter": "S de Mel",
+              "bowler": "D Samuditha",
+              "non_striker": "H Jayasundara",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "1.2",
+              "batter": "H Jayasundara",
+              "bowler": "D Samuditha",
+              "non_striker": "S de Mel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.3",
+              "batter": "H Jayasundara",
+              "bowler": "D Samuditha",
+              "non_striker": "S de Mel",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "1.4",
+              "batter": "H Jayasundara",
+              "bowler": "D Samuditha",
+              "non_striker": "S de Mel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "H Jayasundara",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "1.5",
+              "batter": "AD Mathews",
+              "bowler": "D Samuditha",
+              "non_striker": "S de Mel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.6",
+              "batter": "AD Mathews",
+              "bowler": "D Samuditha",
+              "non_striker": "S de Mel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "actual_delivery": "2.1",
+              "batter": "S de Mel",
+              "bowler": "TN Guruge",
+              "non_striker": "AD Mathews",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.2",
+              "batter": "S de Mel",
+              "bowler": "TN Guruge",
+              "non_striker": "AD Mathews",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "2.3",
+              "batter": "AD Mathews",
+              "bowler": "TN Guruge",
+              "non_striker": "S de Mel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.4",
+              "batter": "AD Mathews",
+              "bowler": "TN Guruge",
+              "non_striker": "S de Mel",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "2.5",
+              "batter": "AD Mathews",
+              "bowler": "TN Guruge",
+              "non_striker": "S de Mel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.6",
+              "batter": "AD Mathews",
+              "bowler": "TN Guruge",
+              "non_striker": "S de Mel",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "actual_delivery": "3.1",
+              "batter": "S de Mel",
+              "bowler": "D Samuditha",
+              "non_striker": "AD Mathews",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "3.2",
+              "batter": "AD Mathews",
+              "bowler": "D Samuditha",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "S de Mel",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "3.2",
+              "batter": "AD Mathews",
+              "bowler": "D Samuditha",
+              "non_striker": "S de Mel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.3",
+              "batter": "AD Mathews",
+              "bowler": "D Samuditha",
+              "non_striker": "S de Mel",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "3.4",
+              "batter": "S de Mel",
+              "bowler": "D Samuditha",
+              "non_striker": "AD Mathews",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "3.5",
+              "batter": "AD Mathews",
+              "bowler": "D Samuditha",
+              "non_striker": "S de Mel",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "3.6",
+              "batter": "S de Mel",
+              "bowler": "D Samuditha",
+              "non_striker": "AD Mathews",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "actual_delivery": "4.1",
+              "batter": "AD Mathews",
+              "bowler": "J Liyanage",
+              "non_striker": "S de Mel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.2",
+              "batter": "AD Mathews",
+              "bowler": "J Liyanage",
+              "non_striker": "S de Mel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "AD Mathews",
+                  "fielders": [
+                    {
+                      "name": "D Samuditha"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "4.3",
+              "batter": "Kavija Gamage",
+              "bowler": "J Liyanage",
+              "non_striker": "S de Mel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.4",
+              "batter": "Kavija Gamage",
+              "bowler": "J Liyanage",
+              "non_striker": "S de Mel",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "4.5",
+              "batter": "Kavija Gamage",
+              "bowler": "J Liyanage",
+              "non_striker": "S de Mel",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "4.6",
+              "batter": "S de Mel",
+              "bowler": "J Liyanage",
+              "non_striker": "Kavija Gamage",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "actual_delivery": "5.1",
+              "batter": "S de Mel",
+              "bowler": "E Malinga",
+              "non_striker": "Kavija Gamage",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.2",
+              "batter": "S de Mel",
+              "bowler": "E Malinga",
+              "non_striker": "Kavija Gamage",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "S de Mel",
+                  "fielders": [
+                    {
+                      "name": "TN Guruge"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "5.3",
+              "batter": "D Lakshan",
+              "bowler": "E Malinga",
+              "non_striker": "Kavija Gamage",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "5.4",
+              "batter": "Kavija Gamage",
+              "bowler": "E Malinga",
+              "non_striker": "D Lakshan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.5",
+              "batter": "Kavija Gamage",
+              "bowler": "E Malinga",
+              "non_striker": "D Lakshan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.6",
+              "batter": "Kavija Gamage",
+              "bowler": "E Malinga",
+              "non_striker": "D Lakshan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "actual_delivery": "6.1",
+              "batter": "Kavija Gamage",
+              "bowler": "S Kavinda",
+              "non_striker": "D Lakshan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "6.2",
+              "batter": "Kavija Gamage",
+              "bowler": "S Kavinda",
+              "non_striker": "D Lakshan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.3",
+              "batter": "D Lakshan",
+              "bowler": "S Kavinda",
+              "non_striker": "Kavija Gamage",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "6.4",
+              "batter": "D Lakshan",
+              "bowler": "S Kavinda",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Kavija Gamage",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.4",
+              "batter": "D Lakshan",
+              "bowler": "S Kavinda",
+              "non_striker": "Kavija Gamage",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "6.5",
+              "batter": "D Lakshan",
+              "bowler": "S Kavinda",
+              "non_striker": "Kavija Gamage",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "6.6",
+              "batter": "D Lakshan",
+              "bowler": "S Kavinda",
+              "non_striker": "Kavija Gamage",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "actual_delivery": "7.1",
+              "batter": "D Lakshan",
+              "bowler": "E Malinga",
+              "non_striker": "Kavija Gamage",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "7.2",
+              "batter": "D Lakshan",
+              "bowler": "E Malinga",
+              "non_striker": "Kavija Gamage",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "7.3",
+              "batter": "Kavija Gamage",
+              "bowler": "E Malinga",
+              "non_striker": "D Lakshan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "7.4",
+              "batter": "Kavija Gamage",
+              "bowler": "E Malinga",
+              "non_striker": "D Lakshan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "7.5",
+              "batter": "Kavija Gamage",
+              "bowler": "E Malinga",
+              "non_striker": "D Lakshan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "7.6",
+              "batter": "Kavija Gamage",
+              "bowler": "E Malinga",
+              "non_striker": "D Lakshan",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "actual_delivery": "8.1",
+              "batter": "D Lakshan",
+              "bowler": "S Kavinda",
+              "non_striker": "Kavija Gamage",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "8.2",
+              "batter": "Kavija Gamage",
+              "bowler": "S Kavinda",
+              "non_striker": "D Lakshan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "8.3",
+              "batter": "D Lakshan",
+              "bowler": "S Kavinda",
+              "non_striker": "Kavija Gamage",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "8.4",
+              "batter": "Kavija Gamage",
+              "bowler": "S Kavinda",
+              "non_striker": "D Lakshan",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "8.5",
+              "batter": "Kavija Gamage",
+              "bowler": "S Kavinda",
+              "non_striker": "D Lakshan",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "8.6",
+              "batter": "Kavija Gamage",
+              "bowler": "S Kavinda",
+              "non_striker": "D Lakshan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "actual_delivery": "9.1",
+              "batter": "Kavija Gamage",
+              "bowler": "RS Fernando",
+              "non_striker": "D Lakshan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "9.2",
+              "batter": "Kavija Gamage",
+              "bowler": "RS Fernando",
+              "non_striker": "D Lakshan",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "9.3",
+              "batter": "Kavija Gamage",
+              "bowler": "RS Fernando",
+              "non_striker": "D Lakshan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "9.4",
+              "batter": "D Lakshan",
+              "bowler": "RS Fernando",
+              "non_striker": "Kavija Gamage",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "9.5",
+              "batter": "Kavija Gamage",
+              "bowler": "RS Fernando",
+              "non_striker": "D Lakshan",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "9.6",
+              "batter": "Kavija Gamage",
+              "bowler": "RS Fernando",
+              "non_striker": "D Lakshan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "actual_delivery": "10.1",
+              "batter": "Kavija Gamage",
+              "bowler": "K Piyumal",
+              "non_striker": "D Lakshan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "10.2",
+              "batter": "Kavija Gamage",
+              "bowler": "K Piyumal",
+              "non_striker": "D Lakshan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "10.3",
+              "batter": "Kavija Gamage",
+              "bowler": "K Piyumal",
+              "non_striker": "D Lakshan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "10.4",
+              "batter": "D Lakshan",
+              "bowler": "K Piyumal",
+              "non_striker": "Kavija Gamage",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "10.5",
+              "batter": "D Lakshan",
+              "bowler": "K Piyumal",
+              "non_striker": "Kavija Gamage",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "10.6",
+              "batter": "D Lakshan",
+              "bowler": "K Piyumal",
+              "non_striker": "Kavija Gamage",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "actual_delivery": "11.1",
+              "batter": "Kavija Gamage",
+              "bowler": "TN Guruge",
+              "non_striker": "D Lakshan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "11.2",
+              "batter": "D Lakshan",
+              "bowler": "TN Guruge",
+              "non_striker": "Kavija Gamage",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "11.3",
+              "batter": "Kavija Gamage",
+              "bowler": "TN Guruge",
+              "non_striker": "D Lakshan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "11.4",
+              "batter": "D Lakshan",
+              "bowler": "TN Guruge",
+              "non_striker": "Kavija Gamage",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "11.5",
+              "batter": "D Lakshan",
+              "bowler": "TN Guruge",
+              "non_striker": "Kavija Gamage",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "11.6",
+              "batter": "Kavija Gamage",
+              "bowler": "TN Guruge",
+              "non_striker": "D Lakshan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "actual_delivery": "12.1",
+              "batter": "Kavija Gamage",
+              "bowler": "K Piyumal",
+              "non_striker": "D Lakshan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "12.2",
+              "batter": "D Lakshan",
+              "bowler": "K Piyumal",
+              "non_striker": "Kavija Gamage",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "12.3",
+              "batter": "D Lakshan",
+              "bowler": "K Piyumal",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "Kavija Gamage",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "12.4",
+              "batter": "Kavija Gamage",
+              "bowler": "K Piyumal",
+              "non_striker": "D Lakshan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "12.5",
+              "batter": "Kavija Gamage",
+              "bowler": "K Piyumal",
+              "non_striker": "D Lakshan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "12.6",
+              "batter": "D Lakshan",
+              "bowler": "K Piyumal",
+              "non_striker": "Kavija Gamage",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "actual_delivery": "13.1",
+              "batter": "D Lakshan",
+              "bowler": "RS Fernando",
+              "non_striker": "Kavija Gamage",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "13.2",
+              "batter": "D Lakshan",
+              "bowler": "RS Fernando",
+              "non_striker": "Kavija Gamage",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "13.3",
+              "batter": "Kavija Gamage",
+              "bowler": "RS Fernando",
+              "non_striker": "D Lakshan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "13.4",
+              "batter": "D Lakshan",
+              "bowler": "RS Fernando",
+              "non_striker": "Kavija Gamage",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "13.5",
+              "batter": "D Lakshan",
+              "bowler": "RS Fernando",
+              "non_striker": "Kavija Gamage",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "13.6",
+              "batter": "D Lakshan",
+              "bowler": "RS Fernando",
+              "non_striker": "Kavija Gamage",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "actual_delivery": "14.1",
+              "batter": "D Lakshan",
+              "bowler": "D Samuditha",
+              "non_striker": "Kavija Gamage",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "D Lakshan",
+                  "fielders": [
+                    {
+                      "name": "KHJ de Silva"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "14.2",
+              "batter": "M Lakshan",
+              "bowler": "D Samuditha",
+              "non_striker": "Kavija Gamage",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "14.3",
+              "batter": "M Lakshan",
+              "bowler": "D Samuditha",
+              "non_striker": "Kavija Gamage",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "14.4",
+              "batter": "Kavija Gamage",
+              "bowler": "D Samuditha",
+              "non_striker": "M Lakshan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "14.5",
+              "batter": "Kavija Gamage",
+              "bowler": "D Samuditha",
+              "non_striker": "M Lakshan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "14.6",
+              "batter": "Kavija Gamage",
+              "bowler": "D Samuditha",
+              "non_striker": "M Lakshan",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "actual_delivery": "15.1",
+              "batter": "M Lakshan",
+              "bowler": "E Malinga",
+              "non_striker": "Kavija Gamage",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "15.2",
+              "batter": "M Lakshan",
+              "bowler": "E Malinga",
+              "non_striker": "Kavija Gamage",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "15.3",
+              "batter": "Kavija Gamage",
+              "bowler": "E Malinga",
+              "non_striker": "M Lakshan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "15.4",
+              "batter": "Kavija Gamage",
+              "bowler": "E Malinga",
+              "non_striker": "M Lakshan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "15.5",
+              "batter": "M Lakshan",
+              "bowler": "E Malinga",
+              "non_striker": "Kavija Gamage",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "15.6",
+              "batter": "Kavija Gamage",
+              "bowler": "E Malinga",
+              "non_striker": "M Lakshan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "actual_delivery": "16.1",
+              "batter": "M Lakshan",
+              "bowler": "K Piyumal",
+              "non_striker": "Kavija Gamage",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "16.2",
+              "batter": "Kavija Gamage",
+              "bowler": "K Piyumal",
+              "non_striker": "M Lakshan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Kavija Gamage",
+                  "kind": "lbw"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "16.3",
+              "batter": "R Gamage",
+              "bowler": "K Piyumal",
+              "non_striker": "M Lakshan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "16.4",
+              "batter": "M Lakshan",
+              "bowler": "K Piyumal",
+              "non_striker": "R Gamage",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "16.5",
+              "batter": "R Gamage",
+              "bowler": "K Piyumal",
+              "non_striker": "M Lakshan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "16.6",
+              "batter": "M Lakshan",
+              "bowler": "K Piyumal",
+              "non_striker": "R Gamage",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "actual_delivery": "17.1",
+              "batter": "R Gamage",
+              "bowler": "RS Fernando",
+              "non_striker": "M Lakshan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "17.2",
+              "batter": "M Lakshan",
+              "bowler": "RS Fernando",
+              "non_striker": "R Gamage",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "17.3",
+              "batter": "R Gamage",
+              "bowler": "RS Fernando",
+              "non_striker": "M Lakshan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "17.4",
+              "batter": "R Gamage",
+              "bowler": "RS Fernando",
+              "non_striker": "M Lakshan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "17.5",
+              "batter": "R Gamage",
+              "bowler": "RS Fernando",
+              "non_striker": "M Lakshan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "R Gamage",
+                  "fielders": [
+                    {
+                      "name": "K Piyumal"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "17.6",
+              "batter": "S Mihira",
+              "bowler": "RS Fernando",
+              "non_striker": "M Lakshan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "actual_delivery": "18.1",
+              "batter": "S Mihira",
+              "bowler": "K Piyumal",
+              "non_striker": "M Lakshan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "S Mihira",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "18.2",
+              "batter": "A Dananjaya",
+              "bowler": "K Piyumal",
+              "non_striker": "M Lakshan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "18.3",
+              "batter": "M Lakshan",
+              "bowler": "K Piyumal",
+              "non_striker": "A Dananjaya",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "M Lakshan",
+                  "fielders": [
+                    {
+                      "name": "S Deshapriya"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "18.4",
+              "batter": "S Krishnashriram",
+              "bowler": "K Piyumal",
+              "non_striker": "A Dananjaya",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "18.5",
+              "batter": "S Krishnashriram",
+              "bowler": "K Piyumal",
+              "non_striker": "A Dananjaya",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "18.6",
+              "batter": "S Krishnashriram",
+              "bowler": "K Piyumal",
+              "non_striker": "A Dananjaya",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "actual_delivery": "19.1",
+              "batter": "S Krishnashriram",
+              "bowler": "RS Fernando",
+              "non_striker": "A Dananjaya",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "19.2",
+              "batter": "S Krishnashriram",
+              "bowler": "RS Fernando",
+              "non_striker": "A Dananjaya",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "19.3",
+              "batter": "A Dananjaya",
+              "bowler": "RS Fernando",
+              "non_striker": "S Krishnashriram",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "19.4",
+              "batter": "A Dananjaya",
+              "bowler": "RS Fernando",
+              "non_striker": "S Krishnashriram",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "A Dananjaya",
+                  "fielders": [
+                    {
+                      "name": "TN Guruge"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "19.5",
+              "batter": "D Madushanka",
+              "bowler": "RS Fernando",
+              "non_striker": "S Krishnashriram",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "19.6",
+              "batter": "D Madushanka",
+              "bowler": "RS Fernando",
+              "non_striker": "S Krishnashriram",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.6,
+          "type": "mandatory"
+        }
+      ]
+    },
+    {
+      "team": "Bloomfield Cricket and Athletic Club",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "actual_delivery": "0.1",
+              "batter": "H Amarasinghe",
+              "bowler": "D Madushanka",
+              "non_striker": "S Galagoda",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "0.2",
+              "batter": "S Galagoda",
+              "bowler": "D Madushanka",
+              "non_striker": "H Amarasinghe",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.3",
+              "batter": "S Galagoda",
+              "bowler": "D Madushanka",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "H Amarasinghe",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "0.4",
+              "batter": "H Amarasinghe",
+              "bowler": "D Madushanka",
+              "non_striker": "S Galagoda",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.5",
+              "batter": "H Amarasinghe",
+              "bowler": "D Madushanka",
+              "non_striker": "S Galagoda",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "0.6",
+              "batter": "S Galagoda",
+              "bowler": "D Madushanka",
+              "non_striker": "H Amarasinghe",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "actual_delivery": "1.1",
+              "batter": "H Amarasinghe",
+              "bowler": "M Lakshan",
+              "non_striker": "S Galagoda",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.2",
+              "batter": "H Amarasinghe",
+              "bowler": "M Lakshan",
+              "non_striker": "S Galagoda",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.3",
+              "batter": "H Amarasinghe",
+              "bowler": "M Lakshan",
+              "non_striker": "S Galagoda",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.4",
+              "batter": "H Amarasinghe",
+              "bowler": "M Lakshan",
+              "non_striker": "S Galagoda",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "H Amarasinghe",
+                  "fielders": [
+                    {
+                      "name": "S de Mel"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "1.5",
+              "batter": "S Kavinda",
+              "bowler": "M Lakshan",
+              "non_striker": "S Galagoda",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.6",
+              "batter": "S Kavinda",
+              "bowler": "M Lakshan",
+              "non_striker": "S Galagoda",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "actual_delivery": "2.1",
+              "batter": "S Kavinda",
+              "bowler": "D Madushanka",
+              "non_striker": "S Galagoda",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "2.2",
+              "batter": "S Galagoda",
+              "bowler": "D Madushanka",
+              "non_striker": "S Kavinda",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "2.3",
+              "batter": "S Galagoda",
+              "bowler": "D Madushanka",
+              "non_striker": "S Kavinda",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "2.4",
+              "batter": "S Kavinda",
+              "bowler": "D Madushanka",
+              "non_striker": "S Galagoda",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.5",
+              "batter": "S Kavinda",
+              "bowler": "D Madushanka",
+              "non_striker": "S Galagoda",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.6",
+              "batter": "S Kavinda",
+              "bowler": "D Madushanka",
+              "non_striker": "S Galagoda",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "S Kavinda",
+                  "fielders": [
+                    {
+                      "name": "D Mahavithana",
+                      "substitute": true
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "actual_delivery": "3.1",
+              "batter": "S Galagoda",
+              "bowler": "M Lakshan",
+              "non_striker": "J Liyanage",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.2",
+              "batter": "S Galagoda",
+              "bowler": "M Lakshan",
+              "non_striker": "J Liyanage",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.3",
+              "batter": "S Galagoda",
+              "bowler": "M Lakshan",
+              "non_striker": "J Liyanage",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "3.4",
+              "batter": "J Liyanage",
+              "bowler": "M Lakshan",
+              "non_striker": "S Galagoda",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.5",
+              "batter": "J Liyanage",
+              "bowler": "M Lakshan",
+              "non_striker": "S Galagoda",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "3.6",
+              "batter": "J Liyanage",
+              "bowler": "M Lakshan",
+              "non_striker": "S Galagoda",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "actual_delivery": "4.1",
+              "batter": "S Galagoda",
+              "bowler": "D Madushanka",
+              "non_striker": "J Liyanage",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.2",
+              "batter": "S Galagoda",
+              "bowler": "D Madushanka",
+              "non_striker": "J Liyanage",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "4.3",
+              "batter": "S Galagoda",
+              "bowler": "D Madushanka",
+              "non_striker": "J Liyanage",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.4",
+              "batter": "S Galagoda",
+              "bowler": "D Madushanka",
+              "non_striker": "J Liyanage",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.5",
+              "batter": "S Galagoda",
+              "bowler": "D Madushanka",
+              "non_striker": "J Liyanage",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "4.6",
+              "batter": "S Galagoda",
+              "bowler": "D Madushanka",
+              "extras": {
+                "legbyes": 4
+              },
+              "non_striker": "J Liyanage",
+              "runs": {
+                "batter": 0,
+                "extras": 4,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "actual_delivery": "5.1",
+              "batter": "J Liyanage",
+              "bowler": "M Lakshan",
+              "non_striker": "S Galagoda",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "5.2",
+              "batter": "S Galagoda",
+              "bowler": "M Lakshan",
+              "non_striker": "J Liyanage",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.3",
+              "batter": "S Galagoda",
+              "bowler": "M Lakshan",
+              "non_striker": "J Liyanage",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "5.4",
+              "batter": "J Liyanage",
+              "bowler": "M Lakshan",
+              "non_striker": "S Galagoda",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.5",
+              "batter": "J Liyanage",
+              "bowler": "M Lakshan",
+              "non_striker": "S Galagoda",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "5.6",
+              "batter": "S Galagoda",
+              "bowler": "M Lakshan",
+              "non_striker": "J Liyanage",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "actual_delivery": "6.1",
+              "batter": "J Liyanage",
+              "bowler": "A Dananjaya",
+              "non_striker": "S Galagoda",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.2",
+              "batter": "S Galagoda",
+              "bowler": "A Dananjaya",
+              "non_striker": "J Liyanage",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.3",
+              "batter": "J Liyanage",
+              "bowler": "A Dananjaya",
+              "non_striker": "S Galagoda",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "6.4",
+              "batter": "J Liyanage",
+              "bowler": "A Dananjaya",
+              "non_striker": "S Galagoda",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.5",
+              "batter": "S Galagoda",
+              "bowler": "A Dananjaya",
+              "non_striker": "J Liyanage",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.6",
+              "batter": "J Liyanage",
+              "bowler": "A Dananjaya",
+              "non_striker": "S Galagoda",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "actual_delivery": "7.1",
+              "batter": "S Galagoda",
+              "bowler": "S Krishnashriram",
+              "non_striker": "J Liyanage",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "7.2",
+              "batter": "J Liyanage",
+              "bowler": "S Krishnashriram",
+              "non_striker": "S Galagoda",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "7.3",
+              "batter": "J Liyanage",
+              "bowler": "S Krishnashriram",
+              "non_striker": "S Galagoda",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "7.4",
+              "batter": "J Liyanage",
+              "bowler": "S Krishnashriram",
+              "non_striker": "S Galagoda",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "7.5",
+              "batter": "J Liyanage",
+              "bowler": "S Krishnashriram",
+              "non_striker": "S Galagoda",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "J Liyanage",
+                  "fielders": [
+                    {
+                      "name": "S de Mel"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "7.6",
+              "batter": "RS Fernando",
+              "bowler": "S Krishnashriram",
+              "non_striker": "S Galagoda",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "actual_delivery": "8.1",
+              "batter": "S Galagoda",
+              "bowler": "A Dananjaya",
+              "non_striker": "RS Fernando",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "8.2",
+              "batter": "S Galagoda",
+              "bowler": "A Dananjaya",
+              "non_striker": "RS Fernando",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "8.3",
+              "batter": "RS Fernando",
+              "bowler": "A Dananjaya",
+              "non_striker": "S Galagoda",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "8.4",
+              "batter": "RS Fernando",
+              "bowler": "A Dananjaya",
+              "non_striker": "S Galagoda",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "8.5",
+              "batter": "RS Fernando",
+              "bowler": "A Dananjaya",
+              "non_striker": "S Galagoda",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "8.6",
+              "batter": "RS Fernando",
+              "bowler": "A Dananjaya",
+              "non_striker": "S Galagoda",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "actual_delivery": "9.1",
+              "batter": "RS Fernando",
+              "bowler": "S Krishnashriram",
+              "non_striker": "S Galagoda",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "9.2",
+              "batter": "RS Fernando",
+              "bowler": "S Krishnashriram",
+              "non_striker": "S Galagoda",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "9.3",
+              "batter": "RS Fernando",
+              "bowler": "S Krishnashriram",
+              "non_striker": "S Galagoda",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "9.4",
+              "batter": "RS Fernando",
+              "bowler": "S Krishnashriram",
+              "non_striker": "S Galagoda",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "9.5",
+              "batter": "S Galagoda",
+              "bowler": "S Krishnashriram",
+              "non_striker": "RS Fernando",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "9.6",
+              "batter": "RS Fernando",
+              "bowler": "S Krishnashriram",
+              "non_striker": "S Galagoda",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "actual_delivery": "10.1",
+              "batter": "S Galagoda",
+              "bowler": "A Dananjaya",
+              "non_striker": "RS Fernando",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "10.2",
+              "batter": "S Galagoda",
+              "bowler": "A Dananjaya",
+              "non_striker": "RS Fernando",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "10.3",
+              "batter": "RS Fernando",
+              "bowler": "A Dananjaya",
+              "non_striker": "S Galagoda",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "10.4",
+              "batter": "S Galagoda",
+              "bowler": "A Dananjaya",
+              "non_striker": "RS Fernando",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "10.5",
+              "batter": "S Galagoda",
+              "bowler": "A Dananjaya",
+              "non_striker": "RS Fernando",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "10.6",
+              "batter": "S Galagoda",
+              "bowler": "A Dananjaya",
+              "non_striker": "RS Fernando",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "actual_delivery": "11.1",
+              "batter": "RS Fernando",
+              "bowler": "M Lakshan",
+              "non_striker": "S Galagoda",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "11.2",
+              "batter": "S Galagoda",
+              "bowler": "M Lakshan",
+              "non_striker": "RS Fernando",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "11.3",
+              "batter": "S Galagoda",
+              "bowler": "M Lakshan",
+              "non_striker": "RS Fernando",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "11.4",
+              "batter": "S Galagoda",
+              "bowler": "M Lakshan",
+              "non_striker": "RS Fernando",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "11.5",
+              "batter": "S Galagoda",
+              "bowler": "M Lakshan",
+              "non_striker": "RS Fernando",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "11.6",
+              "batter": "S Galagoda",
+              "bowler": "M Lakshan",
+              "non_striker": "RS Fernando",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "actual_delivery": "12.1",
+              "batter": "RS Fernando",
+              "bowler": "Kavija Gamage",
+              "non_striker": "S Galagoda",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "12.2",
+              "batter": "S Galagoda",
+              "bowler": "Kavija Gamage",
+              "non_striker": "RS Fernando",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "12.3",
+              "batter": "S Galagoda",
+              "bowler": "Kavija Gamage",
+              "non_striker": "RS Fernando",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "12.4",
+              "batter": "RS Fernando",
+              "bowler": "Kavija Gamage",
+              "non_striker": "S Galagoda",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "12.5",
+              "batter": "RS Fernando",
+              "bowler": "Kavija Gamage",
+              "non_striker": "S Galagoda",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "RS Fernando",
+                  "fielders": [
+                    {
+                      "name": "M Lakshan"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "12.6",
+              "batter": "S Deshapriya",
+              "bowler": "Kavija Gamage",
+              "non_striker": "S Galagoda",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "actual_delivery": "13.1",
+              "batter": "S Deshapriya",
+              "bowler": "S Krishnashriram",
+              "non_striker": "S Galagoda",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "13.2",
+              "batter": "S Deshapriya",
+              "bowler": "S Krishnashriram",
+              "non_striker": "S Galagoda",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "13.3",
+              "batter": "S Galagoda",
+              "bowler": "S Krishnashriram",
+              "non_striker": "S Deshapriya",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "13.4",
+              "batter": "S Deshapriya",
+              "bowler": "S Krishnashriram",
+              "non_striker": "S Galagoda",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "13.5",
+              "batter": "S Deshapriya",
+              "bowler": "S Krishnashriram",
+              "non_striker": "S Galagoda",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "S Deshapriya",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "13.6",
+              "batter": "KHJ de Silva",
+              "bowler": "S Krishnashriram",
+              "non_striker": "S Galagoda",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "actual_delivery": "14.1",
+              "batter": "KHJ de Silva",
+              "bowler": "A Dananjaya",
+              "non_striker": "S Galagoda",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "14.2",
+              "batter": "S Galagoda",
+              "bowler": "A Dananjaya",
+              "non_striker": "KHJ de Silva",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "14.3",
+              "batter": "S Galagoda",
+              "bowler": "A Dananjaya",
+              "non_striker": "KHJ de Silva",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "14.4",
+              "batter": "KHJ de Silva",
+              "bowler": "A Dananjaya",
+              "non_striker": "S Galagoda",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "14.5",
+              "batter": "S Galagoda",
+              "bowler": "A Dananjaya",
+              "non_striker": "KHJ de Silva",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "14.6",
+              "batter": "KHJ de Silva",
+              "bowler": "A Dananjaya",
+              "non_striker": "S Galagoda",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "actual_delivery": "15.1",
+              "batter": "KHJ de Silva",
+              "bowler": "S Krishnashriram",
+              "non_striker": "S Galagoda",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "15.2",
+              "batter": "KHJ de Silva",
+              "bowler": "S Krishnashriram",
+              "non_striker": "S Galagoda",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "15.3",
+              "batter": "KHJ de Silva",
+              "bowler": "S Krishnashriram",
+              "non_striker": "S Galagoda",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "KHJ de Silva",
+                  "fielders": [
+                    {
+                      "name": "H Jayasundara"
+                    }
+                  ],
+                  "kind": "stumped"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "15.4",
+              "batter": "TN Guruge",
+              "bowler": "S Krishnashriram",
+              "non_striker": "S Galagoda",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "15.5",
+              "batter": "TN Guruge",
+              "bowler": "S Krishnashriram",
+              "non_striker": "S Galagoda",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "15.6",
+              "batter": "TN Guruge",
+              "bowler": "S Krishnashriram",
+              "non_striker": "S Galagoda",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "actual_delivery": "16.1",
+              "batter": "S Galagoda",
+              "bowler": "Kavija Gamage",
+              "non_striker": "TN Guruge",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "16.2",
+              "batter": "S Galagoda",
+              "bowler": "Kavija Gamage",
+              "non_striker": "TN Guruge",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "16.3",
+              "batter": "TN Guruge",
+              "bowler": "Kavija Gamage",
+              "non_striker": "S Galagoda",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "16.4",
+              "batter": "TN Guruge",
+              "bowler": "Kavija Gamage",
+              "non_striker": "S Galagoda",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "16.5",
+              "batter": "TN Guruge",
+              "bowler": "Kavija Gamage",
+              "non_striker": "S Galagoda",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "16.6",
+              "batter": "TN Guruge",
+              "bowler": "Kavija Gamage",
+              "non_striker": "S Galagoda",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "actual_delivery": "17.1",
+              "batter": "S Galagoda",
+              "bowler": "S Mihira",
+              "non_striker": "TN Guruge",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "17.2",
+              "batter": "S Galagoda",
+              "bowler": "S Mihira",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "TN Guruge",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "17.2",
+              "batter": "S Galagoda",
+              "bowler": "S Mihira",
+              "non_striker": "TN Guruge",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.6,
+          "type": "mandatory"
+        }
+      ],
+      "target": {
+        "overs": 20,
+        "runs": 115
+      }
+    }
+  ]
+}

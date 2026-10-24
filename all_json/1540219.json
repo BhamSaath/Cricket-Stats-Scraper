@@ -1,0 +1,1440 @@
+{
+  "meta": {
+    "data_version": "1.2.0",
+    "created": "2026-09-17",
+    "revision": 1
+  },
+  "info": {
+    "balls_per_over": 6,
+    "city": "Bridgetown",
+    "dates": [
+      "2026-09-16"
+    ],
+    "event": {
+      "name": "Women's Caribbean Premier League",
+      "stage": "Play-off"
+    },
+    "gender": "female",
+    "match_type": "T20",
+    "officials": {
+      "match_referees": [
+        "M Ragoonath"
+      ],
+      "reserve_umpires": [
+        "Zahid Bassarath"
+      ],
+      "tv_umpires": [
+        "GO Brathwaite"
+      ],
+      "umpires": [
+        "C La Borde",
+        "JM Williams"
+      ]
+    },
+    "outcome": {
+      "winner": "Guyana Amazon Warriors",
+      "by": {
+        "wickets": 7
+      }
+    },
+    "overs": 20,
+    "player_of_match": [
+      "T Brits"
+    ],
+    "players": {
+      "Barbados Tridents": [
+        "Q Joseph",
+        "HK Matthews",
+        "KP Navgire",
+        "ML Green",
+        "SW Bates",
+        "P Vastrakar",
+        "H Deol",
+        "S Hector",
+        "ASS Fletcher",
+        "S Gajnabi",
+        "M Mangru"
+      ],
+      "Guyana Amazon Warriors": [
+        "E Brathwaite",
+        "T Brits",
+        "SA Campbelle",
+        "N de Klerk",
+        "CL Tryon",
+        "EA Burns",
+        "RMAU Grimmond",
+        "S Ismail",
+        "SS Grimmond",
+        "CN Nation",
+        "SS Connell"
+      ]
+    },
+    "registry": {
+      "people": {
+        "ASS Fletcher": "42d9dd09",
+        "C La Borde": "32157f67",
+        "CL Tryon": "4d4605e6",
+        "CN Nation": "639000b6",
+        "E Brathwaite": "3d42a82b",
+        "EA Burns": "2e0b6638",
+        "GO Brathwaite": "1ace56d4",
+        "H Deol": "3664712e",
+        "HK Matthews": "d32cf49a",
+        "JM Williams": "b61d9d70",
+        "KP Navgire": "617a0b79",
+        "M Mangru": "b9fec7a5",
+        "M Ragoonath": "6f596571",
+        "ML Green": "865eae1f",
+        "N de Klerk": "ea544967",
+        "P Vastrakar": "8026ea72",
+        "Q Joseph": "d6164dc0",
+        "RMAU Grimmond": "5215d4c3",
+        "S Gajnabi": "c35739a1",
+        "S Hector": "3faa312e",
+        "S Ismail": "108c4c09",
+        "SA Campbelle": "a7cd72b2",
+        "SS Connell": "2f9a6bd1",
+        "SS Grimmond": "6bebf334",
+        "SW Bates": "89bbc67a",
+        "T Brits": "06659caa",
+        "Zahid Bassarath": "ca6bf044"
+      }
+    },
+    "season": "2026",
+    "team_type": "club",
+    "teams": [
+      "Barbados Tridents",
+      "Guyana Amazon Warriors"
+    ],
+    "toss": {
+      "decision": "field",
+      "winner": "Guyana Amazon Warriors"
+    },
+    "venue": "Kensington Oval, Bridgetown, Barbados"
+  },
+  "innings": [
+    {
+      "team": "Barbados Tridents",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "actual_delivery": "0.1",
+              "batter": "Q Joseph",
+              "bowler": "S Ismail",
+              "non_striker": "HK Matthews",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.2",
+              "batter": "Q Joseph",
+              "bowler": "S Ismail",
+              "non_striker": "HK Matthews",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.3",
+              "batter": "Q Joseph",
+              "bowler": "S Ismail",
+              "non_striker": "HK Matthews",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.4",
+              "batter": "Q Joseph",
+              "bowler": "S Ismail",
+              "non_striker": "HK Matthews",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.5",
+              "batter": "Q Joseph",
+              "bowler": "S Ismail",
+              "non_striker": "HK Matthews",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.6",
+              "batter": "Q Joseph",
+              "bowler": "S Ismail",
+              "non_striker": "HK Matthews",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "actual_delivery": "1.1",
+              "batter": "Q Joseph",
+              "bowler": "SS Connell",
+              "non_striker": "HK Matthews",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.2",
+              "batter": "Q Joseph",
+              "bowler": "SS Connell",
+              "non_striker": "HK Matthews",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.3",
+              "batter": "Q Joseph",
+              "bowler": "SS Connell",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "HK Matthews",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "1.3",
+              "batter": "Q Joseph",
+              "bowler": "SS Connell",
+              "non_striker": "HK Matthews",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "1.4",
+              "batter": "HK Matthews",
+              "bowler": "SS Connell",
+              "non_striker": "Q Joseph",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "1.5",
+              "batter": "HK Matthews",
+              "bowler": "SS Connell",
+              "non_striker": "Q Joseph",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.6",
+              "batter": "HK Matthews",
+              "bowler": "SS Connell",
+              "non_striker": "Q Joseph",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "actual_delivery": "2.1",
+              "batter": "HK Matthews",
+              "bowler": "SS Grimmond",
+              "non_striker": "Q Joseph",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "2.2",
+              "batter": "HK Matthews",
+              "bowler": "SS Grimmond",
+              "non_striker": "Q Joseph",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.3",
+              "batter": "HK Matthews",
+              "bowler": "SS Grimmond",
+              "non_striker": "Q Joseph",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "2.4",
+              "batter": "Q Joseph",
+              "bowler": "SS Grimmond",
+              "non_striker": "HK Matthews",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.5",
+              "batter": "Q Joseph",
+              "bowler": "SS Grimmond",
+              "non_striker": "HK Matthews",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.6",
+              "batter": "Q Joseph",
+              "bowler": "SS Grimmond",
+              "non_striker": "HK Matthews",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              },
+              "wickets": [
+                {
+                  "player_out": "Q Joseph",
+                  "kind": "retired out"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "actual_delivery": "3.1",
+              "batter": "KP Navgire",
+              "bowler": "EA Burns",
+              "non_striker": "HK Matthews",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "KP Navgire",
+                  "fielders": [
+                    {
+                      "name": "SA Campbelle"
+                    }
+                  ],
+                  "kind": "stumped"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "3.2",
+              "batter": "ML Green",
+              "bowler": "EA Burns",
+              "non_striker": "HK Matthews",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "3.3",
+              "batter": "HK Matthews",
+              "bowler": "EA Burns",
+              "non_striker": "ML Green",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "3.4",
+              "batter": "ML Green",
+              "bowler": "EA Burns",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "HK Matthews",
+              "runs": {
+                "batter": 1,
+                "extras": 1,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "3.4",
+              "batter": "HK Matthews",
+              "bowler": "EA Burns",
+              "non_striker": "ML Green",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.5",
+              "batter": "HK Matthews",
+              "bowler": "EA Burns",
+              "non_striker": "ML Green",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.6",
+              "batter": "HK Matthews",
+              "bowler": "EA Burns",
+              "non_striker": "ML Green",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "actual_delivery": "4.1",
+              "batter": "HK Matthews",
+              "bowler": "SS Grimmond",
+              "non_striker": "ML Green",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "4.2",
+              "batter": "HK Matthews",
+              "bowler": "SS Grimmond",
+              "non_striker": "ML Green",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.3",
+              "batter": "HK Matthews",
+              "bowler": "SS Grimmond",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "ML Green",
+              "runs": {
+                "batter": 1,
+                "extras": 1,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "4.3",
+              "batter": "ML Green",
+              "bowler": "SS Grimmond",
+              "non_striker": "HK Matthews",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "4.4",
+              "batter": "ML Green",
+              "bowler": "SS Grimmond",
+              "non_striker": "HK Matthews",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "4.5",
+              "batter": "ML Green",
+              "bowler": "SS Grimmond",
+              "non_striker": "HK Matthews",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.6",
+              "batter": "ML Green",
+              "bowler": "SS Grimmond",
+              "non_striker": "HK Matthews",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "actual_delivery": "5.1",
+              "batter": "HK Matthews",
+              "bowler": "EA Burns",
+              "non_striker": "ML Green",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              },
+              "wickets": [
+                {
+                  "player_out": "HK Matthews",
+                  "fielders": [
+                    {
+                      "name": "SA Campbelle"
+                    },
+                    {
+                      "name": "RMAU Grimmond"
+                    }
+                  ],
+                  "kind": "run out"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "5.2",
+              "batter": "SW Bates",
+              "bowler": "EA Burns",
+              "non_striker": "ML Green",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "5.3",
+              "batter": "ML Green",
+              "bowler": "EA Burns",
+              "non_striker": "SW Bates",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.4",
+              "batter": "ML Green",
+              "bowler": "EA Burns",
+              "non_striker": "SW Bates",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "5.5",
+              "batter": "ML Green",
+              "bowler": "EA Burns",
+              "non_striker": "SW Bates",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "5.6",
+              "batter": "SW Bates",
+              "bowler": "EA Burns",
+              "non_striker": "ML Green",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "actual_delivery": "6.1",
+              "batter": "SW Bates",
+              "bowler": "SS Connell",
+              "non_striker": "ML Green",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.2",
+              "batter": "ML Green",
+              "bowler": "SS Connell",
+              "non_striker": "SW Bates",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.3",
+              "batter": "SW Bates",
+              "bowler": "SS Connell",
+              "non_striker": "ML Green",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "6.4",
+              "batter": "SW Bates",
+              "bowler": "SS Connell",
+              "non_striker": "ML Green",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "SW Bates",
+                  "fielders": [
+                    {
+                      "name": "SS Grimmond"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "6.5",
+              "batter": "P Vastrakar",
+              "bowler": "SS Connell",
+              "non_striker": "ML Green",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.6",
+              "batter": "ML Green",
+              "bowler": "SS Connell",
+              "non_striker": "P Vastrakar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "actual_delivery": "7.1",
+              "batter": "ML Green",
+              "bowler": "S Ismail",
+              "non_striker": "P Vastrakar",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "7.2",
+              "batter": "ML Green",
+              "bowler": "S Ismail",
+              "non_striker": "P Vastrakar",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "7.3",
+              "batter": "ML Green",
+              "bowler": "S Ismail",
+              "non_striker": "P Vastrakar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "7.4",
+              "batter": "P Vastrakar",
+              "bowler": "S Ismail",
+              "non_striker": "ML Green",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "7.5",
+              "batter": "ML Green",
+              "bowler": "S Ismail",
+              "non_striker": "P Vastrakar",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "7.6",
+              "batter": "ML Green",
+              "bowler": "S Ismail",
+              "non_striker": "P Vastrakar",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 2.2,
+          "type": "mandatory"
+        }
+      ]
+    },
+    {
+      "team": "Guyana Amazon Warriors",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "actual_delivery": "0.1",
+              "batter": "E Brathwaite",
+              "bowler": "S Hector",
+              "non_striker": "T Brits",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.2",
+              "batter": "E Brathwaite",
+              "bowler": "S Hector",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "T Brits",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "0.2",
+              "batter": "E Brathwaite",
+              "bowler": "S Hector",
+              "non_striker": "T Brits",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "0.3",
+              "batter": "E Brathwaite",
+              "bowler": "S Hector",
+              "non_striker": "T Brits",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "E Brathwaite",
+                  "fielders": [
+                    {
+                      "name": "H Deol"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "0.4",
+              "batter": "SA Campbelle",
+              "bowler": "S Hector",
+              "non_striker": "T Brits",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "0.5",
+              "batter": "T Brits",
+              "bowler": "S Hector",
+              "non_striker": "SA Campbelle",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "0.6",
+              "batter": "SA Campbelle",
+              "bowler": "S Hector",
+              "non_striker": "T Brits",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "actual_delivery": "1.1",
+              "batter": "SA Campbelle",
+              "bowler": "HK Matthews",
+              "non_striker": "T Brits",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "1.2",
+              "batter": "T Brits",
+              "bowler": "HK Matthews",
+              "non_striker": "SA Campbelle",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "1.3",
+              "batter": "T Brits",
+              "bowler": "HK Matthews",
+              "non_striker": "SA Campbelle",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "1.4",
+              "batter": "SA Campbelle",
+              "bowler": "HK Matthews",
+              "non_striker": "T Brits",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.5",
+              "batter": "SA Campbelle",
+              "bowler": "HK Matthews",
+              "non_striker": "T Brits",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "1.6",
+              "batter": "SA Campbelle",
+              "bowler": "HK Matthews",
+              "non_striker": "T Brits",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "actual_delivery": "2.1",
+              "batter": "T Brits",
+              "bowler": "ASS Fletcher",
+              "non_striker": "SA Campbelle",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.2",
+              "batter": "T Brits",
+              "bowler": "ASS Fletcher",
+              "non_striker": "SA Campbelle",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "2.3",
+              "batter": "T Brits",
+              "bowler": "ASS Fletcher",
+              "non_striker": "SA Campbelle",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "2.4",
+              "batter": "SA Campbelle",
+              "bowler": "ASS Fletcher",
+              "non_striker": "T Brits",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "2.5",
+              "batter": "SA Campbelle",
+              "bowler": "ASS Fletcher",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "T Brits",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "2.5",
+              "batter": "SA Campbelle",
+              "bowler": "ASS Fletcher",
+              "non_striker": "T Brits",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.6",
+              "batter": "SA Campbelle",
+              "bowler": "ASS Fletcher",
+              "non_striker": "T Brits",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "actual_delivery": "3.1",
+              "batter": "T Brits",
+              "bowler": "SW Bates",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "SA Campbelle",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "3.1",
+              "batter": "T Brits",
+              "bowler": "SW Bates",
+              "non_striker": "SA Campbelle",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "3.2",
+              "batter": "T Brits",
+              "bowler": "SW Bates",
+              "non_striker": "SA Campbelle",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "3.3",
+              "batter": "SA Campbelle",
+              "bowler": "SW Bates",
+              "non_striker": "T Brits",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "3.4",
+              "batter": "SA Campbelle",
+              "bowler": "SW Bates",
+              "non_striker": "T Brits",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "3.5",
+              "batter": "T Brits",
+              "bowler": "SW Bates",
+              "non_striker": "SA Campbelle",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.6",
+              "batter": "T Brits",
+              "bowler": "SW Bates",
+              "non_striker": "SA Campbelle",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "actual_delivery": "4.1",
+              "batter": "T Brits",
+              "bowler": "Q Joseph",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "SA Campbelle",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "4.1",
+              "batter": "T Brits",
+              "bowler": "Q Joseph",
+              "non_striker": "SA Campbelle",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.2",
+              "batter": "T Brits",
+              "bowler": "Q Joseph",
+              "non_striker": "SA Campbelle",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "4.3",
+              "batter": "T Brits",
+              "bowler": "Q Joseph",
+              "non_striker": "SA Campbelle",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.4",
+              "batter": "T Brits",
+              "bowler": "Q Joseph",
+              "non_striker": "SA Campbelle",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.5",
+              "batter": "T Brits",
+              "bowler": "Q Joseph",
+              "non_striker": "SA Campbelle",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "4.6",
+              "batter": "SA Campbelle",
+              "bowler": "Q Joseph",
+              "non_striker": "T Brits",
+              "review": {
+                "by": "Barbados Tridents",
+                "umpire": "C La Borde",
+                "batter": "SA Campbelle",
+                "decision": "upheld",
+                "type": "wicket"
+              },
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "SA Campbelle",
+                  "fielders": [
+                    {
+                      "name": "M Mangru"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "actual_delivery": "5.1",
+              "batter": "T Brits",
+              "bowler": "HK Matthews",
+              "non_striker": "N de Klerk",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "5.2",
+              "batter": "T Brits",
+              "bowler": "HK Matthews",
+              "non_striker": "N de Klerk",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "5.3",
+              "batter": "N de Klerk",
+              "bowler": "HK Matthews",
+              "non_striker": "T Brits",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.4",
+              "batter": "N de Klerk",
+              "bowler": "HK Matthews",
+              "non_striker": "T Brits",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "5.5",
+              "batter": "T Brits",
+              "bowler": "HK Matthews",
+              "non_striker": "N de Klerk",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "5.6",
+              "batter": "N de Klerk",
+              "bowler": "HK Matthews",
+              "non_striker": "T Brits",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "actual_delivery": "6.1",
+              "batter": "T Brits",
+              "bowler": "ASS Fletcher",
+              "non_striker": "N de Klerk",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "6.2",
+              "batter": "T Brits",
+              "bowler": "ASS Fletcher",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "N de Klerk",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.2",
+              "batter": "T Brits",
+              "bowler": "ASS Fletcher",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "N de Klerk",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.2",
+              "batter": "T Brits",
+              "bowler": "ASS Fletcher",
+              "non_striker": "N de Klerk",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "6.3",
+              "batter": "T Brits",
+              "bowler": "ASS Fletcher",
+              "non_striker": "N de Klerk",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "6.4",
+              "batter": "T Brits",
+              "bowler": "ASS Fletcher",
+              "non_striker": "N de Klerk",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "6.5",
+              "batter": "T Brits",
+              "bowler": "ASS Fletcher",
+              "non_striker": "N de Klerk",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.6",
+              "batter": "N de Klerk",
+              "bowler": "ASS Fletcher",
+              "non_striker": "T Brits",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "actual_delivery": "7.1",
+              "batter": "N de Klerk",
+              "bowler": "SW Bates",
+              "non_striker": "T Brits",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "N de Klerk",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "7.2",
+              "batter": "CL Tryon",
+              "bowler": "SW Bates",
+              "non_striker": "T Brits",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 2.2,
+          "type": "mandatory"
+        }
+      ],
+      "target": {
+        "overs": 8,
+        "runs": 70
+      }
+    }
+  ]
+}

@@ -1,0 +1,3296 @@
+{
+  "meta": {
+    "data_version": "1.3.0",
+    "created": "2026-09-29",
+    "revision": 1
+  },
+  "info": {
+    "balls_per_over": 6,
+    "city": "Gqeberha",
+    "dates": [
+      "2026-09-29"
+    ],
+    "event": {
+      "name": "CSA Pro20",
+      "group": "A"
+    },
+    "gender": "male",
+    "match_type": "T20",
+    "officials": {
+      "match_referees": [
+        "RN Hendricks"
+      ],
+      "umpires": [
+        "DJ Smith",
+        "Evan van der Merwe"
+      ]
+    },
+    "outcome": {
+      "winner": "Warriors",
+      "by": {
+        "runs": 35
+      }
+    },
+    "overs": 20,
+    "players": {
+      "Warriors": [
+        "J Hermann",
+        "BS Makhanya",
+        "M De Villiers",
+        "JP King",
+        "PE Kruger",
+        "J du Plessis",
+        "A Mokgakane",
+        "TP Kaber",
+        "BE Hendricks",
+        "W Bedja",
+        "K Mungroo"
+      ],
+      "Limpopo": [
+        "T Trenoweth",
+        "EH Kemm",
+        "CP Klijnhans",
+        "K Vieira",
+        "Abdullah Bayoumy",
+        "MN Piedt",
+        "T Mayes",
+        "S Ngobeni",
+        "A Mokgoloboto",
+        "D Radebe",
+        "IHM Modimokoane"
+      ]
+    },
+    "registry": {
+      "people": {
+        "A Mokgakane": "3b9f3af4",
+        "A Mokgoloboto": "cc83ca3d",
+        "Abdullah Bayoumy": "8ab49ad2",
+        "BE Hendricks": "b56dc5f7",
+        "BS Makhanya": "1b42a100",
+        "CP Klijnhans": "d50fba28",
+        "D Radebe": "59e3fa1d",
+        "DJ Smith": "d17bec15",
+        "EH Kemm": "0c803f4a",
+        "Evan van der Merwe": "1e8aa940",
+        "IHM Modimokoane": "569338b8",
+        "J Hermann": "e87aeca2",
+        "J du Plessis": "3f98fad7",
+        "JP King": "9b384e28",
+        "K Mungroo": "56feceb0",
+        "K Vieira": "d9acf4d3",
+        "M De Villiers": "e9aaf862",
+        "MN Piedt": "b6657cbe",
+        "PE Kruger": "39181592",
+        "RN Hendricks": "92edb363",
+        "S Ngobeni": "06a3484f",
+        "T Mayes": "9aedf23b",
+        "T Trenoweth": "4442cd4d",
+        "TP Kaber": "0773c16a",
+        "W Bedja": "f29dfbc0"
+      },
+      "venues": {
+        "St George's Park, Gqeberha": "e8345861"
+      }
+    },
+    "season": "2026/27",
+    "team_type": "club",
+    "teams": [
+      "Warriors",
+      "Limpopo"
+    ],
+    "toss": {
+      "decision": "bat",
+      "winner": "Warriors"
+    },
+    "venue": "St George's Park, Gqeberha"
+  },
+  "innings": [
+    {
+      "team": "Warriors",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "actual_delivery": "0.1",
+              "batter": "J Hermann",
+              "bowler": "A Mokgoloboto",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "BS Makhanya",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "0.1",
+              "batter": "J Hermann",
+              "bowler": "A Mokgoloboto",
+              "non_striker": "BS Makhanya",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.2",
+              "batter": "J Hermann",
+              "bowler": "A Mokgoloboto",
+              "non_striker": "BS Makhanya",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "0.3",
+              "batter": "BS Makhanya",
+              "bowler": "A Mokgoloboto",
+              "non_striker": "J Hermann",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "0.4",
+              "batter": "J Hermann",
+              "bowler": "A Mokgoloboto",
+              "non_striker": "BS Makhanya",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "0.5",
+              "batter": "J Hermann",
+              "bowler": "A Mokgoloboto",
+              "non_striker": "BS Makhanya",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "0.6",
+              "batter": "BS Makhanya",
+              "bowler": "A Mokgoloboto",
+              "non_striker": "J Hermann",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "actual_delivery": "1.1",
+              "batter": "J Hermann",
+              "bowler": "T Mayes",
+              "non_striker": "BS Makhanya",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.2",
+              "batter": "J Hermann",
+              "bowler": "T Mayes",
+              "non_striker": "BS Makhanya",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.3",
+              "batter": "J Hermann",
+              "bowler": "T Mayes",
+              "non_striker": "BS Makhanya",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "1.4",
+              "batter": "BS Makhanya",
+              "bowler": "T Mayes",
+              "non_striker": "J Hermann",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.5",
+              "batter": "BS Makhanya",
+              "bowler": "T Mayes",
+              "non_striker": "J Hermann",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "1.6",
+              "batter": "J Hermann",
+              "bowler": "T Mayes",
+              "non_striker": "BS Makhanya",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "actual_delivery": "2.1",
+              "batter": "J Hermann",
+              "bowler": "MN Piedt",
+              "non_striker": "BS Makhanya",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "2.2",
+              "batter": "J Hermann",
+              "bowler": "MN Piedt",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "BS Makhanya",
+              "runs": {
+                "batter": 1,
+                "extras": 1,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "2.2",
+              "batter": "BS Makhanya",
+              "bowler": "MN Piedt",
+              "non_striker": "J Hermann",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "2.3",
+              "batter": "BS Makhanya",
+              "bowler": "MN Piedt",
+              "non_striker": "J Hermann",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "2.4",
+              "batter": "BS Makhanya",
+              "bowler": "MN Piedt",
+              "non_striker": "J Hermann",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "2.5",
+              "batter": "J Hermann",
+              "bowler": "MN Piedt",
+              "non_striker": "BS Makhanya",
+              "runs": {
+                "batter": 3,
+                "extras": 0,
+                "total": 3
+              }
+            },
+            {
+              "actual_delivery": "2.6",
+              "batter": "BS Makhanya",
+              "bowler": "MN Piedt",
+              "non_striker": "J Hermann",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "actual_delivery": "3.1",
+              "batter": "J Hermann",
+              "bowler": "T Mayes",
+              "non_striker": "BS Makhanya",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "3.2",
+              "batter": "J Hermann",
+              "bowler": "T Mayes",
+              "non_striker": "BS Makhanya",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "3.3",
+              "batter": "BS Makhanya",
+              "bowler": "T Mayes",
+              "non_striker": "J Hermann",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "3.4",
+              "batter": "J Hermann",
+              "bowler": "T Mayes",
+              "non_striker": "BS Makhanya",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "3.5",
+              "batter": "J Hermann",
+              "bowler": "T Mayes",
+              "extras": {
+                "legbyes": 4
+              },
+              "non_striker": "BS Makhanya",
+              "runs": {
+                "batter": 0,
+                "extras": 4,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "3.6",
+              "batter": "J Hermann",
+              "bowler": "T Mayes",
+              "non_striker": "BS Makhanya",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "actual_delivery": "4.1",
+              "batter": "J Hermann",
+              "bowler": "IHM Modimokoane",
+              "non_striker": "BS Makhanya",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "4.2",
+              "batter": "BS Makhanya",
+              "bowler": "IHM Modimokoane",
+              "non_striker": "J Hermann",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "4.3",
+              "batter": "BS Makhanya",
+              "bowler": "IHM Modimokoane",
+              "non_striker": "J Hermann",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "4.4",
+              "batter": "BS Makhanya",
+              "bowler": "IHM Modimokoane",
+              "non_striker": "J Hermann",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "4.5",
+              "batter": "BS Makhanya",
+              "bowler": "IHM Modimokoane",
+              "non_striker": "J Hermann",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.6",
+              "batter": "BS Makhanya",
+              "bowler": "IHM Modimokoane",
+              "non_striker": "J Hermann",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "actual_delivery": "5.1",
+              "batter": "J Hermann",
+              "bowler": "D Radebe",
+              "non_striker": "BS Makhanya",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "5.2",
+              "batter": "J Hermann",
+              "bowler": "D Radebe",
+              "non_striker": "BS Makhanya",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.3",
+              "batter": "J Hermann",
+              "bowler": "D Radebe",
+              "non_striker": "BS Makhanya",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "5.4",
+              "batter": "J Hermann",
+              "bowler": "D Radebe",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "BS Makhanya",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "5.4",
+              "batter": "J Hermann",
+              "bowler": "D Radebe",
+              "non_striker": "BS Makhanya",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "5.5",
+              "batter": "BS Makhanya",
+              "bowler": "D Radebe",
+              "non_striker": "J Hermann",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "5.6",
+              "batter": "BS Makhanya",
+              "bowler": "D Radebe",
+              "non_striker": "J Hermann",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "BS Makhanya",
+                  "fielders": [
+                    {
+                      "name": "S Ngobeni"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "actual_delivery": "6.1",
+              "batter": "J Hermann",
+              "bowler": "A Mokgoloboto",
+              "non_striker": "M De Villiers",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "6.2",
+              "batter": "J Hermann",
+              "bowler": "A Mokgoloboto",
+              "non_striker": "M De Villiers",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.3",
+              "batter": "M De Villiers",
+              "bowler": "A Mokgoloboto",
+              "non_striker": "J Hermann",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "6.4",
+              "batter": "M De Villiers",
+              "bowler": "A Mokgoloboto",
+              "non_striker": "J Hermann",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "6.5",
+              "batter": "M De Villiers",
+              "bowler": "A Mokgoloboto",
+              "non_striker": "J Hermann",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "6.6",
+              "batter": "M De Villiers",
+              "bowler": "A Mokgoloboto",
+              "non_striker": "J Hermann",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "actual_delivery": "7.1",
+              "batter": "J Hermann",
+              "bowler": "D Radebe",
+              "non_striker": "M De Villiers",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "7.2",
+              "batter": "J Hermann",
+              "bowler": "D Radebe",
+              "non_striker": "M De Villiers",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "7.3",
+              "batter": "J Hermann",
+              "bowler": "D Radebe",
+              "non_striker": "M De Villiers",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "7.4",
+              "batter": "M De Villiers",
+              "bowler": "D Radebe",
+              "non_striker": "J Hermann",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "7.5",
+              "batter": "M De Villiers",
+              "bowler": "D Radebe",
+              "non_striker": "J Hermann",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "7.6",
+              "batter": "M De Villiers",
+              "bowler": "D Radebe",
+              "non_striker": "J Hermann",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "actual_delivery": "8.1",
+              "batter": "M De Villiers",
+              "bowler": "A Mokgoloboto",
+              "non_striker": "J Hermann",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "8.2",
+              "batter": "J Hermann",
+              "bowler": "A Mokgoloboto",
+              "non_striker": "M De Villiers",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "8.3",
+              "batter": "J Hermann",
+              "bowler": "A Mokgoloboto",
+              "non_striker": "M De Villiers",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "8.4",
+              "batter": "M De Villiers",
+              "bowler": "A Mokgoloboto",
+              "non_striker": "J Hermann",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "8.5",
+              "batter": "M De Villiers",
+              "bowler": "A Mokgoloboto",
+              "non_striker": "J Hermann",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "8.6",
+              "batter": "J Hermann",
+              "bowler": "A Mokgoloboto",
+              "non_striker": "M De Villiers",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "actual_delivery": "9.1",
+              "batter": "M De Villiers",
+              "bowler": "D Radebe",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "J Hermann",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "9.2",
+              "batter": "J Hermann",
+              "bowler": "D Radebe",
+              "non_striker": "M De Villiers",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "9.3",
+              "batter": "J Hermann",
+              "bowler": "D Radebe",
+              "non_striker": "M De Villiers",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "9.4",
+              "batter": "J Hermann",
+              "bowler": "D Radebe",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "M De Villiers",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "9.5",
+              "batter": "M De Villiers",
+              "bowler": "D Radebe",
+              "non_striker": "J Hermann",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "9.6",
+              "batter": "J Hermann",
+              "bowler": "D Radebe",
+              "non_striker": "M De Villiers",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "actual_delivery": "10.1",
+              "batter": "J Hermann",
+              "bowler": "Abdullah Bayoumy",
+              "non_striker": "M De Villiers",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "10.2",
+              "batter": "J Hermann",
+              "bowler": "Abdullah Bayoumy",
+              "non_striker": "M De Villiers",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "10.3",
+              "batter": "J Hermann",
+              "bowler": "Abdullah Bayoumy",
+              "non_striker": "M De Villiers",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "10.4",
+              "batter": "J Hermann",
+              "bowler": "Abdullah Bayoumy",
+              "non_striker": "M De Villiers",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "10.5",
+              "batter": "M De Villiers",
+              "bowler": "Abdullah Bayoumy",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "J Hermann",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "10.6",
+              "batter": "J Hermann",
+              "bowler": "Abdullah Bayoumy",
+              "non_striker": "M De Villiers",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "actual_delivery": "11.1",
+              "batter": "J Hermann",
+              "bowler": "EH Kemm",
+              "non_striker": "M De Villiers",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "11.2",
+              "batter": "M De Villiers",
+              "bowler": "EH Kemm",
+              "non_striker": "J Hermann",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "11.3",
+              "batter": "J Hermann",
+              "bowler": "EH Kemm",
+              "non_striker": "M De Villiers",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "11.4",
+              "batter": "M De Villiers",
+              "bowler": "EH Kemm",
+              "non_striker": "J Hermann",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "11.5",
+              "batter": "J Hermann",
+              "bowler": "EH Kemm",
+              "non_striker": "M De Villiers",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "11.6",
+              "batter": "M De Villiers",
+              "bowler": "EH Kemm",
+              "non_striker": "J Hermann",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "actual_delivery": "12.1",
+              "batter": "M De Villiers",
+              "bowler": "IHM Modimokoane",
+              "non_striker": "J Hermann",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "12.2",
+              "batter": "M De Villiers",
+              "bowler": "IHM Modimokoane",
+              "non_striker": "J Hermann",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "12.3",
+              "batter": "M De Villiers",
+              "bowler": "IHM Modimokoane",
+              "non_striker": "J Hermann",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "12.4",
+              "batter": "M De Villiers",
+              "bowler": "IHM Modimokoane",
+              "non_striker": "J Hermann",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "12.5",
+              "batter": "J Hermann",
+              "bowler": "IHM Modimokoane",
+              "non_striker": "M De Villiers",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "12.6",
+              "batter": "J Hermann",
+              "bowler": "IHM Modimokoane",
+              "non_striker": "M De Villiers",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "actual_delivery": "13.1",
+              "batter": "J Hermann",
+              "bowler": "EH Kemm",
+              "non_striker": "M De Villiers",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "13.2",
+              "batter": "J Hermann",
+              "bowler": "EH Kemm",
+              "non_striker": "M De Villiers",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "J Hermann",
+                  "fielders": [
+                    {
+                      "name": "A Mokgoloboto"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "13.3",
+              "batter": "JP King",
+              "bowler": "EH Kemm",
+              "non_striker": "M De Villiers",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "13.4",
+              "batter": "M De Villiers",
+              "bowler": "EH Kemm",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "JP King",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "13.4",
+              "batter": "M De Villiers",
+              "bowler": "EH Kemm",
+              "non_striker": "JP King",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "13.5",
+              "batter": "JP King",
+              "bowler": "EH Kemm",
+              "non_striker": "M De Villiers",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "13.6",
+              "batter": "M De Villiers",
+              "bowler": "EH Kemm",
+              "non_striker": "JP King",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "actual_delivery": "14.1",
+              "batter": "JP King",
+              "bowler": "IHM Modimokoane",
+              "non_striker": "M De Villiers",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "14.2",
+              "batter": "JP King",
+              "bowler": "IHM Modimokoane",
+              "non_striker": "M De Villiers",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "14.3",
+              "batter": "JP King",
+              "bowler": "IHM Modimokoane",
+              "non_striker": "M De Villiers",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "14.4",
+              "batter": "JP King",
+              "bowler": "IHM Modimokoane",
+              "non_striker": "M De Villiers",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "14.5",
+              "batter": "JP King",
+              "bowler": "IHM Modimokoane",
+              "non_striker": "M De Villiers",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "14.6",
+              "batter": "JP King",
+              "bowler": "IHM Modimokoane",
+              "non_striker": "M De Villiers",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "actual_delivery": "15.1",
+              "batter": "JP King",
+              "bowler": "D Radebe",
+              "non_striker": "M De Villiers",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "15.2",
+              "batter": "M De Villiers",
+              "bowler": "D Radebe",
+              "non_striker": "JP King",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "15.3",
+              "batter": "JP King",
+              "bowler": "D Radebe",
+              "non_striker": "M De Villiers",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "15.4",
+              "batter": "M De Villiers",
+              "bowler": "D Radebe",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "JP King",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "15.4",
+              "batter": "M De Villiers",
+              "bowler": "D Radebe",
+              "non_striker": "JP King",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "15.5",
+              "batter": "JP King",
+              "bowler": "D Radebe",
+              "non_striker": "M De Villiers",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "15.6",
+              "batter": "JP King",
+              "bowler": "D Radebe",
+              "non_striker": "M De Villiers",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "actual_delivery": "16.1",
+              "batter": "JP King",
+              "bowler": "MN Piedt",
+              "non_striker": "M De Villiers",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "16.2",
+              "batter": "JP King",
+              "bowler": "MN Piedt",
+              "non_striker": "M De Villiers",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "16.3",
+              "batter": "M De Villiers",
+              "bowler": "MN Piedt",
+              "non_striker": "JP King",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "16.4",
+              "batter": "JP King",
+              "bowler": "MN Piedt",
+              "non_striker": "M De Villiers",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "16.5",
+              "batter": "M De Villiers",
+              "bowler": "MN Piedt",
+              "non_striker": "JP King",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "16.6",
+              "batter": "JP King",
+              "bowler": "MN Piedt",
+              "non_striker": "M De Villiers",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "actual_delivery": "17.1",
+              "batter": "JP King",
+              "bowler": "T Mayes",
+              "non_striker": "M De Villiers",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "17.2",
+              "batter": "M De Villiers",
+              "bowler": "T Mayes",
+              "non_striker": "JP King",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "17.3",
+              "batter": "JP King",
+              "bowler": "T Mayes",
+              "non_striker": "M De Villiers",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "17.4",
+              "batter": "JP King",
+              "bowler": "T Mayes",
+              "non_striker": "M De Villiers",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "17.5",
+              "batter": "M De Villiers",
+              "bowler": "T Mayes",
+              "non_striker": "JP King",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "17.6",
+              "batter": "M De Villiers",
+              "bowler": "T Mayes",
+              "non_striker": "JP King",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "actual_delivery": "18.1",
+              "batter": "M De Villiers",
+              "bowler": "MN Piedt",
+              "non_striker": "JP King",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "M De Villiers",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "18.2",
+              "batter": "PE Kruger",
+              "bowler": "MN Piedt",
+              "non_striker": "JP King",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "18.3",
+              "batter": "JP King",
+              "bowler": "MN Piedt",
+              "non_striker": "PE Kruger",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "18.4",
+              "batter": "JP King",
+              "bowler": "MN Piedt",
+              "non_striker": "PE Kruger",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "18.5",
+              "batter": "JP King",
+              "bowler": "MN Piedt",
+              "non_striker": "PE Kruger",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "JP King",
+                  "fielders": [
+                    {
+                      "name": "IHM Modimokoane"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "18.6",
+              "batter": "J du Plessis",
+              "bowler": "MN Piedt",
+              "non_striker": "PE Kruger",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "actual_delivery": "19.1",
+              "batter": "PE Kruger",
+              "bowler": "T Mayes",
+              "non_striker": "J du Plessis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "19.2",
+              "batter": "PE Kruger",
+              "bowler": "T Mayes",
+              "non_striker": "J du Plessis",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "19.3",
+              "batter": "J du Plessis",
+              "bowler": "T Mayes",
+              "non_striker": "PE Kruger",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "19.4",
+              "batter": "PE Kruger",
+              "bowler": "T Mayes",
+              "non_striker": "J du Plessis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "19.5",
+              "batter": "PE Kruger",
+              "bowler": "T Mayes",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "J du Plessis",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "19.5",
+              "batter": "PE Kruger",
+              "bowler": "T Mayes",
+              "non_striker": "J du Plessis",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "19.6",
+              "batter": "J du Plessis",
+              "bowler": "T Mayes",
+              "non_striker": "PE Kruger",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.7,
+          "type": "mandatory"
+        }
+      ]
+    },
+    {
+      "team": "Limpopo",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "actual_delivery": "0.1",
+              "batter": "T Trenoweth",
+              "bowler": "K Mungroo",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "EH Kemm",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "0.1",
+              "batter": "T Trenoweth",
+              "bowler": "K Mungroo",
+              "non_striker": "EH Kemm",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.2",
+              "batter": "T Trenoweth",
+              "bowler": "K Mungroo",
+              "non_striker": "EH Kemm",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.3",
+              "batter": "T Trenoweth",
+              "bowler": "K Mungroo",
+              "non_striker": "EH Kemm",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "0.4",
+              "batter": "EH Kemm",
+              "bowler": "K Mungroo",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "T Trenoweth",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "0.4",
+              "batter": "EH Kemm",
+              "bowler": "K Mungroo",
+              "non_striker": "T Trenoweth",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "0.5",
+              "batter": "T Trenoweth",
+              "bowler": "K Mungroo",
+              "non_striker": "EH Kemm",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.6",
+              "batter": "T Trenoweth",
+              "bowler": "K Mungroo",
+              "non_striker": "EH Kemm",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "actual_delivery": "1.1",
+              "batter": "EH Kemm",
+              "bowler": "BE Hendricks",
+              "non_striker": "T Trenoweth",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "1.2",
+              "batter": "T Trenoweth",
+              "bowler": "BE Hendricks",
+              "non_striker": "EH Kemm",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.3",
+              "batter": "T Trenoweth",
+              "bowler": "BE Hendricks",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "EH Kemm",
+              "runs": {
+                "batter": 2,
+                "extras": 1,
+                "total": 3
+              }
+            },
+            {
+              "actual_delivery": "1.3",
+              "batter": "T Trenoweth",
+              "bowler": "BE Hendricks",
+              "non_striker": "EH Kemm",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "1.4",
+              "batter": "T Trenoweth",
+              "bowler": "BE Hendricks",
+              "non_striker": "EH Kemm",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "1.5",
+              "batter": "EH Kemm",
+              "bowler": "BE Hendricks",
+              "non_striker": "T Trenoweth",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "1.6",
+              "batter": "EH Kemm",
+              "bowler": "BE Hendricks",
+              "non_striker": "T Trenoweth",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "actual_delivery": "2.1",
+              "batter": "T Trenoweth",
+              "bowler": "K Mungroo",
+              "non_striker": "EH Kemm",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "2.2",
+              "batter": "T Trenoweth",
+              "bowler": "K Mungroo",
+              "non_striker": "EH Kemm",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "T Trenoweth",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "2.3",
+              "batter": "CP Klijnhans",
+              "bowler": "K Mungroo",
+              "non_striker": "EH Kemm",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.4",
+              "batter": "CP Klijnhans",
+              "bowler": "K Mungroo",
+              "non_striker": "EH Kemm",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "2.5",
+              "batter": "CP Klijnhans",
+              "bowler": "K Mungroo",
+              "non_striker": "EH Kemm",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.6",
+              "batter": "CP Klijnhans",
+              "bowler": "K Mungroo",
+              "non_striker": "EH Kemm",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "actual_delivery": "3.1",
+              "batter": "EH Kemm",
+              "bowler": "BE Hendricks",
+              "non_striker": "CP Klijnhans",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.2",
+              "batter": "EH Kemm",
+              "bowler": "BE Hendricks",
+              "non_striker": "CP Klijnhans",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.3",
+              "batter": "EH Kemm",
+              "bowler": "BE Hendricks",
+              "non_striker": "CP Klijnhans",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.4",
+              "batter": "EH Kemm",
+              "bowler": "BE Hendricks",
+              "non_striker": "CP Klijnhans",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "3.5",
+              "batter": "EH Kemm",
+              "bowler": "BE Hendricks",
+              "non_striker": "CP Klijnhans",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "3.6",
+              "batter": "EH Kemm",
+              "bowler": "BE Hendricks",
+              "non_striker": "CP Klijnhans",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "actual_delivery": "4.1",
+              "batter": "CP Klijnhans",
+              "bowler": "W Bedja",
+              "non_striker": "EH Kemm",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.2",
+              "batter": "CP Klijnhans",
+              "bowler": "W Bedja",
+              "non_striker": "EH Kemm",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "4.3",
+              "batter": "EH Kemm",
+              "bowler": "W Bedja",
+              "non_striker": "CP Klijnhans",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "4.4",
+              "batter": "CP Klijnhans",
+              "bowler": "W Bedja",
+              "non_striker": "EH Kemm",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.5",
+              "batter": "CP Klijnhans",
+              "bowler": "W Bedja",
+              "non_striker": "EH Kemm",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "4.6",
+              "batter": "EH Kemm",
+              "bowler": "W Bedja",
+              "non_striker": "CP Klijnhans",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "actual_delivery": "5.1",
+              "batter": "CP Klijnhans",
+              "bowler": "BS Makhanya",
+              "non_striker": "EH Kemm",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "5.2",
+              "batter": "CP Klijnhans",
+              "bowler": "BS Makhanya",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "EH Kemm",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "5.3",
+              "batter": "EH Kemm",
+              "bowler": "BS Makhanya",
+              "non_striker": "CP Klijnhans",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "5.4",
+              "batter": "CP Klijnhans",
+              "bowler": "BS Makhanya",
+              "non_striker": "EH Kemm",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.5",
+              "batter": "CP Klijnhans",
+              "bowler": "BS Makhanya",
+              "non_striker": "EH Kemm",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "5.6",
+              "batter": "EH Kemm",
+              "bowler": "BS Makhanya",
+              "non_striker": "CP Klijnhans",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "actual_delivery": "6.1",
+              "batter": "CP Klijnhans",
+              "bowler": "W Bedja",
+              "non_striker": "EH Kemm",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "6.2",
+              "batter": "CP Klijnhans",
+              "bowler": "W Bedja",
+              "non_striker": "EH Kemm",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "6.3",
+              "batter": "CP Klijnhans",
+              "bowler": "W Bedja",
+              "non_striker": "EH Kemm",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "6.4",
+              "batter": "CP Klijnhans",
+              "bowler": "W Bedja",
+              "non_striker": "EH Kemm",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "6.5",
+              "batter": "CP Klijnhans",
+              "bowler": "W Bedja",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "EH Kemm",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.5",
+              "batter": "CP Klijnhans",
+              "bowler": "W Bedja",
+              "non_striker": "EH Kemm",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.6",
+              "batter": "EH Kemm",
+              "bowler": "W Bedja",
+              "non_striker": "CP Klijnhans",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "actual_delivery": "7.1",
+              "batter": "EH Kemm",
+              "bowler": "TP Kaber",
+              "non_striker": "CP Klijnhans",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "7.2",
+              "batter": "CP Klijnhans",
+              "bowler": "TP Kaber",
+              "non_striker": "EH Kemm",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "7.3",
+              "batter": "CP Klijnhans",
+              "bowler": "TP Kaber",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "EH Kemm",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "7.3",
+              "batter": "CP Klijnhans",
+              "bowler": "TP Kaber",
+              "non_striker": "EH Kemm",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "7.4",
+              "batter": "EH Kemm",
+              "bowler": "TP Kaber",
+              "non_striker": "CP Klijnhans",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "7.5",
+              "batter": "EH Kemm",
+              "bowler": "TP Kaber",
+              "non_striker": "CP Klijnhans",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "7.6",
+              "batter": "CP Klijnhans",
+              "bowler": "TP Kaber",
+              "non_striker": "EH Kemm",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "actual_delivery": "8.1",
+              "batter": "EH Kemm",
+              "bowler": "K Mungroo",
+              "non_striker": "CP Klijnhans",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "8.2",
+              "batter": "CP Klijnhans",
+              "bowler": "K Mungroo",
+              "non_striker": "EH Kemm",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "8.3",
+              "batter": "EH Kemm",
+              "bowler": "K Mungroo",
+              "non_striker": "CP Klijnhans",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "8.4",
+              "batter": "CP Klijnhans",
+              "bowler": "K Mungroo",
+              "non_striker": "EH Kemm",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "8.5",
+              "batter": "CP Klijnhans",
+              "bowler": "K Mungroo",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "EH Kemm",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "8.5",
+              "batter": "CP Klijnhans",
+              "bowler": "K Mungroo",
+              "non_striker": "EH Kemm",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "8.6",
+              "batter": "EH Kemm",
+              "bowler": "K Mungroo",
+              "non_striker": "CP Klijnhans",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "actual_delivery": "9.1",
+              "batter": "EH Kemm",
+              "bowler": "TP Kaber",
+              "non_striker": "CP Klijnhans",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "9.2",
+              "batter": "CP Klijnhans",
+              "bowler": "TP Kaber",
+              "non_striker": "EH Kemm",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "9.3",
+              "batter": "CP Klijnhans",
+              "bowler": "TP Kaber",
+              "non_striker": "EH Kemm",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "9.4",
+              "batter": "CP Klijnhans",
+              "bowler": "TP Kaber",
+              "non_striker": "EH Kemm",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "9.5",
+              "batter": "CP Klijnhans",
+              "bowler": "TP Kaber",
+              "non_striker": "EH Kemm",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "CP Klijnhans",
+                  "fielders": [
+                    {
+                      "name": "BE Hendricks"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "9.6",
+              "batter": "K Vieira",
+              "bowler": "TP Kaber",
+              "non_striker": "EH Kemm",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "actual_delivery": "10.1",
+              "batter": "K Vieira",
+              "bowler": "J Hermann",
+              "non_striker": "EH Kemm",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "10.2",
+              "batter": "EH Kemm",
+              "bowler": "J Hermann",
+              "non_striker": "K Vieira",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "10.3",
+              "batter": "K Vieira",
+              "bowler": "J Hermann",
+              "non_striker": "EH Kemm",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "10.4",
+              "batter": "K Vieira",
+              "bowler": "J Hermann",
+              "non_striker": "EH Kemm",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "10.5",
+              "batter": "K Vieira",
+              "bowler": "J Hermann",
+              "non_striker": "EH Kemm",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "10.6",
+              "batter": "EH Kemm",
+              "bowler": "J Hermann",
+              "non_striker": "K Vieira",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "actual_delivery": "11.1",
+              "batter": "EH Kemm",
+              "bowler": "BE Hendricks",
+              "non_striker": "K Vieira",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "11.2",
+              "batter": "EH Kemm",
+              "bowler": "BE Hendricks",
+              "non_striker": "K Vieira",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "11.3",
+              "batter": "K Vieira",
+              "bowler": "BE Hendricks",
+              "non_striker": "EH Kemm",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "11.4",
+              "batter": "EH Kemm",
+              "bowler": "BE Hendricks",
+              "non_striker": "K Vieira",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "11.5",
+              "batter": "EH Kemm",
+              "bowler": "BE Hendricks",
+              "non_striker": "K Vieira",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "11.6",
+              "batter": "EH Kemm",
+              "bowler": "BE Hendricks",
+              "non_striker": "K Vieira",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "actual_delivery": "12.1",
+              "batter": "EH Kemm",
+              "bowler": "J Hermann",
+              "non_striker": "K Vieira",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "12.2",
+              "batter": "EH Kemm",
+              "bowler": "J Hermann",
+              "non_striker": "K Vieira",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "12.3",
+              "batter": "EH Kemm",
+              "bowler": "J Hermann",
+              "non_striker": "K Vieira",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "12.4",
+              "batter": "EH Kemm",
+              "bowler": "J Hermann",
+              "non_striker": "K Vieira",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "12.5",
+              "batter": "EH Kemm",
+              "bowler": "J Hermann",
+              "non_striker": "K Vieira",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "12.6",
+              "batter": "EH Kemm",
+              "bowler": "J Hermann",
+              "non_striker": "K Vieira",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "actual_delivery": "13.1",
+              "batter": "K Vieira",
+              "bowler": "BS Makhanya",
+              "non_striker": "EH Kemm",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "13.2",
+              "batter": "EH Kemm",
+              "bowler": "BS Makhanya",
+              "non_striker": "K Vieira",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "13.3",
+              "batter": "K Vieira",
+              "bowler": "BS Makhanya",
+              "non_striker": "EH Kemm",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "13.4",
+              "batter": "K Vieira",
+              "bowler": "BS Makhanya",
+              "non_striker": "EH Kemm",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "13.5",
+              "batter": "K Vieira",
+              "bowler": "BS Makhanya",
+              "non_striker": "EH Kemm",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "13.6",
+              "batter": "EH Kemm",
+              "bowler": "BS Makhanya",
+              "non_striker": "K Vieira",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "actual_delivery": "14.1",
+              "batter": "EH Kemm",
+              "bowler": "W Bedja",
+              "non_striker": "K Vieira",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "14.2",
+              "batter": "K Vieira",
+              "bowler": "W Bedja",
+              "non_striker": "EH Kemm",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "14.3",
+              "batter": "K Vieira",
+              "bowler": "W Bedja",
+              "non_striker": "EH Kemm",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "14.4",
+              "batter": "EH Kemm",
+              "bowler": "W Bedja",
+              "non_striker": "K Vieira",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "14.5",
+              "batter": "K Vieira",
+              "bowler": "W Bedja",
+              "non_striker": "EH Kemm",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "14.6",
+              "batter": "K Vieira",
+              "bowler": "W Bedja",
+              "non_striker": "EH Kemm",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "actual_delivery": "15.1",
+              "batter": "EH Kemm",
+              "bowler": "TP Kaber",
+              "non_striker": "K Vieira",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "15.2",
+              "batter": "K Vieira",
+              "bowler": "TP Kaber",
+              "non_striker": "EH Kemm",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "K Vieira",
+                  "fielders": [
+                    {
+                      "name": "M De Villiers"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "15.3",
+              "batter": "Abdullah Bayoumy",
+              "bowler": "TP Kaber",
+              "non_striker": "EH Kemm",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "15.4",
+              "batter": "EH Kemm",
+              "bowler": "TP Kaber",
+              "non_striker": "Abdullah Bayoumy",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "15.5",
+              "batter": "EH Kemm",
+              "bowler": "TP Kaber",
+              "non_striker": "Abdullah Bayoumy",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "15.6",
+              "batter": "Abdullah Bayoumy",
+              "bowler": "TP Kaber",
+              "non_striker": "EH Kemm",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "actual_delivery": "16.1",
+              "batter": "EH Kemm",
+              "bowler": "K Mungroo",
+              "non_striker": "Abdullah Bayoumy",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "16.2",
+              "batter": "Abdullah Bayoumy",
+              "bowler": "K Mungroo",
+              "non_striker": "EH Kemm",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "16.3",
+              "batter": "EH Kemm",
+              "bowler": "K Mungroo",
+              "non_striker": "Abdullah Bayoumy",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "16.4",
+              "batter": "EH Kemm",
+              "bowler": "K Mungroo",
+              "non_striker": "Abdullah Bayoumy",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "16.5",
+              "batter": "EH Kemm",
+              "bowler": "K Mungroo",
+              "non_striker": "Abdullah Bayoumy",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "16.6",
+              "batter": "EH Kemm",
+              "bowler": "K Mungroo",
+              "non_striker": "Abdullah Bayoumy",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "actual_delivery": "17.1",
+              "batter": "EH Kemm",
+              "bowler": "TP Kaber",
+              "non_striker": "Abdullah Bayoumy",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "EH Kemm",
+                  "fielders": [
+                    {
+                      "name": "J du Plessis"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "17.2",
+              "batter": "MN Piedt",
+              "bowler": "TP Kaber",
+              "non_striker": "Abdullah Bayoumy",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "17.3",
+              "batter": "MN Piedt",
+              "bowler": "TP Kaber",
+              "non_striker": "Abdullah Bayoumy",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "17.4",
+              "batter": "Abdullah Bayoumy",
+              "bowler": "TP Kaber",
+              "non_striker": "MN Piedt",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "MN Piedt",
+                  "fielders": [
+                    {
+                      "name": "W Bedja"
+                    }
+                  ],
+                  "kind": "run out"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "17.5",
+              "batter": "T Mayes",
+              "bowler": "TP Kaber",
+              "non_striker": "Abdullah Bayoumy",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "T Mayes",
+                  "fielders": [
+                    {
+                      "name": "J du Plessis"
+                    }
+                  ],
+                  "kind": "stumped"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "17.6",
+              "batter": "S Ngobeni",
+              "bowler": "TP Kaber",
+              "non_striker": "Abdullah Bayoumy",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "actual_delivery": "18.1",
+              "batter": "S Ngobeni",
+              "bowler": "W Bedja",
+              "non_striker": "Abdullah Bayoumy",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "S Ngobeni",
+                  "fielders": [
+                    {
+                      "name": "M De Villiers"
+                    }
+                  ],
+                  "kind": "run out"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "18.2",
+              "batter": "Abdullah Bayoumy",
+              "bowler": "W Bedja",
+              "non_striker": "A Mokgoloboto",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "18.3",
+              "batter": "Abdullah Bayoumy",
+              "bowler": "W Bedja",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "A Mokgoloboto",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "18.3",
+              "batter": "Abdullah Bayoumy",
+              "bowler": "W Bedja",
+              "non_striker": "A Mokgoloboto",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "18.4",
+              "batter": "Abdullah Bayoumy",
+              "bowler": "W Bedja",
+              "non_striker": "A Mokgoloboto",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "18.5",
+              "batter": "A Mokgoloboto",
+              "bowler": "W Bedja",
+              "non_striker": "Abdullah Bayoumy",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "18.6",
+              "batter": "Abdullah Bayoumy",
+              "bowler": "W Bedja",
+              "non_striker": "A Mokgoloboto",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "actual_delivery": "19.1",
+              "batter": "Abdullah Bayoumy",
+              "bowler": "BE Hendricks",
+              "non_striker": "A Mokgoloboto",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "19.2",
+              "batter": "Abdullah Bayoumy",
+              "bowler": "BE Hendricks",
+              "non_striker": "A Mokgoloboto",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "19.3",
+              "batter": "Abdullah Bayoumy",
+              "bowler": "BE Hendricks",
+              "non_striker": "A Mokgoloboto",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "19.4",
+              "batter": "A Mokgoloboto",
+              "bowler": "BE Hendricks",
+              "non_striker": "Abdullah Bayoumy",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "19.5",
+              "batter": "Abdullah Bayoumy",
+              "bowler": "BE Hendricks",
+              "non_striker": "A Mokgoloboto",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Abdullah Bayoumy",
+                  "fielders": [
+                    {
+                      "name": "J du Plessis"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "19.6",
+              "batter": "D Radebe",
+              "bowler": "BE Hendricks",
+              "non_striker": "A Mokgoloboto",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.6,
+          "type": "mandatory"
+        }
+      ],
+      "target": {
+        "overs": 20,
+        "runs": 176
+      }
+    }
+  ]
+}

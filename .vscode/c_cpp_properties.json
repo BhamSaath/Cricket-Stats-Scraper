@@ -1,0 +1,13 @@
+{
+    "configurations": [
+        {
+            "name": "macOS",
+            "includePath": [
+                "${workspaceFolder}/include",
+                "${workspaceFolder}/CPP Core"
+            ],
+            "cppStandard": "c++17"
+        }
+    ],
+    "version": 4
+}
