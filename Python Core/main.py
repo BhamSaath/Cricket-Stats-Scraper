@@ -1,6 +1,9 @@
+
 import sys
 sys.path.append('/Users/saathwikbhamidipaty/Cricket-Stats-Scraper')
+print("importing statsPVP")
 import statsPVP
+print("imported")
 import google.genai as genai
 import os
 api_key = os.environ.get("GEMINI_API_KEY")
