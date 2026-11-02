@@ -9,11 +9,15 @@ cursor = conn.cursor()
 cursor.execute("""
     CREATE TABLE IF NOT EXISTS deliveries (
         match_id TEXT,
+        matchYear INTEGER,
+        matchType TEXT,
+        matchVenue TEXT,
         batter TEXT,
         bowler TEXT,
         runs_batter INTEGER,
         extras INTEGER,
         wicket_kind TEXT
+
     )""")
 for filename in os.listdir("all_json"):
     if filename.endswith(".json"):
@@ -24,7 +28,11 @@ for filename in os.listdir("all_json"):
                     match = json.load(f)
                 except json.JSONDecodeError:
                     continue
+            matchType = match["info"]["match_type"]
+            matchYear = match["info"]["dates"][0][0:4]
+            matchVenue = match["info"].get("venue", "Unknown")
             for inning in match["innings"]:
+
                 if "overs" not in inning:
                     continue
                 for over in inning["overs"]:
@@ -35,6 +43,6 @@ for filename in os.listdir("all_json"):
                         extras = int(delivery["runs"]["extras"])
                         wicketKind = delivery["wickets"][0]["kind"] if "wickets" in delivery else None
 
-                        cursor.execute("INSERT INTO deliveries VALUES (?, ?, ?, ?, ?, ?)", (match_id, batter, bowler, runs, extras, wicketKind))
+                        cursor.execute("INSERT INTO deliveries VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?)", (match_id, matchYear, matchType, matchVenue,batter, bowler, runs, extras, wicketKind))
 conn.commit()
         
