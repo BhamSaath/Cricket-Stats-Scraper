@@ -11,7 +11,7 @@ def main():
     print("Welcome to AI Matchup Engine for Cricket")
     batterName = input("Enter the Batter's name (Format: (First Initial)(Middle Initial *Optional*)(Last Name) => RG Sharma or V Kohli): ")
     bowlerName = input("Enter the Bowler's name (Format: (First Initial)(Middle Initial *Optional*)(Last Name) => JJ Bumrah or B Kumar): " )
-    queryResult = statsPVP.query(batterName,bowlerName)
+    queryResult = statsPVP.queryPVP(batterName,bowlerName)
     #Test Stats:
     print("Test Stats:\n")
     print("Total Test Wickets: "+str(queryResult[0].totalWickets))

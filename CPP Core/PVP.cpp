@@ -14,7 +14,7 @@
 
 namespace PVP {
     
-    std::vector <AggregateStats> query(std::string namePlayer1, std::string namePlayer2)
+    std::vector <AggregateStats> queryPVP(std::string namePlayer1, std::string namePlayer2)
     {
         
         AggregateStats player1v2StatsTest;

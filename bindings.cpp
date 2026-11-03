@@ -37,5 +37,5 @@ PYBIND11_MODULE(statsPVP,m)
         .def_readonly("totalBallsFaced",&PVP::AggregateStats::totalBallsFaced)
         .def_readonly("totalMatchesPlayed",&PVP::AggregateStats::totalMatchesPlayed);
 
-        m.def("query",&PVP::query);
+        m.def("queryPVP",&PVP::queryPVP);
 }
