@@ -1,3 +1,4 @@
+#pragma once
 #include <string>
 #include <filesystem>
 #include <iostream>
@@ -47,5 +48,5 @@ namespace PVG
         BowlerAggregate bowlingTest, bowlingODI, bowlingT20;
     };
 
-    std::vector <PVGResult> queryPVG(std::string namePlayer1, std::string groundName);
+    PVGResult queryPVG(std::string namePlayer1, std::string groundName);
 }
