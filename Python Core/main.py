@@ -125,36 +125,7 @@ def main():
         response = client.models.generate_content(model="gemini-3.8-flash", contents=prompt)
         print(response.text)
     
-# struct BatterAggregate 
-#     {
-#         int totalRuns = 0;
-#         int totalBallsFaced = 0;
-#         int totalFours = 0;
-#         int totalSixes = 0;
-#         int totalMatchesPlayed = 0;
-#         int totalDismissals = 0;
-#         int totalCatchOuts = 0;
-#         int totalLBWs = 0;
-#         int totalBowledOuts = 0;
-#         double totalAverage = 0;
-#         double totalStrikeRate = 0;
-#     };
 
-#     struct BowlerAggregate 
-#     {
-#         int totalRunsConceded = 0;
-#         int totalBallsBowled = 0;
-#         int totalOversBowled = 0;
-#         int totalWickets = 0;
-#         int totalCatchOuts = 0;
-#         int totalLBWs = 0;
-#         int totalBowledOuts = 0;
-#         int totalMatchesPlayed = 0;
-#         int extraRuns = 0;
-#         double economy = 0;
-#     };
-# BatterAggregate battingTest, battingODI, battingT20;
-#         BowlerAggregate bowlingTest, bowlingODI, bowlingT20;
     if(methodCheck == "2"):
         col = 20  # label column width
         w = 8     # stat column width
@@ -187,7 +158,76 @@ def main():
         print(f"{'Total LBWs':<{col}} {queryResult.bowlingTest.totalLBWs:>{w}} {queryResult.bowlingODI.totalLBWs:>{w}} {queryResult.bowlingT20.totalLBWs:>{w}}")
         print(f"{'Total Bowled Outs':<{col}} {queryResult.bowlingTest.totalBowledOuts:>{w}} {queryResult.bowlingODI.totalBowledOuts:>{w}} {queryResult.bowlingT20.totalBowledOuts:>{w}}")
         print(f"{'Total Extras Given':<{col}} {queryResult.bowlingTest.extraRuns:>{w}} {queryResult.bowlingODI.extraRuns:>{w}} {queryResult.bowlingT20.extraRuns:>{w}}")
-                
+
+        prompt = prompt = f"""You are a cricket analyst. Summarize the following performance statistics for {playerName} at {groundName} in natural language, like a professional commentator would:
+
+    Test Batting:
+    Matches: {queryResult.battingTest.totalMatchesPlayed}
+    Runs: {queryResult.battingTest.totalRuns} | Balls faced: {queryResult.battingTest.totalBallsFaced}
+    Strike rate: {queryResult.battingTest.totalStrikeRate:.2f} | Average: {queryResult.battingTest.totalAverage:.2f}
+    Boundaries: {queryResult.battingTest.totalFours} Fours, {queryResult.battingTest.totalSixes} Sixes
+    Dismissals: {queryResult.battingTest.totalDismissals} (Caught: {queryResult.battingTest.totalCatchOuts}, LBW: {queryResult.battingTest.totalLBWs}, Bowled: {queryResult.battingTest.totalBowledOuts})
+    
+    Test Bowling:
+    Matches: {queryResult.bowlingTest.totalMatchesPlayed}
+    Overs: {queryResult.bowlingTest.totalOversBowled} | Balls: {queryResult.bowlingTest.totalBallsBowled}
+    Wickets: {queryResult.bowlingTest.totalWickets} | Economy: {queryResult.bowlingTest.economy:.2f}
+    Runs conceded: {queryResult.bowlingTest.totalRunsConceded} | Extras given: {queryResult.bowlingTest.extraRuns}
+    Wicket types: Caught: {queryResult.bowlingTest.totalCatchOuts}, LBW: {queryResult.bowlingTest.totalLBWs}, Bowled: {queryResult.bowlingTest.totalBowledOuts}
+
+    ODI Batting:
+    Matches: {queryResult.battingODI.totalMatchesPlayed}
+    Runs: {queryResult.battingODI.totalRuns} | Balls faced: {queryResult.battingODI.totalBallsFaced}
+    Strike rate: {queryResult.battingODI.totalStrikeRate:.2f} | Average: {queryResult.battingODI.totalAverage:.2f}
+    Boundaries: {queryResult.battingODI.totalFours} Fours, {queryResult.battingODI.totalSixes} Sixes
+    Dismissals: {queryResult.battingODI.totalDismissals} (Caught: {queryResult.battingODI.totalCatchOuts}, LBW: {queryResult.battingODI.totalLBWs}, Bowled: {queryResult.battingODI.totalBowledOuts})
+    
+    ODI Bowling:
+    Matches: {queryResult.bowlingODI.totalMatchesPlayed}
+    Overs: {queryResult.bowlingODI.totalOversBowled} | Balls: {queryResult.bowlingODI.totalBallsBowled}
+    Wickets: {queryResult.bowlingODI.totalWickets} | Economy: {queryResult.bowlingODI.economy:.2f}
+    Runs conceded: {queryResult.bowlingODI.totalRunsConceded} | Extras given: {queryResult.bowlingODI.extraRuns}
+    Wicket types: Caught: {queryResult.bowlingODI.totalCatchOuts}, LBW: {queryResult.bowlingODI.totalLBWs}, Bowled: {queryResult.bowlingODI.totalBowledOuts}
+
+    T20 Batting:
+    Matches: {queryResult.battingT20.totalMatchesPlayed}
+    Runs: {queryResult.battingT20.totalRuns} | Balls faced: {queryResult.battingT20.totalBallsFaced}
+    Strike rate: {queryResult.battingT20.totalStrikeRate:.2f} | Average: {queryResult.battingT20.totalAverage:.2f}
+    Boundaries: {queryResult.battingT20.totalFours} Fours, {queryResult.battingT20.totalSixes} Sixes
+    Dismissals: {queryResult.battingT20.totalDismissals} (Caught: {queryResult.battingT20.totalCatchOuts}, LBW: {queryResult.battingT20.totalLBWs}, Bowled: {queryResult.battingT20.totalBowledOuts})
+    
+    T20 Bowling:
+    Matches: {queryResult.bowlingT20.totalMatchesPlayed}
+    Overs: {queryResult.bowlingT20.totalOversBowled} | Balls: {queryResult.bowlingT20.totalBallsBowled}
+    Wickets: {queryResult.bowlingT20.totalWickets} | Economy: {queryResult.bowlingT20.economy:.2f}
+    Runs conceded: {queryResult.bowlingT20.totalRunsConceded} | Extras given: {queryResult.bowlingT20.extraRuns}
+    Wicket types: Caught: {queryResult.bowlingT20.totalCatchOuts}, LBW: {queryResult.bowlingT20.totalLBWs}, Bowled: {queryResult.bowlingT20.totalBowledOuts}
+
+    A format with 0 matches played means the player has never played at this ground in that format.
+
+    Write plain text for a terminal. No markdown symbols such as ** or #. Use exactly this structure:
+
+    VENUE REPORT: {playerName} at {groundName}
+
+    For each of Test, ODI and T20, in that order:
+    [FORMAT NAME]
+- Ground Affinity: Excellent, Good, Average, or Poor, with a one-line reason citing at least two key numbers across bat/ball.
+- Key numbers: Standout stats from batting, bowling, or both.
+- Batting summary: One bullet summarizing scoring pace, average, and dismissal vulnerabilities here (skip if 0 runs).
+- Bowling summary: One bullet summarizing economy, wicket-taking ability, and dismissal types (skip if 0 overs bowled).
+    If a format has fewer than 2 matches played, write one line saying the sample size is too small to draw firm conclusions and skip the rest of that section. If it has 0 matches, write "No data."
+
+    OVERALL VERDICT
+- Does this player typically thrive or struggle at this venue across formats? (2-3 bullets explaining why based on the data)
+
+    VENUE TIPS
+- Batting adjustments: 1-2 bullets based on how they usually get out or score here.
+- Bowling adjustments: 1-2 bullets based on their economy and most successful wicket types here.
+
+    Keep every bullet to one sentence."""
+        client = genai.Client(api_key=api_key)
+        response = client.models.generate_content(model="gemini-3.8-flash", contents=prompt)    
+        print(response.text)
 if __name__ == "__main__":
             main()   
 
