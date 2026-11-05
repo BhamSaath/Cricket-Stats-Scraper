@@ -1,3 +1,4 @@
+#pragma once
 #include <string>
 #include <iostream>
 #include <vector>
@@ -31,6 +32,6 @@ namespace PVP {
         int totalMatchesPlayed = 0;
 
     };
-    AggregateStats query(std::string namePlayer1, std::string namePlayer2);
+    std::vector <AggregateStats> queryPVP(std::string namePlayer1, std::string namePlayer2);
 
 }

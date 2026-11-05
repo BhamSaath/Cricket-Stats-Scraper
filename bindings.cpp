@@ -1,6 +1,7 @@
 #include <pybind11/pybind11.h>
+#include <pybind11/stl.h>
 #include "PVP.h"
-
+#include "PVG.h"
 PYBIND11_MODULE(statsPVP,m)
 {
 
@@ -36,5 +37,44 @@ PYBIND11_MODULE(statsPVP,m)
         .def_readonly("totalBallsFaced",&PVP::AggregateStats::totalBallsFaced)
         .def_readonly("totalMatchesPlayed",&PVP::AggregateStats::totalMatchesPlayed);
 
-        m.def("query",&PVP::query);
+        m.def("queryPVP",&PVP::queryPVP);
+
+        
+    pybind11::class_<PVG::BatterAggregate>(m,"BatterAggregate")
+        .def_readonly("totalRuns",&PVG::BatterAggregate::totalRuns)
+        .def_readonly("totalBallsFaced",&PVG::BatterAggregate::totalBallsFaced)
+        .def_readonly("totalFours",&PVG::BatterAggregate::totalFours)
+        .def_readonly("totalSixes",&PVG::BatterAggregate::totalSixes)
+        .def_readonly("totalMatchesPlayed",&PVG::BatterAggregate::totalMatchesPlayed)
+        .def_readonly("totalDismissals",&PVG::BatterAggregate::totalDismissals)
+        .def_readonly("totalCatchOuts",&PVG::BatterAggregate::totalCatchOuts)
+        .def_readonly("totalLBWs",&PVG::BatterAggregate::totalLBWs)
+        .def_readonly("totalBowledOuts",&PVG::BatterAggregate::totalBowledOuts)
+        .def_readonly("totalAverage",&PVG::BatterAggregate::totalAverage)
+        .def_readonly("totalStrikeRate",&PVG::BatterAggregate::totalStrikeRate);
+    pybind11::class_<PVG::BowlerAggregate>(m,"BowlerAggregate")
+        .def_readonly("totalRunsConceded", &PVG::BowlerAggregate::totalRunsConceded)
+        .def_readonly("totalBallsBowled", &PVG::BowlerAggregate::totalBallsBowled)
+        .def_readonly("totalOversBowled", &PVG::BowlerAggregate::totalOversBowled)
+        .def_readonly("totalWickets", &PVG::BowlerAggregate::totalWickets)
+        .def_readonly("totalCatchOuts", &PVG::BowlerAggregate::totalCatchOuts)
+        .def_readonly("totalLBWs", &PVG::BowlerAggregate::totalLBWs)
+        .def_readonly("totalBowledOuts", &PVG::BowlerAggregate::totalBowledOuts)
+        .def_readonly("totalMatchesPlayed", &PVG::BowlerAggregate::totalMatchesPlayed)
+        .def_readonly("extraRuns", &PVG::BowlerAggregate::extraRuns)
+        .def_readonly("economy", &PVG::BowlerAggregate::economy);
+
+    pybind11::class_<PVG::PVGResult>(m,"PVGResult")
+        .def_readonly("battingTest", &PVG::PVGResult::battingTest)
+        .def_readonly("battingODI", &PVG::PVGResult::battingODI)
+        .def_readonly("battingT20", &PVG::PVGResult::battingT20)
+        .def_readonly("bowlingTest", &PVG::PVGResult::bowlingTest)
+        .def_readonly("bowlingODI", &PVG::PVGResult::bowlingODI)
+        .def_readonly("bowlingT20", &PVG::PVGResult::bowlingT20);
+
+        m.def("queryPVG",&PVG::queryPVG);
+
+
+
+
 }
