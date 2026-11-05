@@ -32,6 +32,29 @@ namespace PVG
         bool test = false;
         bool odi = false;
         bool t20 = false;
+        //t20s
+        sqlite3_stmt* countStmt;
+        sqlite3_prepare_v2(db,
+            "SELECT COUNT(DISTINCT match_id) FROM deliveries WHERE bowler = ? AND matchVenue = ? AND matchType IN ('T20', 'IT20')",
+            -1, &countStmt, nullptr);
+        sqlite3_bind_text(countStmt, 1, namePlayer1.c_str(), -1, SQLITE_STATIC);
+        sqlite3_bind_text(countStmt, 2, groundName.c_str(), -1, SQLITE_STATIC);
+        sqlite3_step(countStmt);
+        result.bowlingT20.totalMatchesPlayed = sqlite3_column_int(countStmt, 0);
+
+        sqlite3_finalize(countStmt);
+
+        sqlite3_stmt* countStmt2;
+        sqlite3_prepare_v2(db,
+            "SELECT COUNT(DISTINCT match_id) FROM deliveries WHERE batter = ? AND matchVenue = ? AND matchType IN ('T20', 'IT20')",
+            -1, &countStmt2, nullptr);
+        sqlite3_bind_text(countStmt2, 1, namePlayer1.c_str(), -1, SQLITE_STATIC);
+        sqlite3_bind_text(countStmt2, 2, groundName.c_str(), -1, SQLITE_STATIC);
+        sqlite3_step(countStmt2);
+        result.battingT20.totalMatchesPlayed = sqlite3_column_int(countStmt2, 0);
+
+        sqlite3_finalize(countStmt2);
+            
          while (sqlite3_step(stmt) == SQLITE_ROW) 
         {
             const char* batter = (const char*)sqlite3_column_text(stmt, 2);
@@ -47,26 +70,15 @@ namespace PVG
                 if(strcmp(matchType, "ODM") == 0 || strcmp(matchType, "ODI") == 0)
                 {
                     odi = true;
-                    if(strcmp(batter, namePlayer1.c_str()) == 0)
-                        result.battingODI.totalMatchesPlayed++;
-                    else if(strcmp(bowler, namePlayer1.c_str()) == 0)
-                        result.bowlingODI.totalMatchesPlayed++;
                 }
                 if(strcmp(matchType, "IT20") == 0 || strcmp(matchType, "T20") == 0)
                 {
                     t20 = true;
-                    if(strcmp(batter, namePlayer1.c_str()) == 0)
-                        result.battingT20.totalMatchesPlayed++;
-                    else if(strcmp(bowler, namePlayer1.c_str()) == 0)
-                        result.bowlingT20.totalMatchesPlayed++;
+                    
                 }
                 if(strcmp(matchType, "Test") == 0 || strcmp(matchType, "MDM") == 0)
                 {
                     test = true;
-                    if(strcmp(batter, namePlayer1.c_str()) == 0)
-                        result.battingTest.totalMatchesPlayed++;
-                    else if(strcmp(bowler, namePlayer1.c_str()) == 0)
-                        result.bowlingTest.totalMatchesPlayed++;
                 }
 
 

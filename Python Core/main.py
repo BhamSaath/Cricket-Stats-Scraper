@@ -122,7 +122,7 @@ def main():
 
     Keep every bullet to one sentence."""
         client = genai.Client(api_key=api_key)
-        response = client.models.generate_content(model="gemini-3.8-flash", contents=prompt)
+        response = client.models.generate_content(model="gemini-3.1-flash-lite", contents=prompt)
         print(response.text)
     
 
@@ -226,7 +226,7 @@ def main():
 
     Keep every bullet to one sentence."""
         client = genai.Client(api_key=api_key)
-        response = client.models.generate_content(model="gemini-3.8-flash", contents=prompt)    
+        response = client.models.generate_content(model="gemini-3.1-flash-lite", contents=prompt)    
         print(response.text)
 if __name__ == "__main__":
             main()   
