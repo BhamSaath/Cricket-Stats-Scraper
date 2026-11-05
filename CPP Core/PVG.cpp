@@ -32,28 +32,74 @@ namespace PVG
         bool test = false;
         bool odi = false;
         bool t20 = false;
+        
+        //MATCHES COUNT
+        //ODI
+        sqlite3_stmt* countStmtOdiBowl;
+        sqlite3_prepare_v2(db,
+            "SELECT COUNT(DISTINCT match_id) FROM deliveries WHERE bowler = ? AND matchVenue = ? AND matchType IN ('ODI', 'ODM')",
+            -1, &countStmtOdiBowl, nullptr);
+        sqlite3_bind_text(countStmtOdiBowl, 1, namePlayer1.c_str(), -1, SQLITE_STATIC);
+        sqlite3_bind_text(countStmtOdiBowl, 2, groundName.c_str(), -1, SQLITE_STATIC);
+        sqlite3_step(countStmtOdiBowl);
+        result.bowlingODI.totalMatchesPlayed = sqlite3_column_int(countStmtOdiBowl, 0);
+
+        sqlite3_finalize(countStmtOdiBowl);
+
+        sqlite3_stmt* countStmtOdiBat;
+        sqlite3_prepare_v2(db,
+            "SELECT COUNT(DISTINCT match_id) FROM deliveries WHERE batter = ? AND matchVenue = ? AND matchType IN ('ODI', 'ODM')",
+            -1, &countStmtOdiBat, nullptr);
+        sqlite3_bind_text(countStmtOdiBat, 1, namePlayer1.c_str(), -1, SQLITE_STATIC);
+        sqlite3_bind_text(countStmtOdiBat, 2, groundName.c_str(), -1, SQLITE_STATIC);
+        sqlite3_step(countStmtOdiBat);
+        result.battingODI.totalMatchesPlayed = sqlite3_column_int(countStmtOdiBat, 0);
+
+        sqlite3_finalize(countStmtOdiBat);
+        //Tests
+        sqlite3_stmt* countStmtTestBowl;
+        sqlite3_prepare_v2(db,
+            "SELECT COUNT(DISTINCT match_id) FROM deliveries WHERE bowler = ? AND matchVenue = ? AND matchType IN ('MDM', 'Test')",
+            -1, &countStmtTestBowl, nullptr);
+        sqlite3_bind_text(countStmtTestBowl, 1, namePlayer1.c_str(), -1, SQLITE_STATIC);
+        sqlite3_bind_text(countStmtTestBowl, 2, groundName.c_str(), -1, SQLITE_STATIC);
+        sqlite3_step(countStmtTestBowl);
+        result.bowlingTest.totalMatchesPlayed = sqlite3_column_int(countStmtTestBowl, 0);
+
+        sqlite3_finalize(countStmtTestBowl);
+
+        sqlite3_stmt* countStmtTestBat;
+        sqlite3_prepare_v2(db,
+            "SELECT COUNT(DISTINCT match_id) FROM deliveries WHERE batter = ? AND matchVenue = ? AND matchType IN ('MDM', 'Test')",
+            -1, &countStmtTestBat, nullptr);
+        sqlite3_bind_text(countStmtTestBat, 1, namePlayer1.c_str(), -1, SQLITE_STATIC);
+        sqlite3_bind_text(countStmtTestBat, 2, groundName.c_str(), -1, SQLITE_STATIC);
+        sqlite3_step(countStmtTestBat);
+        result.battingTest.totalMatchesPlayed = sqlite3_column_int(countStmtTestBat, 0);
+
+        sqlite3_finalize(countStmtTestBat);
         //t20s
-        sqlite3_stmt* countStmt;
+        sqlite3_stmt* countStmtT20Bowl;
         sqlite3_prepare_v2(db,
             "SELECT COUNT(DISTINCT match_id) FROM deliveries WHERE bowler = ? AND matchVenue = ? AND matchType IN ('T20', 'IT20')",
-            -1, &countStmt, nullptr);
-        sqlite3_bind_text(countStmt, 1, namePlayer1.c_str(), -1, SQLITE_STATIC);
-        sqlite3_bind_text(countStmt, 2, groundName.c_str(), -1, SQLITE_STATIC);
-        sqlite3_step(countStmt);
-        result.bowlingT20.totalMatchesPlayed = sqlite3_column_int(countStmt, 0);
+            -1, &countStmtT20Bowl, nullptr);
+        sqlite3_bind_text(countStmtT20Bowl, 1, namePlayer1.c_str(), -1, SQLITE_STATIC);
+        sqlite3_bind_text(countStmtT20Bowl, 2, groundName.c_str(), -1, SQLITE_STATIC);
+        sqlite3_step(countStmtT20Bowl);
+        result.bowlingT20.totalMatchesPlayed = sqlite3_column_int(countStmtT20Bowl, 0);
 
-        sqlite3_finalize(countStmt);
+        sqlite3_finalize(countStmtT20Bowl);
 
-        sqlite3_stmt* countStmt2;
+        sqlite3_stmt* countStmtT20Bat;
         sqlite3_prepare_v2(db,
             "SELECT COUNT(DISTINCT match_id) FROM deliveries WHERE batter = ? AND matchVenue = ? AND matchType IN ('T20', 'IT20')",
-            -1, &countStmt2, nullptr);
-        sqlite3_bind_text(countStmt2, 1, namePlayer1.c_str(), -1, SQLITE_STATIC);
-        sqlite3_bind_text(countStmt2, 2, groundName.c_str(), -1, SQLITE_STATIC);
-        sqlite3_step(countStmt2);
-        result.battingT20.totalMatchesPlayed = sqlite3_column_int(countStmt2, 0);
+            -1, &countStmtT20Bat, nullptr);
+        sqlite3_bind_text(countStmtT20Bat, 1, namePlayer1.c_str(), -1, SQLITE_STATIC);
+        sqlite3_bind_text(countStmtT20Bat, 2, groundName.c_str(), -1, SQLITE_STATIC);
+        sqlite3_step(countStmtT20Bat);
+        result.battingT20.totalMatchesPlayed = sqlite3_column_int(countStmtT20Bat, 0);
 
-        sqlite3_finalize(countStmt2);
+        sqlite3_finalize(countStmtT20Bat);
             
          while (sqlite3_step(stmt) == SQLITE_ROW) 
         {
