@@ -1,5 +1,6 @@
 import string
 import sys
+import sqlite3
 import csv
 sys.path.append('/Users/saathwikbhamidipaty/Cricket-Stats-Scraper')
 #print("importing statsPVP")
@@ -73,8 +74,12 @@ def main():
     Rule: Extract the exact hex IDs from the Database Matches.
     
     3. Open Question (OQ) - The user is asking a general cricket question, rule clarification, or fact that DOES NOT require pulling match stats from the database.
-    Format: OQ | [Your short, direct natural language answer]
-    Rule: Provide the answer immediately after the prefix. Keep it under 4 sentences and a minimum of 2 sentences.
+    Format: OQ | [Your natural language answer]
+    Rule: Provide the answer immediately after the prefix. Use exactly this structure:
+
+    OVERVIEW: One sentence summarizing the answer. Needs newline twice
+    DETAIL: 2-3 sentences expanding on the key facts or context. Needs newline twice
+    VERDICT: One sentence conclusion or takeaway.Needs newline twice
     
     User Query: "{prompt}"
     Database Names: {", ".join(namesFound)}
@@ -188,7 +193,14 @@ def main():
     elif("PVG" in modeResponse[0]):
          playerID = modeResponse[1].strip()
          venueID = modeResponse[2].strip()
-        
+         playerName = ""
+         with open("fuzzy_search/names.csv", mode="r", newline="", encoding="utf-8") as f:
+                
+                    reader = csv.reader(f)
+                    for row in reader:
+                        if row and row[0] == playerID:
+                            playerName = row[1]
+                        
         # look up venue name from register
          venueName = ""
          with open("fuzzy_search/venue_names.csv", mode="r", newline="", encoding="utf-8") as f:
@@ -200,9 +212,10 @@ def main():
         
          if not venueName:
             print("Venue not found")
-            
 
-         pvgResult = statsPVP.queryPVG(playerID, f"%{venueName}%")
+         venueKey = findVenueKey(prompt,venueName)
+
+         pvgResult = statsPVP.queryPVG(playerID, f"%{venueKey}%")
          print("\n" + "="*85)
          print(f"{'CRICKET GROUND STATISTICS: PLAYER AT VENUE':^85}")
          print("="*85)
@@ -229,7 +242,7 @@ def main():
 
          Write plain text for a terminal. No markdown symbols such as ** or #. Use exactly this structure:
 
-         GROUND REPORT: {playerID} at {venueName}
+         GROUND REPORT: {playerName} at {venueName}
 
          BATTING
          - Test: {pvgResult.battingTest.totalRuns} runs, {pvgResult.battingTest.totalBallsFaced} balls, SR {pvgResult.battingTest.totalStrikeRate:.2f}, Avg {pvgResult.battingTest.totalAverage:.2f}, {pvgResult.battingTest.totalFours} fours, {pvgResult.battingTest.totalSixes} sixes, {pvgResult.battingTest.totalDismissals} dismissals across {pvgResult.battingTest.totalMatchesPlayed} matches
@@ -251,7 +264,15 @@ def main():
          pvgResponse = client.models.generate_content(model="gemini-3.1-flash-lite", contents=pvg_prompt)
          print(pvgResponse.text)
     elif "OQ" in modeResponse[0]:
-        print(f"\nAI Answer: {modeResponse[1].strip()}")
-         
+        print(f"\n{modeResponse[1].strip()}")
+def findVenueKey(prompt, venueName):
+    promptWords = set(prompt.lower().split())
+    venueWords = set(venueName.lower().replace(",", "").split())
+    overlap = promptWords & venueWords
+    if overlap:
+        return max(overlap, key=len)
+    
+    return max(venueName.split(",")[0].split(), key=len)
+     
 if __name__ == "__main__":
            main()  
