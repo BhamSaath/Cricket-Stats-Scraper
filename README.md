@@ -129,7 +129,20 @@ Names use initials and last name: `RG Sharma`, `V Kohli`, `JJ Bumrah`. Venues us
 
 ---
 
+## Sample Output
+
+Kohli in Adelaide:
+<img width="1203" height="508" alt="Screenshot 2026-11-06 at 5 51 34 AM" src="https://github.com/user-attachments/assets/8b08564c-7f16-4fe5-aefe-ea2f40c1ab00" />
+
+
+Sachin vs Kohli:
+<img width="1086" height="174" alt="Screenshot 2026-11-06 at 6 04 12 AM" src="https://github.com/user-attachments/assets/bc0cfc73-e6de-40ea-9ab3-09cb7adc2118" />
+
+
+Virat Kohli vs Trent Boult:
+<img width="1104" height="687" alt="Screenshot 2026-11-05 at 8 56 36 PM" src="https://github.com/user-attachments/assets/3ae80ede-c169-4646-a5ec-f6e5795475a4" />
 ## What's built, what's coming
+---
 
 | Feature | Status |
 |---|---|
@@ -143,18 +156,6 @@ Names use initials and last name: `RG Sharma`, `V Kohli`, `JJ Bumrah`. Venues us
 | Free-text intent routing | ✅ Done |
 | General cricket questions | ✅ Done |
 | Phase-based stats (Powerplay, middle, death overs) | 🔜 Coming |
-
----
-## Sample Output
-
-Hardik Pandya at Wankhede:
-<img width="1312" height="495" alt="Screenshot 2026-11-05 at 9 04 28 PM" src="https://github.com/user-attachments/assets/3c1873a0-fb91-4430-bb35-04c72bb7b724" />
-
-Sachin Tendulkar's 200:
-<img width="1340" height="59" alt="Screenshot 2026-11-05 at 8 59 53 PM" src="https://github.com/user-attachments/assets/3b5524ad-0139-4508-925a-249a5e8d7829" />
-
-Virat Kohli vs Trent Boult:
-<img width="1104" height="687" alt="Screenshot 2026-11-05 at 8 56 36 PM" src="https://github.com/user-attachments/assets/3ae80ede-c169-4646-a5ec-f6e5795475a4" />
 
 ---
 ## What's next
