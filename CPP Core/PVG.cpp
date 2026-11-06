@@ -152,7 +152,7 @@ namespace PVG
                         result.battingODI.totalSixes++;
                     if(wicketKind != NULL)
                     {
-                        result.battingODI.totalDismissals++;
+                        
                         if(strcmp(wicketKind, "bowled")==0)
                             result.battingODI.totalBowledOuts++;
                         else if(strcmp(wicketKind, "lbw")==0)
@@ -172,7 +172,6 @@ namespace PVG
                         result.battingT20.totalSixes++;
                     if(wicketKind != NULL)
                     {
-                        result.battingT20.totalDismissals++;
                         if(strcmp(wicketKind, "bowled")==0)
                             result.battingT20.totalBowledOuts++;
                         else if(strcmp(wicketKind, "lbw")==0)
@@ -191,7 +190,6 @@ namespace PVG
                         result.battingTest.totalSixes++;
                     if(wicketKind != NULL)
                     {
-                        result.battingTest.totalDismissals++;
                         if(strcmp(wicketKind, "bowled")==0)
                             result.battingTest.totalBowledOuts++;
                         else if(strcmp(wicketKind, "lbw")==0)
@@ -288,7 +286,10 @@ namespace PVG
         result.bowlingODI.totalOversBowled += result.bowlingODI.totalBallsBowled/6;
         result.bowlingT20.totalOversBowled += result.bowlingT20.totalBallsBowled/6;
         result.bowlingTest.totalOversBowled += result.bowlingTest.totalBallsBowled/6;
-
+        //Total Dismissals: 
+        result.battingODI.totalDismissals = result.battingODI.totalBowledOuts+result.battingODI.totalCatchOuts+result.battingODI.totalLBWs;
+        result.battingT20.totalDismissals = result.battingT20.totalBowledOuts+result.battingT20.totalCatchOuts+result.battingT20.totalLBWs;
+        result.battingTest.totalDismissals = result.battingTest.totalBowledOuts+result.battingTest.totalCatchOuts+result.battingTest.totalLBWs;
         //economy
         if(result.bowlingODI.totalOversBowled !=0)
             result.bowlingODI.economy = ((double)result.bowlingODI.totalRunsConceded+(double)result.bowlingODI.extraRuns)/(double)result.bowlingODI.totalOversBowled;
