@@ -132,8 +132,7 @@ Names use initials and last name: `RG Sharma`, `V Kohli`, `JJ Bumrah`. Venues us
 ## Sample Output
 
 Kohli in Adelaide:
-<img width="1218" height="551" alt="Screenshot 2026-11-06 at 9 50 18 AM" src="https://github.com/user-attachments/assets/cfa7a4bf-370b-49f6-9ef4-82d7011a40c6" />
-
+<img width="1112" height="540" alt="Screenshot 2026-11-06 at 10 14 09 AM" src="https://github.com/user-attachments/assets/97ab55c0-5438-4cd4-b65f-8ae7b179b729" />
 
 
 Sachin vs Kohli:
