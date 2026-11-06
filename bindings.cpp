@@ -34,6 +34,8 @@ PYBIND11_MODULE(statsPVP,m)
         .def_readonly("totalAverage",&PVP::AggregateStats::totalAverage)
         .def_readonly("totalStrikeRate",&PVP::AggregateStats::totalStrikeRate)
         .def_readonly("totalRuns",&PVP::AggregateStats::totalRuns)
+        .def_readonly("economy", &PVP::AggregateStats::economy)
+        .def_readonly("extraRuns", &PVP::AggregateStats::extraRuns)
         .def_readonly("totalBallsFaced",&PVP::AggregateStats::totalBallsFaced)
         .def_readonly("totalMatchesPlayed",&PVP::AggregateStats::totalMatchesPlayed);
 

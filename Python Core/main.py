@@ -104,18 +104,28 @@ def main():
                     bowlerName = row[1]
 
         pvpResult = statsPVP.queryPVP(batterID,bowlerID)
-        print("\n" + "="*80)
-        print(f"{'CRICKET MATCHUP STATISTICS: BATTER vs BOWLER':^80}")
-        print("="*80)
-        print(f"{'Format':<10} | {'Matches':<8} | {'Runs':<6} | {'Balls':<6} | {'SR':<8} | {'Avg':<8} | {'4s':<4} | {'6s':<4} | {'Wickets':<8}")
-        print("-" * 80)
+        print("\n" + "="*110)
+        print(f"{'CRICKET MATCHUP STATISTICS: BATTER vs BOWLER':^110}")
+        print("="*110)
+        print(f"{'--- BATTING PERFORMANCE ---':^110}")
+        print(f"{'Format':<8} | {'Matches':<8} | {'Runs':<6} | {'Balls':<6} | {'SR':<8} | {'Avg':<8} | {'4s':<4} | {'6s':<4} | {'Wkts':<6} | {'Bowled':<6} | {'LBW':<4} | {'Caught':<6}")
+        print("-" * 110)
 
         formats = ["Test", "ODI", "T20"]
         for i, stats in enumerate(pvpResult):
             fmt_name = formats[i]
-            print(f"{fmt_name:<10} | {stats.totalMatchesPlayed:<8} | {stats.totalRuns:<6} | {stats.totalBallsFaced:<6} | {stats.totalStrikeRate:<8.2f} | {stats.totalAverage:<8.2f} | {stats.totalFours:<4} | {stats.totalSixes:<4} | {stats.totalWickets:<8}")
+            print(f"{fmt_name:<8} | {stats.totalMatchesPlayed:<8} | {stats.totalRuns:<6} | {stats.totalBallsFaced:<6} | {stats.totalStrikeRate:<8.2f} | {stats.totalAverage:<8.2f} | {stats.totalFours:<4} | {stats.totalSixes:<4} | {stats.totalWickets:<6} | {stats.totalBowledOuts:<6} | {stats.totalLBWs:<4} | {stats.totalCatchOuts:<6}")
 
-        print("="*80)
+        print("-" * 110)
+        print(f"{'--- BOWLING PERFORMANCE ---':^110}")
+        print(f"{'Format':<8} | {'Matches':<8} | {'Overs':<6} | {'Runs':<6} | {'Wkts':<6} | {'Econ':<8} | {'Extras':<6} | {'Bowled':<6} | {'LBW':<4} | {'Caught':<6}")
+        print("-" * 110)
+
+        for i, stats in enumerate(pvpResult):
+            fmt_name = formats[i]
+            print(f"{fmt_name:<8} | {stats.totalMatchesPlayed:<8} | {stats.totalOversBowled:<6} | {stats.totalRuns:<6} | {stats.totalWickets:<6} | {stats.economy:<8.2f} | {stats.extraRuns:<6} | {stats.totalBowledOuts:<6} | {stats.totalLBWs:<4} | {stats.totalCatchOuts:<6}")
+
+        print("="*110)
         prompt = f"""You are a cricket analyst. Summarize the following head-to-head stats between batter {batterName} and bowler {bowlerName} in natural language, like a professional commentator would:
 
 
@@ -217,27 +227,28 @@ def main():
 
          pvgResult = statsPVP.queryPVG(playerID, f"%{venueKey}%")
          print("\n" + "="*85)
-         print(f"{'CRICKET GROUND STATISTICS: PLAYER AT VENUE':^85}")
-         print("="*85)
-         print(f"{'--- BATTING PERFORMANCE ---':^85}")
-         print(f"{'Format':<10} | {'Matches':<8} | {'Runs':<6} | {'Balls':<6} | {'SR':<8} | {'Avg':<8} | {'4s':<4} | {'6s':<4}")
-         print("-" * 85)
+         print("\n" + "="*95)
+         print(f"{'CRICKET GROUND STATISTICS: PLAYER AT VENUE':^95}")
+         print("="*95)
+         print(f"{'--- BATTING PERFORMANCE ---':^95}")
+         print(f"{'Format':<8} | {'Matches':<8} | {'Runs':<6} | {'Balls':<6} | {'SR':<8} | {'Avg':<8} | {'4s':<4} | {'6s':<4} | {'Dism':<6} | {'Bowled':<6} | {'LBW':<4} | {'Caught':<6}")
+         print("-" * 95)
 
          batting_stats = [pvgResult.battingTest, pvgResult.battingODI, pvgResult.battingT20]
          formats = ["Test", "ODI", "T20"]
          for i, stats in enumerate(batting_stats):
-            print(f"{formats[i]:<10} | {stats.totalMatchesPlayed:<8} | {stats.totalRuns:<6} | {stats.totalBallsFaced:<6} | {stats.totalStrikeRate:<8.2f} | {stats.totalAverage:<8.2f} | {stats.totalFours:<4} | {stats.totalSixes:<4}")
+            print(f"{formats[i]:<8} | {stats.totalMatchesPlayed:<8} | {stats.totalRuns:<6} | {stats.totalBallsFaced:<6} | {stats.totalStrikeRate:<8.2f} | {stats.totalAverage:<8.2f} | {stats.totalFours:<4} | {stats.totalSixes:<4} | {stats.totalDismissals:<6} | {stats.totalBowledOuts:<6} | {stats.totalLBWs:<4} | {stats.totalCatchOuts:<6}")
 
-         print("-" * 85)
-         print(f"{'--- BOWLING PERFORMANCE ---':^85}")
-         print(f"{'Format':<10} | {'Matches':<8} | {'Overs':<6} | {'Runs':<6} | {'Wkts':<6} | {'Econ':<8}")
-         print("-" * 85)
+         print("-" * 95)
+         print(f"{'--- BOWLING PERFORMANCE ---':^95}")
+         print(f"{'Format':<8} | {'Matches':<8} | {'Overs':<6} | {'Runs':<6} | {'Wkts':<6} | {'Econ':<8} | {'Extras':<6} | {'Bowled':<6} | {'LBW':<4} | {'Caught':<6}")
+         print("-" * 95)
 
          bowling_stats = [pvgResult.bowlingTest, pvgResult.bowlingODI, pvgResult.bowlingT20]
          for i, stats in enumerate(bowling_stats):
-             print(f"{formats[i]:<10} | {stats.totalMatchesPlayed:<8} | {stats.totalOversBowled:<6} | {stats.totalRunsConceded:<6} | {stats.totalWickets:<6} | {stats.economy:<8.2f}")
+            print(f"{formats[i]:<8} | {stats.totalMatchesPlayed:<8} | {stats.totalOversBowled:<6} | {stats.totalRunsConceded:<6} | {stats.totalWickets:<6} | {stats.economy:<8.2f} | {stats.extraRuns:<6} | {stats.totalBowledOuts:<6} | {stats.totalLBWs:<4} | {stats.totalCatchOuts:<6}")
 
-         print("="*85)
+         print("="*95)
          pvg_prompt = f"""You are a cricket analyst. Summarize the following stats for {playerID} at {venueName} in natural language, like a professional commentator would.
 
          Write plain text for a terminal. No markdown symbols such as ** or #. Use exactly this structure:

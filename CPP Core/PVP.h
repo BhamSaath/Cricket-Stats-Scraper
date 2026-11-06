@@ -11,7 +11,7 @@ namespace PVP {
     struct AggregateStats {
         //Bowler Stats
         
-        int economy = 0;
+        double economy = 0;
         int extraRuns = 0;  
         int totalWickets = 0;
         int totalOversBowled = 0;
