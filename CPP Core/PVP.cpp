@@ -14,7 +14,7 @@
 
 namespace PVP {
     
-    std::vector <AggregateStats> queryPVP(std::string namePlayer1, std::string namePlayer2)
+    std::vector <AggregateStats> queryPVP(std::string player1ID, std::string player2ID)
     {
         
         AggregateStats player1v2StatsTest;
@@ -23,13 +23,49 @@ namespace PVP {
         sqlite3* db;
         sqlite3_open("allCricketMatches.db", &db);
         sqlite3_stmt* stmt;
-        sqlite3_prepare_v2(db, "SELECT match_id, matchYear, matchType, matchVenue,runs_batter, extras, wicket_kind FROM deliveries WHERE batter = ? AND bowler = ?", -1, &stmt, nullptr);
-        sqlite3_bind_text(stmt, 1, namePlayer1.c_str(), -1, SQLITE_STATIC);
-        sqlite3_bind_text(stmt, 2, namePlayer2.c_str(), -1, SQLITE_STATIC);
+        sqlite3_prepare_v2(db, "SELECT match_id, matchYear, matchType, matchVenue,runs_batter, extras, wicket_kind FROM deliveries WHERE batter_ID = ? AND bowler_ID = ?", -1, &stmt, nullptr);
+        sqlite3_bind_text(stmt, 1, player1ID.c_str(), -1, SQLITE_STATIC);
+        sqlite3_bind_text(stmt, 2, player2ID.c_str(), -1, SQLITE_STATIC);
         std::string lastMatchId = "";
         bool test = false;
         bool odi = false;
         bool t20 = false;
+        //t20
+        sqlite3_stmt* countStmtT20;
+        sqlite3_prepare_v2(db,
+            "SELECT COUNT(DISTINCT match_id) FROM deliveries WHERE batter_ID = ? AND bowler_ID = ? AND matchType IN ('T20', 'IT20')",
+            -1, &countStmtT20, nullptr);
+        sqlite3_bind_text(countStmtT20, 1, player1ID.c_str(), -1, SQLITE_STATIC);
+        sqlite3_bind_text(countStmtT20, 2, player2ID.c_str(), -1, SQLITE_STATIC);
+        sqlite3_step(countStmtT20);
+        player1v2StatsT20.totalMatchesPlayed = sqlite3_column_int(countStmtT20, 0);
+
+        sqlite3_finalize(countStmtT20);
+
+        //ODI
+        sqlite3_stmt* countStmtODI;
+        sqlite3_prepare_v2(db,
+            "SELECT COUNT(DISTINCT match_id) FROM deliveries WHERE batter_ID = ? AND bowler_ID = ? AND matchType IN ('ODI', 'ODM')",
+            -1, &countStmtODI, nullptr);
+        sqlite3_bind_text(countStmtODI, 1, player1ID.c_str(), -1, SQLITE_STATIC);
+        sqlite3_bind_text(countStmtODI, 2, player2ID.c_str(), -1, SQLITE_STATIC);
+        sqlite3_step(countStmtODI);
+        player1v2StatsODI.totalMatchesPlayed = sqlite3_column_int(countStmtODI, 0);
+
+        sqlite3_finalize(countStmtODI);
+
+        //Test 
+        sqlite3_stmt* countStmtTest;
+        sqlite3_prepare_v2(db,
+            "SELECT COUNT(DISTINCT match_id) FROM deliveries WHERE batter_ID = ? AND bowler_ID = ? AND matchType IN ('Test', 'MDM')",
+            -1, &countStmtTest, nullptr);
+        sqlite3_bind_text(countStmtTest, 1, player1ID.c_str(), -1, SQLITE_STATIC);
+        sqlite3_bind_text(countStmtTest, 2, player2ID.c_str(), -1, SQLITE_STATIC);
+        sqlite3_step(countStmtTest);
+        player1v2StatsTest.totalMatchesPlayed = sqlite3_column_int(countStmtTest, 0);
+
+        sqlite3_finalize(countStmtTest);
+
         while (sqlite3_step(stmt) == SQLITE_ROW) 
         {
             
@@ -43,17 +79,15 @@ namespace PVP {
                 const char* matchType = (const char*)sqlite3_column_text(stmt,2);
                 if(strcmp(matchType, "ODM") == 0 || strcmp(matchType, "ODI") == 0)
                 {
-                    player1v2StatsODI.totalMatchesPlayed++;
                     odi = true;
+
                 }
                 if(strcmp(matchType, "IT20") == 0 || strcmp(matchType, "T20") == 0)
                 {
-                    player1v2StatsT20.totalMatchesPlayed++;
                     t20 = true;
                 }
                 if(strcmp(matchType, "Test") == 0 || strcmp(matchType, "MDM") == 0)
                 {
-                    player1v2StatsTest.totalMatchesPlayed++;
                     test = true;
                 }
                 lastMatchId = currentMatchId;
@@ -143,12 +177,12 @@ namespace PVP {
         if(player1v2StatsODI.totalBallsFaced != 0)
             player1v2StatsODI.economy = (((double)player1v2StatsODI.totalRuns)+(double)player1v2StatsODI.extraRuns)/((double)player1v2StatsODI.totalBallsFaced/6.0);
         //Average
-        if(player1v2StatsODI.totalMatchesPlayed != 0)
-            player1v2StatsODI.totalAverage = (double)player1v2StatsODI.totalRuns/(double)player1v2StatsODI.totalMatchesPlayed;
-        if(player1v2StatsTest.totalMatchesPlayed != 0)
-            player1v2StatsTest.totalAverage = (double)player1v2StatsTest.totalRuns/(double)player1v2StatsTest.totalMatchesPlayed;
-        if(player1v2StatsT20.totalMatchesPlayed != 0)
-            player1v2StatsT20.totalAverage = (double)player1v2StatsT20.totalRuns/(double)player1v2StatsT20.totalMatchesPlayed;
+        if(player1v2StatsODI.totalWickets != 0)
+            player1v2StatsODI.totalAverage = (double)player1v2StatsODI.totalRuns/(double)player1v2StatsODI.totalWickets;
+        if(player1v2StatsTest.totalWickets != 0)
+            player1v2StatsTest.totalAverage = (double)player1v2StatsTest.totalRuns/(double)player1v2StatsTest.totalWickets;
+        if(player1v2StatsT20.totalWickets != 0)
+            player1v2StatsT20.totalAverage = (double)player1v2StatsT20.totalRuns/(double)player1v2StatsT20.totalWickets;
         
         
 
