@@ -1,81 +1,89 @@
 # Cricket Analytics & AI Matchup Engine
 
-Ever wanted to know exactly how Virat Kohli performs against Jasprit Bumrah across every format they've ever played? This project answers that — from real match data, not Wikipedia.
+Most cricket stats tools give you a career average and call it a day. This one answers the questions that actually matter. How does Kohli perform specifically against Bumrah? What does Rohit Sharma's record look like at Wankhede across all three formats?
 
-It pulls from 23,000+ ball-by-ball match records, crunches the numbers in C++, and hands the stats to Gemini to write you a clean summary. No guessing, no hallucinated averages.
-
----
-
-## What it does
-
-Two things right now:
-
-**Player vs. Player** — Pick a batter and a bowler. Get their full head-to-head record broken down by Test, ODI, and T20. Runs, strike rate, dismissal types, the works.
-
-**Player vs. Ground** — Pick any player and any venue. See how they bat and bowl there across every format they've played at that ground.
-
-The AI only summarizes numbers that came out of the database. It doesn't fill in gaps from its training data.
+Real answers. From 23,000+ real matches. No Wikipedia, no estimates.
 
 ---
 
-## How it's built
+## What it actually does
 
-The core engineering challenge here was performance. Naively parsing 23,000 raw JSON files on every query took 2–3 minutes — completely unusable for an interactive tool. The solution was a two-part architecture: a one-time ingestion pipeline that indexes all ball-by-ball delivery data into a structured SQLite database, and a C++ aggregation layer that runs the actual stat computation against that database at query time.
+Two query modes, both fully working:
 
-The C++ layer handles the heavy lifting — iterating over deliveries, tracking match state across innings, and computing aggregates like strike rate, economy, and dismissal breakdown per format. It exposes compiled functions to Python via a pybind11 shared library (`statsPVP.so`), which keeps the Python layer clean and focused purely on orchestration. Python handles user input, invokes the right C++ function, and passes the resulting stat struct directly into a Gemini prompt. The LLM never touches raw data — it only sees the final aggregated numbers, which keeps the summaries grounded and fast.
+**Player vs. Player** — Type a batter and a bowler. Get their complete head-to-head record split by Test, ODI, and T20. Runs, balls, strike rate, average, fours, sixes, dismissal types, all of it.
+
+**Player vs. Ground** — Type any player and any venue. Get their batting and bowling record at that ground, across every format they've played there.
+
+The AI summary at the end only talks about numbers that came out of the database. It has no idea what Kohli's reputation is. It just sees the stats and writes about those.
+
+---
+
+## The problem it solves (and why it was hard)
+
+The raw data is 23,000+ individual JSON files, one per match, ball-by-ball. The obvious approach is to loop through all of them on every query and parse what you need.
+
+That takes 2 to 3 minutes per query. That's not a tool, that's a waiting room.
+
+The fix was building a proper pipeline. Everything gets indexed into SQLite once. Then a C++ aggregation layer runs the actual stat computation against that database. The whole query across 23,000 matches now takes milliseconds.
+
+The C++ piece is what makes this interesting from an engineering standpoint. It's not just glue code. It tracks match state across innings, handles format detection, computes dismissal breakdowns per format, and returns clean aggregate structs. Those structs get handed to Python via a pybind11 shared library, which passes the numbers straight into a Gemini prompt.
+
+The LLM never touches raw data. It sees computed stats and nothing else.
+
+---
+
+## Architecture
 
 ```
-  User Input (player name / venue)
+  You type a name or venue
             │
             ▼
   ┌─────────────────────────┐
   │   Python Orchestration  │
-  │   Routes query mode     │
-  │   (PVP or PVG)          │
+  │   Parses input          │
+  │   Routes to PVP or PVG  │
   └────────────┬────────────┘
-               │  pybind11 call
+               │  pybind11 (.so bridge)
                ▼
   ┌─────────────────────────┐
   │   C++ Aggregation Layer │
   │   PVP.cpp / PVG.cpp     │
-  │   Queries SQLite        │
-  │   Computes per-format   │
-  │   stats per delivery    │
+  │   Per-delivery loop     │
+  │   Format detection      │
+  │   Stat computation      │
   └────────────┬────────────┘
-               │  returns AggregateStats struct
+               │  AggregateStats struct
                ▼
   ┌─────────────────────────┐
   │   SQLite Database       │
   │   23,000+ matches       │
-  │   indexed by player,    │
-  │   venue, match type     │
+  │   Indexed by player,    │
+  │   venue, format         │
   └────────────┬────────────┘
                │
                ▼
   ┌─────────────────────────┐
   │   Gemini API            │
-  │   Stats injected into   │
-  │   structured prompt     │
-  │   Natural language out  │
+  │   Structured prompt     │
+  │   Stats in, words out   │
   └────────────┬────────────┘
                │
                ▼
-     Terminal output + summary
+     Clean terminal output
 ```
 
 ---
 
 ## Tech stack
 
-| Layer | What's doing the work |
+| Layer | What's running it |
 |---|---|
-| Raw data | Cricsheet — 23,000+ JSON match records |
+| Raw data | Cricsheet, 23,000+ ball-by-ball JSON records |
 | Database | SQLite |
 | Stat engine | C++ (PVP.cpp, PVG.cpp) |
-| Python/C++ bridge | pybind11 |
+| C++/Python bridge | pybind11, statsPVP.so |
 | Orchestration | Python |
 | AI summary | Gemini API |
-| Shared library | statsPVP.so |
 
 ---
 
@@ -86,19 +94,24 @@ git clone https://github.com/BhamSaath/Cricket-Stats-Scraper
 cd Cricket-Stats-Scraper
 pip install -r requirements.txt
 
-# Build the database — do this once, takes about 2 minutes
+# One-time database build, takes about 2 minutes
 python3 "Python Core/build_db.py"
 
 # Compile the C++ layer
-c++ -O3 -Wall -shared -std=c++17 -fPIC $(python3 -m pybind11 --includes) -I"CPP Core" -I"include" bindings.cpp "CPP Core/PVP.cpp" "CPP Core/PVG.cpp" -o statsPVP.so -lsqlite3 -undefined dynamic_lookup
+c++ -O3 -Wall -shared -std=c++17 -fPIC $(python3 -m pybind11 --includes) \
+  -I"CPP Core" -I"include" \
+  bindings.cpp "CPP Core/PVP.cpp" "CPP Core/PVG.cpp" \
+  -o statsPVP.so -lsqlite3 -undefined dynamic_lookup
 
-# Run it
+# Run
 python3 "Python Core/main.py"
 ```
 
+> macOS only: `-undefined dynamic_lookup` is a macOS linker flag. Remove it on Linux.
+
 ---
 
-## Trying it out
+## Trying it
 
 ```
 Enter 1 for Player v Player or Enter 2 for Player at Ground: 1
@@ -108,33 +121,35 @@ Bowler: JJ Bumrah
 
 ```
 Enter 1 for Player v Player or Enter 2 for Player at Ground: 2
-Player: V Kohli
+Player: JJ Bumrah
 Ground: Wankhede Stadium, Mumbai
 ```
 
-Names go in as initials + last name: `RG Sharma`, `V Kohli`, `JJ Bumrah`.
+Names use initials and last name: `RG Sharma`, `V Kohli`, `JJ Bumrah`. Venues use the full name as stored in Cricsheet: `Wankhede Stadium, Mumbai`.
 
 ---
 
-## What's done, what's next
+## What's built, what's coming
 
 | Feature | Status |
 |---|---|
-| JSON → SQLite pipeline | Done |
-| C++ aggregation engine | Done |
-| pybind11 bridge | Done |
-| Player vs. Player | Done |
-| Player vs. Ground | Done |
-| Gemini summaries | Done |
-| Phase-based stats (Powerplay / middle / death overs) | Coming |
-| Free-text query routing | Coming |
+| JSON to SQLite ingestion pipeline | ✅ Done |
+| C++ aggregation engine | ✅ Done |
+| pybind11 shared library bridge | ✅ Done |
+| Player vs. Player (all 3 formats) | ✅ Done |
+| Player vs. Ground (all 3 formats) | ✅ Done |
+| Gemini AI summaries | ✅ Done |
+| Fuzzy name matching | ✅ Done |
+| Free-text intent routing | ✅ Done |
+| General cricket questions | ✅ Done |
+| Phase-based stats (Powerplay, middle, death overs) | 🔜 Coming |
 
 ---
 
-## What's coming
+## What's next
 
-Right now you pick a mode from a menu. The next version lets you just type what you want:
+Right now you pick a mode from a menu. The plan is to cut that entirely and just let you type what you want:
 
-> "How does Rohit Sharma bat in death overs at Wankhede?"
+> "How does Rohit Sharma bat in the death overs at Wankhede?"
 
-An intent layer classifies the question, figures out which pipeline to run, builds the query, and passes it to C++. Gemini answers from whatever comes back. No vector search — just structured retrieval against real records.
+An intent layer classifies the question, figures out which pipeline to run, builds the query struct, and fires it to C++. Gemini answers from whatever comes back. No vector search, no embeddings, just structured retrieval against real records.
