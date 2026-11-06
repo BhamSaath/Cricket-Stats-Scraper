@@ -159,10 +159,10 @@ Virat Kohli vs Trent Boult:
 ---
 ## What's next
 
-Right now you pick a mode from a menu. The plan is to cut that entirely and just let you type what you want:
+Free-text input, fuzzy name matching, and general cricket Q&A are all live. You can type "Bumrah at Wankhede" or "Dhoni vs Chakravarthy" and get a real answer in seconds with an AI summary.
 
-> "How does Rohit Sharma bat in the death overs at Wankhede?"
+The one thing still missing is the when. Right now every query returns career numbers at a venue or in a matchup. What it can't tell you yet is how a batter performs in the Powerplay versus the death overs, or how a bowler's economy shifts in the last four overs. Those are the questions that actually matter in T20 cricket and nobody can answer them from memory.
 
-An intent layer classifies the question, figures out which pipeline to run, builds the query struct, and fires it to C++. Gemini answers from whatever comes back. No vector search, no embeddings, just structured retrieval against real records.
+The fix is a phase filter on top of the existing C++ aggregation layer. Track the over number per delivery, bucket results into Powerplay (overs 1-6), middle (7-15), and death (16-20), and return the breakdown alongside the existing stats. The pipeline and the bridge are already built. It's an extension of what's working, not a rebuild.
 ---
 
