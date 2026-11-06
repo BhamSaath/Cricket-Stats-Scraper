@@ -14,24 +14,94 @@
 
 namespace PVG
 {
-    PVGResult queryPVG(std::string namePlayer1, std::string groundName)
+    PVGResult queryPVG(std::string playerID, std::string groundName)
     {
         PVGResult result; 
         sqlite3* db; 
         sqlite3_open("allCricketMatches.db", &db);
         sqlite3_stmt* stmt;
+        groundName = "%"+groundName+"%";
         sqlite3_prepare_v2(db,
-    "SELECT match_id, matchType, batter, bowler, runs_batter, extras, wicket_kind "
-    "FROM deliveries WHERE (batter = ? OR bowler = ?) AND matchVenue = ? "
+    "SELECT match_id, matchType, batter_ID, bowler_ID, runs_batter, extras, wicket_kind "
+    "FROM deliveries WHERE (batter_ID = ? OR bowler_ID = ?) AND matchVenue LIKE ? "
     "ORDER BY match_id",
     -1, &stmt, nullptr);
-        sqlite3_bind_text(stmt,1,namePlayer1.c_str(),-1,SQLITE_STATIC);
-        sqlite3_bind_text(stmt,2,namePlayer1.c_str(),-1,SQLITE_STATIC);
+        sqlite3_bind_text(stmt,1,playerID.c_str(),-1,SQLITE_STATIC);
+        sqlite3_bind_text(stmt,2,playerID.c_str(),-1,SQLITE_STATIC);
         sqlite3_bind_text(stmt,3,groundName.c_str(),-1,SQLITE_STATIC);
         std::string lastMatchId = "";
         bool test = false;
         bool odi = false;
         bool t20 = false;
+        
+        //MATCHES COUNT
+        //ODI
+        sqlite3_stmt* countStmtOdiBowl;
+        sqlite3_prepare_v2(db,
+            "SELECT COUNT(DISTINCT match_id) FROM deliveries WHERE bowler_ID = ? AND matchVenue LIKE ? AND matchType IN ('ODI', 'ODM')",
+            -1, &countStmtOdiBowl, nullptr);
+        sqlite3_bind_text(countStmtOdiBowl, 1, playerID.c_str(), -1, SQLITE_STATIC);
+        sqlite3_bind_text(countStmtOdiBowl, 2, groundName.c_str(), -1, SQLITE_STATIC);
+        sqlite3_step(countStmtOdiBowl);
+        result.bowlingODI.totalMatchesPlayed = sqlite3_column_int(countStmtOdiBowl, 0);
+
+        sqlite3_finalize(countStmtOdiBowl);
+
+        sqlite3_stmt* countStmtOdiBat;
+        sqlite3_prepare_v2(db,
+            "SELECT COUNT(DISTINCT match_id) FROM deliveries WHERE batter_ID = ? AND matchVenue LIKE ? AND matchType IN ('ODI', 'ODM')",
+            -1, &countStmtOdiBat, nullptr);
+        sqlite3_bind_text(countStmtOdiBat, 1, playerID.c_str(), -1, SQLITE_STATIC);
+        sqlite3_bind_text(countStmtOdiBat, 2, groundName.c_str(), -1, SQLITE_STATIC);
+        sqlite3_step(countStmtOdiBat);
+        result.battingODI.totalMatchesPlayed = sqlite3_column_int(countStmtOdiBat, 0);
+
+        sqlite3_finalize(countStmtOdiBat);
+        //Tests
+        sqlite3_stmt* countStmtTestBowl;
+        sqlite3_prepare_v2(db,
+            "SELECT COUNT(DISTINCT match_id) FROM deliveries WHERE bowler_ID = ? AND matchVenue LIKE ? AND matchType IN ('MDM', 'Test')",
+            -1, &countStmtTestBowl, nullptr);
+        sqlite3_bind_text(countStmtTestBowl, 1, playerID.c_str(), -1, SQLITE_STATIC);
+        sqlite3_bind_text(countStmtTestBowl, 2, groundName.c_str(), -1, SQLITE_STATIC);
+        sqlite3_step(countStmtTestBowl);
+        result.bowlingTest.totalMatchesPlayed = sqlite3_column_int(countStmtTestBowl, 0);
+
+        sqlite3_finalize(countStmtTestBowl);
+
+        sqlite3_stmt* countStmtTestBat;
+        sqlite3_prepare_v2(db,
+            "SELECT COUNT(DISTINCT match_id) FROM deliveries WHERE batter_ID = ? AND matchVenue LIKE ? AND matchType IN ('MDM', 'Test')",
+            -1, &countStmtTestBat, nullptr);
+        sqlite3_bind_text(countStmtTestBat, 1, playerID.c_str(), -1, SQLITE_STATIC);
+        sqlite3_bind_text(countStmtTestBat, 2, groundName.c_str(), -1, SQLITE_STATIC);
+        sqlite3_step(countStmtTestBat);
+        result.battingTest.totalMatchesPlayed = sqlite3_column_int(countStmtTestBat, 0);
+
+        sqlite3_finalize(countStmtTestBat);
+        //t20s
+        sqlite3_stmt* countStmtT20Bowl;
+        sqlite3_prepare_v2(db,
+            "SELECT COUNT(DISTINCT match_id) FROM deliveries WHERE bowler_ID = ? AND matchVenue LIKE ? AND matchType IN ('T20', 'IT20')",
+            -1, &countStmtT20Bowl, nullptr);
+        sqlite3_bind_text(countStmtT20Bowl, 1, playerID.c_str(), -1, SQLITE_STATIC);
+        sqlite3_bind_text(countStmtT20Bowl, 2, groundName.c_str(), -1, SQLITE_STATIC);
+        sqlite3_step(countStmtT20Bowl);
+        result.bowlingT20.totalMatchesPlayed = sqlite3_column_int(countStmtT20Bowl, 0);
+
+        sqlite3_finalize(countStmtT20Bowl);
+
+        sqlite3_stmt* countStmtT20Bat;
+        sqlite3_prepare_v2(db,
+            "SELECT COUNT(DISTINCT match_id) FROM deliveries WHERE batter_ID = ? AND matchVenue LIKE ? AND matchType IN ('T20', 'IT20')",
+            -1, &countStmtT20Bat, nullptr);
+        sqlite3_bind_text(countStmtT20Bat, 1, playerID.c_str(), -1, SQLITE_STATIC);
+        sqlite3_bind_text(countStmtT20Bat, 2, groundName.c_str(), -1, SQLITE_STATIC);
+        sqlite3_step(countStmtT20Bat);
+        result.battingT20.totalMatchesPlayed = sqlite3_column_int(countStmtT20Bat, 0);
+
+        sqlite3_finalize(countStmtT20Bat);
+            
          while (sqlite3_step(stmt) == SQLITE_ROW) 
         {
             const char* batter = (const char*)sqlite3_column_text(stmt, 2);
@@ -47,33 +117,22 @@ namespace PVG
                 if(strcmp(matchType, "ODM") == 0 || strcmp(matchType, "ODI") == 0)
                 {
                     odi = true;
-                    if(strcmp(batter, namePlayer1.c_str()) == 0)
-                        result.battingODI.totalMatchesPlayed++;
-                    else if(strcmp(bowler, namePlayer1.c_str()) == 0)
-                        result.bowlingODI.totalMatchesPlayed++;
                 }
                 if(strcmp(matchType, "IT20") == 0 || strcmp(matchType, "T20") == 0)
                 {
                     t20 = true;
-                    if(strcmp(batter, namePlayer1.c_str()) == 0)
-                        result.battingT20.totalMatchesPlayed++;
-                    else if(strcmp(bowler, namePlayer1.c_str()) == 0)
-                        result.bowlingT20.totalMatchesPlayed++;
+                    
                 }
                 if(strcmp(matchType, "Test") == 0 || strcmp(matchType, "MDM") == 0)
                 {
                     test = true;
-                    if(strcmp(batter, namePlayer1.c_str()) == 0)
-                        result.battingTest.totalMatchesPlayed++;
-                    else if(strcmp(bowler, namePlayer1.c_str()) == 0)
-                        result.bowlingTest.totalMatchesPlayed++;
                 }
 
 
                 
                 lastMatchId = currentMatchId;
             }
-            if(strcmp(batter, namePlayer1.c_str()) == 0 )
+            if(strcmp(batter, playerID.c_str()) == 0 )
             {   
                 
                 
@@ -144,7 +203,7 @@ namespace PVG
                 
                 
             }
-            if(strcmp(bowler,namePlayer1.c_str()) == 0)
+            if(strcmp(bowler,playerID.c_str()) == 0)
             {
                 int runsOnBall = sqlite3_column_int(stmt,4);
                 int extras = sqlite3_column_int(stmt,5);
