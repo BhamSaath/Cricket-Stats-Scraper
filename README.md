@@ -145,7 +145,18 @@ Names use initials and last name: `RG Sharma`, `V Kohli`, `JJ Bumrah`. Venues us
 | Phase-based stats (Powerplay, middle, death overs) | 🔜 Coming |
 
 ---
+## Sample Output
 
+Hardik Pandya at Wankhede:
+<img width="1312" height="495" alt="Screenshot 2026-11-05 at 9 04 28 PM" src="https://github.com/user-attachments/assets/3c1873a0-fb91-4430-bb35-04c72bb7b724" />
+
+Sachin Tendulkar's 200:
+<img width="1340" height="59" alt="Screenshot 2026-11-05 at 8 59 53 PM" src="https://github.com/user-attachments/assets/3b5524ad-0139-4508-925a-249a5e8d7829" />
+
+Virat Kohli vs Trent Boult:
+<img width="1104" height="687" alt="Screenshot 2026-11-05 at 8 56 36 PM" src="https://github.com/user-attachments/assets/3ae80ede-c169-4646-a5ec-f6e5795475a4" />
+
+---
 ## What's next
 
 Right now you pick a mode from a menu. The plan is to cut that entirely and just let you type what you want:
@@ -153,3 +164,5 @@ Right now you pick a mode from a menu. The plan is to cut that entirely and just
 > "How does Rohit Sharma bat in the death overs at Wankhede?"
 
 An intent layer classifies the question, figures out which pipeline to run, builds the query struct, and fires it to C++. Gemini answers from whatever comes back. No vector search, no embeddings, just structured retrieval against real records.
+---
+
